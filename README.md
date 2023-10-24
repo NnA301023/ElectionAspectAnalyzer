@@ -3,12 +3,12 @@ Indonesian-AI Final Project aimed at providing in-depth insights into the 2024 e
 
 ## TODO's
 
-[x] Collecting Dataset
-[ ] Find Open Source Model to Enhance Insight from Dataset
-[ ] Model Integration
-[ ] Dashboard Creation
-[ ] Internal Testing
-[ ] Write Proper Project Documentation
+ - [x] Collecting Dataset
+ - [ ] Find Open Source Model to Enhance Insight from Dataset
+ - [ ] Model Integration
+ - [ ] Dashboard Creation
+ - [ ] Internal Testing
+ - [ ] Write Proper Project Documentation
 
 ## Problem Understanding
 
