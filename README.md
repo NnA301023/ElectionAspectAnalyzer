@@ -1,16 +1,24 @@
 # ElectionAspectAnalyzer
 Indonesian-AI Final Project aimed at providing in-depth insights into the 2024 election through social network analysis and sentiment assessment. We employ Social Network Analysis (SNA) and Aspect-Based Sentiment Analysis (ABSA) techniques to understand public interactions and opinions regarding the election.
 
+<div style="text-align:center">
+  <img src="pipeline-diagram-stable/interface.jpeg" alt="Dashboard Interface" />
+</div>
+
 ## TODO's
 
  - [x] Collecting Dataset
  - [x] Find Open Source Model to Enhance Insight from Dataset
  - [x] Model Integration
- - [ ] Dashboard Creation
- - [ ] Internal Testing
+ - [x] Dashboard Creation
+ - [x] Internal Testing
  - [ ] Write Proper Project Documentation
 
 ## How To Use
+
+```
+# Incoming...
+```
 
 ## Project Outcome
 Gain a comprehensive understanding of the 2024 election in Indonesia through the use of Social Network Analysis (SNA) and Aspect-Based Sentiment Analysis (ABSA) techniques.
@@ -23,8 +31,8 @@ Gain a comprehensive understanding of the 2024 election in Indonesia through the
 
 ## Features
 
- - [ ] SNA Graph 
- - [ ] Interactive QA
+ - [x] SNA Graph 
+ - [x] Interactive QA
 
 ## Technique Used
 
@@ -47,4 +55,6 @@ Gain a comprehensive understanding of the 2024 election in Indonesia through the
 ## Future Improvements
 
 Continue development MVP prorotype into mentioned diagram
-![](pipeline-diagram-stable/pipeline.png)
+<div style="text-align:center">
+  <img src="pipeline-diagram-stable/pipeline.png" alt="Dashboard Interface" />
+</div>
