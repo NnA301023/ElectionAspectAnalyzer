@@ -1,0 +1,1963 @@
+name,text,rt,id,result extraction,token usage
+prabowo,"Megawati Soekarnoputri, diyakini akan menjadikan Prabowo dan Puan Maharani, sebagai titik temu pasangan yang akan m… https://t.co/XI9E3ujgDn",0,1552261054964461568,"named_entity_recognition: [Megawati Soekarnoputri, Prabowo, Puan Maharani]
+
+aspect_sentiment: [Megawati Soekarnoputri (positive), Prabowo (neutral), Puan Maharani (neutral)]",249
+prabowo,"Diremehkan, Citra Pak @prabowo menjadi tertinggi dibandingkan calon lain. 
+@gerindra 
+Kerja Prabowo Terbukti
+Masyar… https://t.co/6o9iHjudkl",3,1551415694738313216,"named_entity_recognition: [""Prabowo"", ""gerindra""]
+aspect_sentiment: [""Citra Pak Prabowo (positive)"", ""Kerja Prabowo (positive)""]",240
+prabowo,"Dulu Tuhan disuruh menangin Prabowo atau kagak disembah lagi, sekarang si Bongek diomelin. Nganggur kagak ada kerjaan apa ya??",0,1551415694738313216,"named_entity_recognition: [Prabowo, Bongek]
+aspect_sentiment: [Tuhan (positive), menangin Prabowo (positive), disembah (negative), Bongek (negative), Nganggur (negative), kerjaan (negative)]",247
+prabowo,"@SantorinisSun Loh miss valak masih menyembah Allah kah, katanya kalau nggak memenangkan Prabowo gak ada lagi yang menyembah Allah",0,1551415694738313216,"named_entity_recognition: [""SantorinisSun"", ""Prabowo""]
+aspect_sentiment: [""miss valak (neutral)"", ""memenangkan Prabowo (positive)"", ""menyembah Allah (neutral)""]",230
+prabowo,Yth bapak Presiden republik Indonesia Ir Haji JokowiDodo @jokowi dan Yth bapak kepala kepolisian negara republik In… https://t.co/kBh5ce6rYJ,39,1552234605419237376,"named_entity_recognition: [bapak Presiden republik Indonesia Ir Haji JokowiDodo, bapak kepala kepolisian negara republik In]
+aspect_sentiment: [Yth (neutral), bapak Presiden republik Indonesia Ir Haji JokowiDodo (neutral), bapak kepala kepolisian negara republik In (neutral)]",287
+prabowo,@Dahnilanzar @prabowo Selamat Bersilat.!😁,0,1552234605419237376,"named_entity_recognition: [""Dahnilanzar"", ""prabowo""]
+aspect_sentiment: []",183
+prabowo,@Dahnilanzar @prabowo Salam buat bang @Dahnilanzar dan Bpk @prabowo juga pada seluruhnya.🙏😁,0,1552234605419237376,"named_entity_recognition: [""Dahnilanzar"", ""prabowo""]
+aspect_sentiment: []",205
+prabowo,Deklarasi Prabowo Capres Digelar Saat Rapimnas 13 Agustus #PrabowoSubianto #DeklarasiCapres #RapimnasGerindra #PKB… https://t.co/ihBPLSFaIq,0,1552234605419237376,"named_entity_recognition: [Prabowo Subianto, Rapimnas Gerindra, PKB]
+aspect_sentiment: [Deklarasi Prabowo Capres (positive), Rapimnas 13 Agustus (neutral)]",255
+prabowo,Partai Gerindra memutuskan untuk memundurkan jadwal rapimnas yang akan mendengarkan pernyataan sikap politik Prabow… https://t.co/X0Xbxx0Wzy,0,1552234605419237376,"named_entity_recognition: [Partai Gerindra, rapimnas, Prabowo]
+aspect_sentiment: [memundurkan jadwal rapimnas (negative), mendengarkan pernyataan sikap politik Prabowo (positive)]",248
+prabowo,"Megawati Soekarnoputri, diyakini akan menjadikan Prabowo dan Puan Maharani, sebagai titik temu pasangan yang akan m… https://t.co/FngQcZSQyF",0,1552234605419237376,"named_entity_recognition: [Megawati Soekarnoputri, Prabowo, Puan Maharani]
+
+aspect_sentiment: [Megawati Soekarnoputri (positive), Prabowo (neutral), Puan Maharani (neutral)]",248
+prabowo,@editya77 @rucidewa151 @tatakujiyati @jokowi @ganjarpranowo @prabowo Dapat ini https://t.co/T7wqUALm0X,0,1552234605419237376,"named_entity_recognition: [@editya77, @rucidewa151, @tatakujiyati, @jokowi, @ganjarpranowo, @prabowo]
+
+aspect_sentiment: [Dapat (positive)]",243
+prabowo,"Tayang kembali, yuk segera merapat ke Youtube @kemhan_ri.
+@prabowo 
+NgopiDaring Bela Negara
+Indonesia Emas 2045
+NKR… https://t.co/lAovFtiiY4",2,1549286666799439872,"named_entity_recognition: [""Youtube"", ""@kemhan_ri"", ""@prabowo"", ""Indonesia""]
+aspect_sentiment: [""Tayang kembali (positive)"", ""merapat ke Youtube (positive)"", ""NgopiDaring Bela Negara (positive)"", ""Indonesia Emas 2045 (positive)"", ""NKR (neutral)""]",278
+prabowo,"@TretanMuslim Pasti krna ini yg disalahkan bukan act, tp pendukung prabowo wkwkwk.
+Sama aja kelasnya kayak orng bar… https://t.co/vLVdh61RJO",0,1549286666799439872,"named_entity_recognition: [TretanMuslim, Prabowo]
+aspect_sentiment: [disalahkan (negative), pendukung prabowo (positive), kelasnya (negative)]",236
+prabowo,"Kapolri Jenderal Listyo Sigit Prabowo mengatakan, tim khusus sedang bekerja dalam menuntaskan kasus kematian Brigad… https://t.co/HeQSr7P4Ft",1,1552476373855244289,"named_entity_recognition: [Kapolri Jenderal Listyo Sigit Prabowo, Brigad]
+aspect_sentiment: [tim khusus (positif), kasus kematian (negatif)]",239
+prabowo,@cendanao @rucidewa151 @tatakujiyati @jokowi @ganjarpranowo Kalau pemilih bodoh..ga mungkin milih 01 dapetnya 02 sk… https://t.co/wqUZnyKeSD,0,1552476373855244289,"named_entity_recognition: [@cendanao, @rucidewa151, @tatakujiyati, @jokowi, @ganjarpranowo, 01, 02]
+
+aspect_sentiment: [pemilih (negative), milih (positive), dapetnya (positive)]",269
+prabowo,"Terserah Mbak Puan, anggaplah pertama kali ingin bertemu Pak Prabowo, tetap hari ini Pak Prabowonya sibuk, bagaiman… https://t.co/AIcnH7ezu6",0,1552476373855244289,"named_entity_recognition: [Mbak Puan, Pak Prabowo]
+aspect_sentiment: [bertemu (positive), sibuk (negative)]",228
+prabowo,"Ngopi daring tayang siang ini di Youtube @kemhan_RI, segera nonton! 
+@prabowo 
+NgopiDaring Bela Negara
+Merajut Pres… https://t.co/k4FiZ8PaYZ",2,1551476092749447168,"named_entity_recognition: [""kemhan_RI"", ""prabowo""]
+aspect_sentiment: [""Ngopi daring (positive)"", ""Youtube (positive)"", ""Nonton (positive)"", ""NgopiDaring Bela Negara (positive)"", ""Merajut Pres (positive)""]",261
+prabowo,"Guys para anak berprestasi bangsa hadir di ngopi daring, segera ke Youtube @kemhan_RI sekarang! 
+
+@prabowo 
+NgopiDa… https://t.co/nytErVsKUp",1,1551476092871081985,"named_entity_recognition: [""Guys"", ""anak berprestasi bangsa"", ""Youtube"", ""@kemhan_RI"", ""@prabowo"", ""NgopiDa""]
+
+aspect_sentiment: [""anak berprestasi bangsa (positive)"", ""Youtube (@kemhan_RI) (neutral)"", ""@prabowo (neutral)"", ""NgopiDa (neutral)""]",279
+prabowo,"Cebong vs Kadrun itu ibarat air dan minyak.
+ Semoga di tahun 2024 bisa menyatu bagaikan Pak Jokowi dan Pak Prabowo… https://t.co/tsJT5V0054",1,1552471174113660928,"named_entity_recognition: [Pak Jokowi, Pak Prabowo]
+aspect_sentiment: [menyatu (positive)]",220
+prabowo,"Ngopi daring tayang kembali nih siang ini, segera ke Youtube @kemhan_RI.
+@prabowo 
+NgopiDaring Bela Negara
+Merajut… https://t.co/nRwYkgjiI4",2,1551476092829057026,"named_entity_recognition: [""Ngopi daring"", ""Youtube"", ""@kemhan_RI"", ""@prabowo""]
+aspect_sentiment: [""Ngopi daring (positive)"", ""Youtube (neutral)"", ""@kemhan_RI (neutral)"", ""@prabowo (neutral)""]",258
+prabowo,"Rapimnas Gerindra Diundur, Deklarasi Prabowo Capres Ikut Mundur? https://t.co/rhrQNw6bYT",0,1551476092829057026,"named_entity_recognition: [Gerindra, Prabowo]
+aspect_sentiment: [Rapimnas (neutral), Deklarasi Prabowo Capres (negative)]",216
+prabowo,@pxddy @SpaceRiders_NFT @Burpss88 @endrowphin @MetaRepublikNFT @almostcliff @metaverseidiot @NATOSHISAKA… https://t.co/FA9TR4QkAs,0,1551476092829057026,"named_entity_recognition: [@pxddy, @SpaceRiders_NFT, @Burpss88, @endrowphin, @MetaRepublikNFT, @almostcliff, @metaverseidiot, @NATOSHISAKA]
+
+aspect_sentiment: [Ekstraksi informasi tidak dapat dilakukan karena komentar tidak mengandung verb atau noun-phrase yang dapat diidentifikasi]",283
+prabowo,@Dahnilanzar @prabowo oh,0,1551476092829057026,"named_entity_recognition: [@Dahnilanzar, @prabowo]
+aspect_sentiment: []",176
+prabowo,"Nahkodai PERDAMSI, Ini Harapan dr Bobi Prabowo Tiga Tahun Kedepan
+
+#Emergency
+#EmergencyMedicine
+#perdamsi
+#kkei… https://t.co/PeswZCeW1c",0,1551476092829057026,"named_entity_recognition: [PERDAMSI, Bobi Prabowo]
+aspect_sentiment: [Nahkodai (positive), Harapan (positive), Tiga Tahun Kedepan (neutral)]",248
+prabowo,"Cebong vs Kadrun itu ibarat air dan minyak.
+ Semoga di tahun 2024 bisa menyatu bagaikan Pak Jokowi dan Pak Prabowo… https://t.co/tsJT5V0054",1,1551476092829057026,"named_entity_recognition: [Pak Jokowi, Pak Prabowo]
+aspect_sentiment: [menyatu (positive)]",220
+prabowo,"@KomnasHAM 
+@muhammadiyah 
+@Kota_Tangerang 
+@pemkotbekasi 
+
+Salah 1 FAKTOR PerCERAIAN/BerPISAH Adalah FAKTOR EKONOM… https://t.co/oghHcltRTL",1,1534189513479598080,"named_entity_recognition: [@KomnasHAM, @muhammadiyah, @Kota_Tangerang, @pemkotbekasi]
+
+aspect_sentiment: [FAKTOR EKONOM (negative)]",254
+prabowo,"@Kota_Tangerang
+@kotabogor 
+@pemkotbekasi 
+
+SOSOK&amp;INDIVIDU saya:SANGAT TIDAK berHARAP:Si BAJINGAN&lt;Bayi Jemb*t'ten&gt;… https://t.co/PEV9hnFeck",1,1534830699697831936,"named_entity_recognition: [SANGAT TIDAK berHARAP, Si BAJINGAN, Bayi Jemb*t'ten]
+aspect_sentiment: [SOSOK (negative), INDIVIDU (negative)]",263
+prabowo,@Notchippyy @MoonrunnersNFT Thanks for kindness ❤,0,1534830699697831936,"named_entity_recognition: [""@Notchippyy"", ""@MoonrunnersNFT""]
+aspect_sentiment: [kindness (positive)]",187
+prabowo,President Federasi Silat Dunia @prabowo menyampaikan pidato pada Pembukaan kejuaraan pencak silat dunia di Melaka-M… https://t.co/o7mHTTfI2n,26,1552119372952453121,"named_entity_recognition: [President Federasi Silat Dunia, @prabowo, Pembukaan kejuaraan pencak silat dunia, Melaka-M]
+
+aspect_sentiment: [President Federasi Silat Dunia (positive), pidato (neutral), Pembukaan kejuaraan pencak silat dunia (positive), Melaka-M (neutral)]",271
+prabowo,@SeruniPuspaAlam @jokowi Dukung Prabowo Subianto,0,1552119372952453121,"named_entity_recognition: [""Prabowo Subianto"", ""SeruniPuspaAlam"", ""jokowi""]
+aspect_sentiment: []",196
+prabowo,@msaid_didu Pilih Prabowo,0,1552119372952453121,"named_entity_recognition: [Prabowo]
+
+aspect_sentiment: [Pilih (positive)]",174
+prabowo,@supriatna_sh @SultanZulu20 @ChusnulCh__ @Dennysiregar7 @CutSarina5 @AgusBudiWasono1 @AsliLucuBanget… https://t.co/yJtzDEk4OB,0,1552234605419237376,"named_entity_recognition: [@supriatna_sh, @SultanZulu20, @ChusnulCh__, @Dennysiregar7, @CutSarina5, @AgusBudiWasono1, @AsliLucuBanget]
+
+aspect_sentiment: [Ekstraksi tidak dapat dilakukan karena komentar tidak mengandung verb atau noun-phrase yang dapat diidentifikasi]",292
+prabowo,@prabowo gmn ini pak? https://t.co/0R24TFda9M,0,1552234605419237376,"named_entity_recognition: [""@prabowo""]
+aspect_sentiment: []",180
+prabowo,@clarinats Sorry ya lama kemarin tbtb pak prabowo borong risol https://t.co/0IDk2yZJbf,0,1552234605419237376,"named_entity_recognition: [""clarinats"", ""prabowo""]
+aspect_sentiment: [""lama (negative)"", ""kemarin (neutral)"", ""tbtb (neutral)"", ""pak prabowo (neutral)"", ""risol (neutral)""]",230
+prabowo,"Guys ngopi daring kedatangan para anak berprestasi nih, yuk segera ke Youtube @kemhan_RI.
+@prabowo 
+NgopiDaring Bel… https://t.co/LE7CvAsmiP",2,1551476092845842433,"named_entity_recognition: [""Guys"", ""Youtube"", ""@kemhan_RI"", ""@prabowo""]
+aspect_sentiment: [""ngopi daring (positive)"", ""anak berprestasi (positive)""]",244
+prabowo,"Pak @prabowo mendapatkan persepsi positif capai 62,8%.
+@gerindra 
+Kerja Prabowo Terbukti
+Masyarakat Makin Percaya
+M… https://t.co/uxDOAHZPLj",3,1551415694733893632,"named_entity_recognition: [""@prabowo"", ""@gerindra""]
+aspect_sentiment: [""persepsi positif (positive)"", ""Kerja Prabowo Terbukti (positive)"", ""Masyarakat Makin Percaya (positive)""]",253
+prabowo,"Catat nih, Pak Prabowo menduduki tempat dipuncak di antara sejumlah nama capres yang dilihat saat ini.
+@prabowo… https://t.co/UFR2GlYD9j",2,1551415694880677891,"named_entity_recognition: [Pak Prabowo]
+aspect_sentiment: [menduduki tempat (positif)]",220
+prabowo,"@Dahnilanzar @prabowo Kl pengkhianat,  diangkat gimana pun tetap orang akan ingat",0,1551415694880677891,"named_entity_recognition: [""@Dahnilanzar"", ""@prabowo""]
+aspect_sentiment: []",195
+prabowo,"Top News Koran Rakyat Merdeka
+
+Mau Bikin Piagam Deklarasi
+Prabowo Dan Cak Imin Kok Belum Juga Dikawinin Nih
+
+https://t.co/Vz02sqTwfF",0,1551415694880677891,"named_entity_recognition: [Prabowo, Cak Imin, Koran Rakyat Merdeka]
+aspect_sentiment: [Bikin Piagam Deklarasi (positive)]",238
+prabowo,"@Paltiwest Makanya saya bilang justru itu wajah asli nasdem..
+Nasionalis hanya jargon doank.
+
+Dulu banget banyak si… https://t.co/InyBCegvs5",0,1551415694880677891,"named_entity_recognition: [Nasdem (ORGANIZATION)]
+
+aspect_sentiment: [wajah asli nasdem (positive), Nasionalis (negative)]",228
+prabowo,"@Dahnilanzar @prabowo Jabatan ini mulia bapak
+Daripada politik di negeri ini",0,1552234605419237376,"named_entity_recognition: [""@Dahnilanzar"", ""@prabowo""]
+aspect_sentiment: [""Jabatan ini (positive)""]",202
+prabowo,"@TheApeList_ @adutchbro @SaphireNFT @Burpss88
+ 
+@Andytjitra2708
+ 
+@Reilly_Prabowo",0,1552234605419237376,"named_entity_recognition: [@TheApeList_, @adutchbro, @SaphireNFT, @Burpss88, @Andytjitra2708, @Reilly_Prabowo]
+
+aspect_sentiment: [Tidak ada aspect yang dapat diidentifikasi dalam komentar ini]",242
+prabowo,"Citra positif Pak @prabowo kian meroket ditengah dapatkan komentar negatif. 
+@gerindra 
+Kerja Prabowo Terbukti
+Masy… https://t.co/puLVrf8pjT",2,1551415695098818561,"named_entity_recognition: [""@prabowo"", ""@gerindra""]
+aspect_sentiment: [""Citra positif (positive)"", ""Kerja Prabowo Terbukti (positive)""]",242
+prabowo,"Pak @prabowo diremehkan, citra positif naik menjadi yang tertinggi. 
+@gerindra 
+Kerja Prabowo Terbukti
+Masyarakat M… https://t.co/R24w3AStjR",2,1551415695250014209,"named_entity_recognition: [""@prabowo"", ""@gerindra""]
+aspect_sentiment: [""Pak @prabowo (positive)"", ""citra positif (positive)"", ""Kerja Prabowo (positive)""]",249
+prabowo,"Publik menilai Pak @prabowo menjadi Menteri dengan kinerja terbaik. 
+@gerindra
+Prabowo Selalu Teratas
+Gerindra Sumb… https://t.co/mgc6eX3dSA",2,1549633954465976321,"named_entity_recognition: [""Prabowo"", ""Gerindra""]
+
+aspect_sentiment: [""Menteri (positive)"", ""kinerja (positive)"", ""Prabowo (positive)"", ""Gerindra (positive)""]",246
+prabowo,"Yuk segera ke Youtube @kemhan_RI, kehadiran anak-anak berprestasi nih 👍
+
+@prabowo 
+NgopiDaring Bela Negara
+Merajut… https://t.co/q8hsceKqNb",1,1551476092795588608,"named_entity_recognition: [""Youtube"", ""@kemhan_RI"", ""anak-anak"", ""Prabowo""]
+aspect_sentiment: [""Yuk segera ke Youtube (positive)"", ""kehadiran anak-anak berprestasi (positive)"", ""NgopiDaring Bela Negara (neutral)"", ""Merajut (neutral)""]",277
+prabowo,@TardWithAHardR @Nftzakcrypto @ThePlagueNFT @Burpss88 @EricEdiputra @almostcliff,0,1551476092795588608,"named_entity_recognition: [""@TardWithAHardR"", ""@Nftzakcrypto"", ""@ThePlagueNFT"", ""@Burpss88"", ""@EricEdiputra"", ""@almostcliff""]
+
+aspect_sentiment: [Tidak ada aspect sentiment yang dapat diidentifikasi dalam komentar tersebut]",241
+prabowo,"2k followers. Thank you! Let’s celebrate with a no ragrets giveaway. 
+
+To win:
+🐸 Follow @TardWithAHardR &amp;… https://t.co/OXRk2B93yR",65,1552458234065088512,"named_entity_recognition: [""@TardWithAHardR""]
+
+aspect_sentiment: [""2k followers (positive)"", ""no ragrets giveaway (positive)""]",226
+prabowo,Gerindra Undur Rapimnas Pengumuman Prabowo Capres karena Ada Kendala https://t.co/XRTlqtE1s3,0,1552458234065088512,"named_entity_recognition: [Gerindra, Rapimnas, Prabowo]
+aspect_sentiment: [Undur (negative), Pengumuman (neutral), Kendala (negative)]",215
+prabowo,@prabowo @Gerindra Semoga bapak @prabowo dpt segera merespon saya... terima kasih pak.. maju terus Gerindra,0,1552458234065088512,"named_entity_recognition: [""@prabowo"", ""@Gerindra"", ""Gerindra""]
+aspect_sentiment: [""merespon (positive)"", ""majuterus Gerindra (positive)""]",226
+prabowo,"Elektabilitas Pak @prabowo teratas pada survei pilpres mendatang. 
+@gerindra
+Prabowo Selalu Teratas
+Gerindra Sumbu… https://t.co/jQNrE4yzKz",2,1549634709424160768,"named_entity_recognition: [""Prabowo"", ""Gerindra""]
+aspect_sentiment: [""Elektabilitas (positive)"", ""survei pilpres (positive)"", ""Gerindra (positive)""]",241
+prabowo,Gerindra Undur Rapimnas Pengumuman Prabowo Capres karena Ada Kendala https://t.co/sy5YwStVS9,0,1549634709424160768,"named_entity_recognition: [Gerindra, Prabowo]
+aspect_sentiment: [Undur (negative), Rapimnas (neutral), Pengumuman (neutral), Prabowo (neutral), Capres (neutral), Kendala (negative)]",228
+prabowo,"1x @MooncatzNFT Giveaway
+
+How to Enter:
+✅Like + RT
+✅Follow @enzosanti93 x @MooncatzNFT 
+
+Winners in 48 hours ⏰… https://t.co/uwGMWJNRYN",239,1552425072706854912,"named_entity_recognition: [""@MooncatzNFT"", ""@enzosanti93"", ""@MooncatzNFT""]
+aspect_sentiment: [""Giveaway (positive)"", ""Enter (neutral)"", ""Like (positive)"", ""RT (positive)"", ""Follow (positive)"", ""Winners (positive)"", ""48 hours (neutral)""]",272
+prabowo,"@detikcom Tau kan kenapa skrg, saat Pilpres kmren Pak Jokowi pilih Pak Ma'aruf Amin sbg Wapresnya. Karena org MUI i… https://t.co/NgVE1ASb77",0,1552425072706854912,"named_entity_recognition: [Pak Jokowi, Pak Ma'aruf Amin, MUI]
+aspect_sentiment: [Pak Jokowi (positive), Pak Ma'aruf Amin (positive), MUI (neutral)]",248
+prabowo,@mop_eth @afarfromhomie @SpaceRiders_NFT @alienfrens @HowittFlynn @TheGhilliesNFT @littlebrain1000 @EricEdiputra @Burpss88 @almostcliff,0,1552425072706854912,"named_entity_recognition: [""@mop_eth"", ""@afarfromhomie"", ""@SpaceRiders_NFT"", ""@alienfrens"", ""@HowittFlynn"", ""@TheGhilliesNFT"", ""@littlebrain1000"", ""@EricEdiputra"", ""@Burpss88"", ""@almostcliff""]
+
+aspect_sentiment: [No aspect or sentiment identified]",272
+prabowo,"🎁 #NFTGiveaway 🎁
+Giving back to those who got us here ❤️
+
+1 @spaceriders_nft #3674
+1 @alienfrens (AFE) #2857
+
+🏆 2 w… https://t.co/4oOBE2cwJw",169,1552452021063938049,"named_entity_recognition: [""spaceriders_nft"", ""alienfrens"", ""AFE""]
+
+aspect_sentiment: [""Giving back (positive)"", ""those who got us here (positive)""]",248
+prabowo,@Gerindra Prabowo presiden,0,1552452021063938049,"named_entity_recognition: [""Gerindra"" (ORGANIZATION), ""Prabowo"" (PERSON)]
+aspect_sentiment: [presiden (positive)]",185
+prabowo,@Dahnilanzar @prabowo Kesampaian jadi president walaupun jadi president silat...!!!,0,1552452021063938049,"named_entity_recognition: [""Dahnilanzar"", ""prabowo""]
+aspect_sentiment: [""jadi president (positive)"", ""jadi president silat (negative)""]",206
+prabowo,@prabowo @Gerindra Selamat pagi pak @prabowo saya mohon maaf sebelumnya ekonomi saya tidak terlalu bagus saat ini..… https://t.co/HZOcwFg0gM,0,1552452021063938049,"named_entity_recognition: [""@prabowo"", ""@Gerindra""]
+
+aspect_sentiment: [ekonomi (negatif)]",222
+prabowo,"Kapolri Jenderal Listyo Sigit Prabowo mengatakan, akan menyampaikan hasil ekshumasi atau autopsi ulang jenazah Brig… https://t.co/bZqRVqI5vt",0,1552452021063938049,"named_entity_recognition: [Kapolri Jenderal Listyo Sigit Prabowo, Brig]
+aspect_sentiment: [ekshumasi (positif), autopsi ulang (positif)]",238
+prabowo,Prabowo Subianto Kembali Dipercaya Jadi Presiden Persilat https://t.co/B6Q2kSHF1e #qq288today #prediksipertandingan… https://t.co/ho41cXRmSt,1,1552096068682203136,"named_entity_recognition: [Prabowo Subianto, Persilat, qq288today]
+aspect_sentiment: [Prabowo Subianto (positive), Presiden Persilat (positive)]",241
+prabowo,Cc Pak @prabowo https://t.co/WMZTQOZyjL,0,1552234605419237376,"named_entity_recognition: [""@prabowo""]
+
+aspect_sentiment: []",180
+prabowo,"ehemmm, jgn kan prabowo ajan dia khianati, ,sejarah bangsa aja diperkosa sm dia tuh https://t.co/YchF5LLAQv https://t.co/2MTtHTRGJr",15,1547065379087757312,"named_entity_recognition: [Prabowo, dia]
+aspect_sentiment: [khianati (negative), sejarah bangsa (negative)]",232
+prabowo,"We asked the Scholars which project we should giveaway and the @GamingApeClub absolutely dominated 👀🤯
+
+Giving away… https://t.co/f7rzLTYyxA",32,1552453123087671302,"named_entity_recognition: [""Scholars"", ""@GamingApeClub""]
+aspect_sentiment: [""asked (neutral)"", ""giveaway (positive)"", ""dominated (positive)""]",222
+prabowo,@Dahnilanzar @prabowo Tetep fokus pak anis di 2024,0,1552234605419237376,"named_entity_recognition: [@Dahnilanzar, @prabowo, pak anis]
+aspect_sentiment: [fokus (positive)]",195
+prabowo,@WellermenNFT @JohnnyDeppNFT @capbartholomew @CaptJamesETH @capt_davy @CaptainOneleg @Burpss88 @GregoriusGerar7 @OP_1579,0,1552234605419237376,"named_entity_recognition: [""@WellermenNFT"", ""@JohnnyDeppNFT"", ""@capbartholomew"", ""@CaptJamesETH"", ""@capt_davy"", ""@CaptainOneleg"", ""@Burpss88"", ""@GregoriusGerar7"", ""@OP_1579""]
+
+aspect_sentiment: []",257
+prabowo,"A toast to our collab with @JohnnyDeppNFT and hereby present Ye Captain Jack Sparrow 🏴‍☠️
+He be givin' away:
+
+~ 1 W… https://t.co/FBfujIfORm",406,1552184201658654720,"named_entity_recognition: [""JohnnyDeppNFT"", ""Ye Captain Jack Sparrow""]
+
+aspect_sentiment: [""collab (positive)"", ""toast (positive)"", ""present (positive)"", ""givin' away (positive)""]",247
+prabowo,"@fadhilChaniagoo @mohmahfudmd Pilpres 2019
+- CEBONG julukan pendukung jokowi
+- KAMPRET julukan pendukung Prabowo
+-… https://t.co/7v3F8017qH",1,1552264259299487744,"named_entity_recognition: [PERSON: fadhilChaniagoo, mohmahfudmd]
+aspect_sentiment: [CEBONG (negative), KAMPRET (negative)]",245
+prabowo,@8sianNFT @sad_girls_bar @EricEdiputra @mrfernando88,0,1552264259299487744,"named_entity_recognition: [@8sianNFT, @sad_girls_bar, @EricEdiputra, @mrfernando88]
+
+aspect_sentiment: [tidak ada aspect yang dapat diidentifikasi]",211
+prabowo,"✨8SIAN x Sad Girls Bar✨
+
+We've collaborated with our HUG frens @sad_girls_bar and are giving away these charming Sa… https://t.co/bdxT3uOIa9",94,1552368228998971397,"named_entity_recognition: 
+- 8SIAN
+- Sad Girls Bar
+
+aspect_sentiment: 
+- collaborated (positive)
+- giving away (positive)
+- charming (positive)",229
+prabowo,@pxddy @Reilly_Prabowo @SpaceRiders_NFT @csmithSEC @wdzy_official @GraceNiMhaille,0,1552368228998971397,"named_entity_recognition: [""@pxddy"", ""@Reilly_Prabowo"", ""@SpaceRiders_NFT"", ""@csmithSEC"", ""@wdzy_official"", ""@GraceNiMhaille""]
+
+aspect_sentiment: []",220
+prabowo,Kapolri Jenderal Pol. Listyo Sigit Prabowo meminta dukungan seluruh masyarakat untuk ikut mengawasi proses pengungk… https://t.co/ui4IjMdUto,3,1552256940851752960,"named_entity_recognition: [Kapolri Jenderal Pol. Listyo Sigit Prabowo]
+aspect_sentiment: [mengawasi (positive)]",225
+prabowo,@GoingToZero_NFT @wagmiarmynft @mrfernando88 @Burpss88 @EricEdiputra,0,1552256940851752960,"named_entity_recognition: [""@GoingToZero_NFT"", ""@wagmiarmynft"", ""@mrfernando88"", ""@Burpss88"", ""@EricEdiputra""]
+
+aspect_sentiment: [Tidak ada aspect sentiment yang dapat diidentifikasi dari komentar tersebut]",230
+prabowo,"WE HAVE PARTNERED UP WITH @wagmiarmynft TOGETHER WE WILL BE UNSTOPPABLE! 
+TO GIVEAWAY x2 TROOPS
+FOLLOW -… https://t.co/aept21AXlp",921,1552385725156298752,"named_entity_recognition: [""@wagmiarmynft""]
+
+aspect_sentiment: [""partnered (positive)"", ""unstoppable (positive)"", ""giveaway (positive)""]",233
+prabowo,@SabianNFT https://t.co/IHoE6vn1oU,0,1552385725156298752,"named_entity_recognition: [SabianNFT]
+
+aspect_sentiment: [Tidak ada aspect yang dapat diidentifikasi dalam komentar tersebut]",190
+prabowo,"$1,200 #ETH ✨
+
+Like, RT &amp; Follow Me @SabianNFT 
+Show proof of notifications 
+
+Winner announced in 24 hours.",728,1552420087726018560,"named_entity_recognition: [SabianNFT]
+
+aspect_sentiment: [Follow (positive)]",197
+prabowo,@pxddy @SpaceRiders_NFT @Burpss88 @almostcliff @yanbudyo,0,1552420087726018560,"named_entity_recognition: [@pxddy, @SpaceRiders_NFT, @Burpss88, @almostcliff, @yanbudyo]
+
+aspect_sentiment: [Tidak ada aspect sentiment yang dapat diidentifikasi dalam komentar tersebut]",217
+prabowo,"Giveaway time! 
+
+To win this @SpaceRiders_NFT :
+
+→ Follow @pxddy &amp; @SpaceRiders_NFT 
+→ Like + RT 
+→ Tag a friend
+
+U… https://t.co/DKRHG2NIri",416,1552405663132835840,"named_entity_recognition: [""@SpaceRiders_NFT"", ""@pxddy""]
+aspect_sentiment: [""Giveaway (positive)"", ""win (positive)"", ""Follow (positive)"", ""Like (positive)"", ""RT (positive)"", ""Tag (neutral)""]",249
+prabowo,@sad_girls_bar @Reilly_Prabowo @8sianNFT Oh my gah!!! FINALLY someone is doing an AMAZING giveaway. Thank you for t… https://t.co/8fuxGAE1bY,0,1552405663132835840,"named_entity_recognition: [@sad_girls_bar, @Reilly_Prabowo, @8sianNFT]
+
+aspect_sentiment: [giveaway (positive)]",230
+prabowo,@ArizaPatria Pak @prabowo .ini anak buah Bpk,0,1552405663132835840,"named_entity_recognition: [""@ArizaPatria"", ""@prabowo""]
+aspect_sentiment: [""anak buah (positive)""]",192
+prabowo,"Mahrus Ali Pimpin PAC Partai Gerindra Brondong
+
+___
+
+@prabowo PRESIDEN
+@Gerindra MENANG
+
+#gerindra #prabowo… https://t.co/csQbDTMLLk",0,1552405663132835840,"named_entity_recognition: [""Mahrus Ali"", ""PAC Partai Gerindra"", ""Gerindra""]
+
+aspect_sentiment: [""Mahrus Ali Pimpin PAC Partai Gerindra Brondong"" (positive), ""Prabowo PRESIDEN"" (positive), ""Gerindra MENANG"" (positive)]",268
+prabowo,@sad_girls_bar @8sianNFT @Burpss88 @EricEdiputra,0,1552405663132835840,"named_entity_recognition: [@sad_girls_bar, @8sianNFT, @Burpss88, @EricEdiputra]
+aspect_sentiment: [tidak ada aspect yang dapat diidentifikasi]",211
+prabowo,"✨GIVEAWAY!✨  
+
+You can win Sad Girl #6167 and 8sian #8371
+
+🖤Like &amp; RT
+🖤Follow @sad_girls_bar &amp; @8sianNFT 
+🖤Tag 2 fr… https://t.co/n3mYwk2BhR",178,1552368222837608448,"named_entity_recognition: [""Sad Girl #6167"", ""8sian #8371"", ""@sad_girls_bar"", ""@8sianNFT""]
+
+aspect_sentiment: [""win (positive)"", ""Like & RT (positive)"", ""Follow @sad_girls_bar & @8sianNFT (positive)"", ""Tag 2 fr (neutral)""]",298
+prabowo,@Crypto_P0ny @memeland @Burpss88 @GregoriusGerar7 @OP_1579,0,1552368222837608448,"named_entity_recognition: [""Crypto_P0ny"", ""memeland"", ""Burpss88"", ""GregoriusGerar7"", ""OP_1579""]
+
+aspect_sentiment: [Tidak ada aspect yang dapat diidentifikasi dalam komentar ini]",222
+puan,"Puji Puan Maharani, Megawati sebut perempuan bisa memimpin. https://t.co/7K4XeiL71h Waktunya Puan Maharani",0,1552368222837608448,,0
+puan,"keren nih Bu Puan sebagai ketua DPR 👏
+Waktunya Puan Maharani https://t.co/cNGb2N6k6r",0,1552368222837608448,"named_entity_recognition: [Bu Puan, Puan Maharani]
+aspect_sentiment: [ketua DPR (positive)]",204
+puan,Mandat politik dinilai sebagai pesan Mega ke Puan untuk persiapan maju capres. https://t.co/ZzsTaoXiKb Waktunya Puan Maharani,0,1552368222837608448,"named_entity_recognition: [Mega, Puan Maharani]
+aspect_sentiment: [Mandat politik (positif), pesan Mega ke Puan untuk persiapan maju capres (positif), Waktunya Puan Maharani (netral)]",243
+puan,"Kualitas kepemimpinan Puan Maharani hasil pengkaderan, Puan dinilai memenuhi kriteria seorang pemimpin karena ditem… https://t.co/KRuTHdDY8Z",0,1552368222837608448,"named_entity_recognition: [Puan Maharani]
+
+aspect_sentiment: [kualitas kepemimpinan (positif)]",218
+puan,"Alahai, kata kat orang dia pun dua kali lima. Siti dengan sayidati tu gelaran hormat yang sama: puan. Untuk lelaki,… https://t.co/yNejL3a8jK",200,1552268285047017472,"named_entity_recognition: [Siti, sayidati, puan]
+
+aspect_sentiment: [kata kat (negative), orang (neutral), dia (neutral), dua kali lima (neutral), Siti (neutral), sayidati (neutral), puan (neutral), lelaki (neutral)]",258
+puan,Ada pesan khusus dari Mega ke Puan untuk datang ke parpol lain dan mempersiapkan  diri untuk Pilpres 2024.… https://t.co/GgecPTO5Fk,0,1552268285047017472,"named_entity_recognition: [Mega, Puan, Pilpres 2024]
+aspect_sentiment: [pesan (positif), datang (netral), parpol (netral), mempersiapkan diri (positif)]",239
+puan,Mandat Megawati ke Puan Maharani dinilai pesan mempersiapkan diri di Pilpres. https://t.co/Dvc3uU9cYP Waktunya Puan Maharani,0,1552268285047017472,"named_entity_recognition: [""Megawati"", ""Puan Maharani"", ""Pilpres""]
+
+aspect_sentiment: [""Mandat (positive)"", ""Pesan (positive)"", ""Mempersiapkan diri (positive)"", ""Waktunya (positive)""]",246
+puan,Megawati memuji Puan Maharani karena mampu menjadi pemimpin IPU di Bali beberapa waktu lalu. https://t.co/7EfiFjmsfp Waktunya Puan Maharani,0,1552268285047017472,"named_entity_recognition: [""Megawati"", ""Puan Maharani"", ""IPU"", ""Bali""]
+
+aspect_sentiment: [""memuji (positive)"", ""menjadi pemimpin (positive)"", ""Waktunya (positive)""]",242
+puan,Megawati dinilai mengirim sinyal kuat bahwa Puan Maharani adalah kandidat calon presiden yang nantinya akan diusung… https://t.co/Rc3YWvLdxU,0,1552268285047017472,"named_entity_recognition: [Megawati, Puan Maharani]
+aspect_sentiment: [mengirim sinyal (positif), kandidat calon presiden (netral), diusung (positif)]",239
+puan,Megawati mengapresiasi Puan Maharani yang mampu menjadi ketua sidang IPU ke-144 di Bali. https://t.co/78DqxJRFkw Waktunya Puan Maharani,0,1552268285047017472,"named_entity_recognition: [""Megawati"", ""Puan Maharani"", ""IPU"", ""Bali""]
+
+aspect_sentiment: [""mengapresiasi (positive)"", ""menjadi ketua sidang IPU ke-144 di Bali (positive)"", ""Waktunya Puan Maharani (positive)""]",256
+puan,Kewenangan untuk memutuskan pencalonan Puan Maharani di Pilpres 2024 berada di tangan Ketua Umum Ibu Megawati Soeka… https://t.co/5OukK57m23,0,1552268285047017472,"named_entity_recognition: [""Puan Maharani"", ""Ketua Umum"", ""Ibu Megawati Soekarnoputri""]
+
+aspect_sentiment: [""memutuskan pencalonan (positive)"", ""Pilpres 2024 (neutral)"", ""Ketua Umum (positive)"", ""Ibu Megawati Soekarnoputri (positive)""]",276
+puan,ABD Merkez Bankası mart ayından itibaren yaklaşık 225 puan faiz artırdı. Enflasyondaki artış devam ediyor. FED Başk… https://t.co/XZqHmkef1s,14,1552417747589529600,"named_entity_recognition: [ABD Merkez Bankası, FED Başk]
+
+aspect_sentiment: [faiz artırdı (positif), Enflasyondaki artış (negatif)]",247
+puan,"Karakter Puan Maharani mirip dengan Megawati, Puan dinilai mewarisi kepemimpinan ibunya dan dinilai mampu mewakili… https://t.co/flA90ckI2y",0,1552417747589529600,"named_entity_recognition: [Puan Maharani, Megawati]
+aspect_sentiment: [Karakter Puan Maharani (positive), kepemimpinan ibunya (positive), mewakili (positive)]",242
+puan,Politisi PDIP ungkap Puan Maharani jadi calon presiden 2024 yang dipilih Megawati. https://t.co/k9gUpFKsbq Waktunya Puan Maharani,0,1552417747589529600,"named_entity_recognition: [""Politisi PDIP"", ""Puan Maharani"", ""Megawati""]
+aspect_sentiment: [""ungkap (positive)"", ""jadi calon presiden 2024 (neutral)"", ""dipilih (positive)"", ""Waktunya Puan Maharani (positive)""]",251
+puan,Puan Maharani berpeluang untuk dipilih Megawati menjadi calon presiden 2024. https://t.co/hrQAqoenun Waktunya Puan Maharani,0,1552417747589529600,"named_entity_recognition: [Puan Maharani, Megawati]
+aspect_sentiment: [Puan Maharani (positive), dipilih Megawati (positive), calon presiden 2024 (neutral)]",227
+puan,"Jokowi dan megawati dipercaya sama-sama mendukung Puan Maharani. Tidak hanya kedua tokoh penting tersebut, PDIP jug… https://t.co/3DfymvfJyJ",0,1552417747589529600,"named_entity_recognition: [Jokowi, Megawati, Puan Maharani, PDIP]
+aspect_sentiment: [mendukung (positive)]",226
+puan,"setuju si sama Bu Puan, DPR emang harus transparan terkait draf RKUHP
+Waktunya Puan Maharani https://t.co/XBIObGBKjp",0,1552417747589529600,"named_entity_recognition: [Bu Puan, DPR, RKUHP, Puan Maharani]
+aspect_sentiment: [DPR (positive), transparan (positive), draf RKUHP (neutral), Puan Maharani (positive)]",237
+puan,"Puan Maharani bersama Megawati Soekarnoputri, memberi semangat para kader PDI Perjuangan menjelang Rakernas.… https://t.co/EGLOLfApaI",0,1552417747589529600,"named_entity_recognition: [Puan Maharani, Megawati Soekarnoputri, PDI Perjuangan, Rakernas]
+aspect_sentiment: [bersama (positive), memberi semangat (positive), para kader PDI Perjuangan (positive), menjelang Rakernas (neutral)]",260
+puan,"Perintah Megawati, Puan Maharani harus menemui para ketum parpol untuk menjajaki kerja sama PDIP menjelang pemilu 2… https://t.co/ZFvpP8pc6l",0,1552417747589529600,"named_entity_recognition: [Megawati, Puan Maharani, PDIP, pemilu 2]
+aspect_sentiment: [Perintah (positive), menemui (neutral), ketum parpol (neutral), kerja sama (positive), PDIP (positive), pemilu 2 (neutral)]",261
+puan,"Lahirkan Jokowi, Puan hingga Ganjar, Megawati Putuskan Capres 2024 Terbaik https://t.co/rPyr6qFwSj",0,1552417747589529600,"named_entity_recognition: [Jokowi, Puan, Ganjar, Megawati]
+aspect_sentiment: [Lahirkan (positive), Putuskan (positive), Capres 2024 Terbaik (positive)]",233
+puan,Puan Maharani dinilai potensial menjadi pemimpin nasional oleh pegiat kesetaraan gender. https://t.co/pRtU1dKo0G Waktunya Puan Maharani,0,1552417747589529600,"named_entity_recognition: [Puan Maharani, pegiat kesetaraan gender]
+aspect_sentiment: [dinilai (positif), menjadi pemimpin nasional (positif)]",231
+puan,Puan Maharani diberi tugas oleh Megawati untuk jalin komunikasi PDIP dengan parpol lain. https://t.co/R97OQVQvvz Waktunya Puan Maharani,0,1552417747589529600,"named_entity_recognition: [""Puan Maharani"", ""Megawati"", ""PDIP""]
+
+aspect_sentiment: [""jalin komunikasi (positive)"", ""parpol lain (neutral)"", ""Waktunya Puan Maharani (positive)""]",241
+puan,Kader NU: Megawati kasih sinyal PDIP usung Puan Maharani. https://t.co/Tp9my6r70P Waktunya Puan Maharani,0,1552417747589529600,"named_entity_recognition: [""Kader NU"", ""Megawati"", ""PDIP"", ""Puan Maharani""]
+aspect_sentiment: [""kasih sinyal (positive)"", ""usung (positive)"", ""Waktunya Puan Maharani (positive)""]",240
+puan,"Nama bonda kita adalah Khadijah binti Khuwaylid.
+
+خديجة بنت خويلد
+
+Tiada ""Siti"" sepanjang pengetahuan saya. Saya di… https://t.co/ncVjzaEcBz",38,1552259818739486721,"named_entity_recognition: [""Khadijah binti Khuwaylid""]
+
+aspect_sentiment: []",225
+puan,"Karakternya mirip Megawati, Puan Maharani dinilai layak jadi calon presiden 2024. https://t.co/17EaMuFi9V Waktunya Puan Maharani",0,1552259818739486721,"named_entity_recognition: [Puan Maharani]
+
+aspect_sentiment: [karakter (positive), Megawati (positive), Puan Maharani (positive), calon presiden 2024 (positive), waktunya Puan Maharani (positive)]",247
+puan,Megawati siapkan Puan Maharani jadi suksesor di PDIP. https://t.co/tZ3dyFsVbK Waktunya Puan Maharani,0,1552259818739486721,"named_entity_recognition: [""Megawati"", ""Puan Maharani"", ""PDIP""]
+
+aspect_sentiment: [""siapkan (positive)"", ""jadi suksesor (positive)"", ""Waktunya (positive)""]",230
+puan,"Puji Puan Maharani, megawati sebut perempuan bisa bisa memimpin. https://t.co/924E6Ha5oy Waktunya Puan Maharani",0,1552259818739486721,"named_entity_recognition: [""Puan Maharani"", ""Megawati""]
+aspect_sentiment: [""Puji (positive)"", ""sebut (neutral)"", ""perempuan bisa bisa memimpin (positive)"", ""Waktunya Puan Maharani (positive)""]",239
+puan,"Puan Maharani Terabas Hujan dan Panas Demi Dekat Dengan Petani.
+
+Klen ga pengen ngakak sodara2? Ya udah aku aja dah yg ngakak! 🤣🤣🤣",131,1552066510595559425,"named_entity_recognition: [Puan Maharani]
+aspect_sentiment: [Terabas (positive), Hujan (negative), Panas (negative), Dekat (positive), Petani (positive)]",242
+puan,"Puan Maharani dipuji Megawati, sinyal restu capres 2024. https://t.co/9ombl3y9l3 Waktunya Puan Maharani",0,1552066510595559425,"named_entity_recognition: [""Puan Maharani"", ""Megawati""]
+aspect_sentiment: [""dipuji (positive)"", ""sinyal restu capres 2024 (positive)"", ""Waktunya Puan Maharani (neutral)""]",240
+puan,Puan diprediksi akan menjadi calon presiden yang akan diusung oleh PDIP. https://t.co/r9L4btJqkG Waktunya Puan Maharani,0,1552066510595559425,"named_entity_recognition: [Puan Maharani, PDIP]
+
+aspect_sentiment: [calon presiden (positive)]",211
+puan,Dengan menugaskan Puan membuka komunikasi ke parpol lain pun Megawati dinilai menunjukkan kualitas Puan yang kini s… https://t.co/2otrxLKure,0,1552066510595559425,"named_entity_recognition: [Puan, Megawati]
+aspect_sentiment: [menugaskan (positive), membuka komunikasi (positive), parpol lain (neutral), kualitas Puan (positive)]",236
+puan,"Megawati Soekarnoputri, diyakini akan menjadikan Prabowo dan Puan Maharani, sebagai titik temu pasangan yang akan m… https://t.co/XI9E3ujgDn",0,1552066510595559425,"named_entity_recognition: [Prabowo, Puan Maharani]
+
+aspect_sentiment: [Megawati Soekarnoputri (positive), Prabowo (neutral), Puan Maharani (neutral)]",239
+puan,"Puan Maharani dipupuk karir politiknya oleh Megawati, mulai dari menjabat anggota DPR RI, menjadi Ketua Fraksi PDIP… https://t.co/gnIlSPN0Vj",0,1552066510595559425,"named_entity_recognition: [Puan Maharani, Megawati, DPR RI, Fraksi PDIP]
+aspect_sentiment: [dipupuk (positive), karir politik (positive), Megawati (positive), anggota DPR RI (positive), Ketua Fraksi PDIP (positive)]",256
+puan,Puan Maharani menyebut Capres dari PDIP akan langsung dipilih oleh Ketua Umum Megawati Soekarnoputri.… https://t.co/bm49cXfFku,0,1552066510595559425,"named_entity_recognition: [""Puan Maharani"", ""Capres"", ""PDIP"", ""Ketua Umum Megawati Soekarnoputri""]
+aspect_sentiment: [""menyebut (positive)"", ""dipilih (positive)""]",243
+puan,Sejak awal Megawati memang sudah menyiapkan Puan untuk menjadi pemimpin negeri. https://t.co/ep6qJmdzfO Waktunya Puan Maharani,0,1552066510595559425,"named_entity_recognition: [Puan Maharani]
+
+aspect_sentiment: [menyiapkan (positive), menjadi pemimpin negeri (positive)]",219
+puan,"Suudi Arabistan merkez bankası, faizleri 75 baz puan arttırdı.",7,1552435495158022144,"named_entity_recognition: [""Suudi Arabistan merkez bankası""]
+
+aspect_sentiment: [""faizleri (positive)""]",195
+puan,Kader PDI Perjuangan semakin kuat mendorong Ketua DPR RI Puan Maharani untuk menjadi calon presiden 2024.… https://t.co/IdNInXELmy,0,1552435495158022144,"named_entity_recognition: [PDI Perjuangan, Ketua DPR RI Puan Maharani]
+
+aspect_sentiment: [Kader PDI Perjuangan (positive), Ketua DPR RI Puan Maharani (positive), calon presiden 2024 (positive)]",244
+puan,"emang sudah seharusnya ada transparansi dari DPR nih masalah RKUHP
+Waktunya Puan Maharani https://t.co/Kyu9hPZ13M",0,1552435495158022144,"named_entity_recognition: [DPR, RKUHP, Puan Maharani]
+aspect_sentiment: [transparansi (positif), DPR (netral), RKUHP (netral), Puan Maharani (netral)]",234
+puan,Mandat yang diberikan Megawati kepada Puan Maharani disebut sebagai persiapan untuk pilpres. https://t.co/xB9t20mZ1f Waktunya Puan Maharani,0,1552435495158022144,"named_entity_recognition: [""Megawati"", ""Puan Maharani""]
+
+aspect_sentiment: [""Mandat (positive)"", ""persiapan (positive)"", ""pilpres (neutral)"", ""Waktunya (positive)""]",239
+puan,Megawati dinilai telah jauh hari mengantongi nama calon presiden atau calon wakil presiden dari internal PDIP. Sela… https://t.co/1sruxOPu8T,0,1552435495158022144,"named_entity_recognition: [Megawati, PDIP]
+
+aspect_sentiment: [mengantongi (positif)]",219
+puan,"Puan Maharani dipuji-puji Presiden Jokowi. Hal ini dinilai ajar, karena Puan menjadi satu-satunya tokoh politik nas… https://t.co/yGxoNytzF5",0,1552259818739486721,"named_entity_recognition: [Puan Maharani, Presiden Jokowi]
+
+aspect_sentiment: [dipuji-puji (positive), dinilai ajar (negative)]",234
+puan,"Mbak Puan dapat Mandat penting dari Bu Mega, sinyal restu jadi capres? https://t.co/V4hVeHWTQM Waktunya Puan Maharani",0,1552259818739486721,"named_entity_recognition: [Mbak Puan, Bu Mega, Puan Maharani]
+aspect_sentiment: [Mandat (positive), sinyal restu (positive), capres (positive)]",228
+puan,"Megawati puji Puan Maharani, Megawati menegaskan bahwa perempuan juga bisa menjadi seorang pemimpin.… https://t.co/jjWja5kexN",0,1552259818739486721,"named_entity_recognition: [Megawati, Puan Maharani]
+aspect_sentiment: [puji (positive), menegaskan (positive), menjadi seorang pemimpin (positive)]",225
+puan,Mandat megawati ke Puan dinilai pesan mempersiapkan diri di Pilpres. https://t.co/5sYeYfdU4F Waktunya Puan Maharani,0,1552259818739486721,"named_entity_recognition: [Mandat, Megawati, Puan, Pilpres, Puan Maharani]
+
+aspect_sentiment: [mempersiapkan diri (positif), Pilpres (netral), Puan Maharani (netral)]",243
+puan,"Aksentuasi pidato Megawati saat pembukaan Rakernas PDIP dinilai kuat mengirim sinyal kepada publik, Puan Maharani s… https://t.co/TJezVc3POa",0,1552259818739486721,"named_entity_recognition: [""Megawati"", ""Rakernas PDIP"", ""Puan Maharani""]
+aspect_sentiment: [""Aksentuasi pidato (kuat)"", ""pembukaan Rakernas PDIP (positif)"", ""sinyal kepada publik (positif)""]",261
+puan,"Puan Maharani menyoroti pentingnya RUU KIA. Puan menuturkan, aturan hukum tersebut bakal meningkatkan kesejahteraan… https://t.co/rlrVQLV4GW",0,1552259818739486721,"named_entity_recognition: [Puan Maharani, RUU KIA]
+aspect_sentiment: [aturan hukum (positif), kesejahteraan (positif)]",236
+puan,"Mandat politik Megawati ke Puan, pesan untuk persiapan pilpres 2024. https://t.co/RBqNQhh9jK Waktunya Puan Maharani",0,1552259818739486721,"named_entity_recognition: [""Megawati"", ""Puan Maharani""]
+aspect_sentiment: [""Mandat politik (positive)"", ""persiapan pilpres 2024 (neutral)""]",230
+puan,"Mega tugasi Puan Safari politik, pengamat menilai bahwa itu adalah pesan untuk persiapkan diri di Pilpres 2024.… https://t.co/gu93zQko3r",0,1552259818739486721,"named_entity_recognition: [Puan Safari, Pilpres 2024]
+aspect_sentiment: [Mega tugasi (positive), Puan Safari politik (positive), pengamat menilai (positive), pesan untuk persiapkan diri di Pilpres 2024 (positive)]",250
+puan,Mandat penting yang diberikan Megawati adalah pesan tersirat agar Puan mempersiapkan diri untuk diusung sebagai cal… https://t.co/Hnm9Zw5lwJ,0,1552259818739486721,"named_entity_recognition: [Megawati, Puan]
+aspect_sentiment: [pesan (positif), Puan (netral), diusung (positif)]",226
+puan,Mandat politik dari Mega ke Puan berisi pesan untuk persiapkan diri di Pilpres 2024. https://t.co/ZJ34nah4Tk Waktunya Puan Maharani,0,1552259818739486721,"named_entity_recognition: [""Mega"", ""Puan Maharani""]
+
+aspect_sentiment: [""Mandat politik (positive)"", ""persiapkan diri (positive)"", ""Pilpres 2024 (neutral)"", ""Waktunya Puan Maharani (positive)""]",247
+puan,Hari Anak Nasional 2022 menjadi momentum tingkatkan kesejahteraan anak dan pemenuhan hak anak yang akan menjadi jam… https://t.co/7CHZvUf6gz,0,1552259818739486721,"named_entity_recognition: []
+
+aspect_sentiment: [tingkatkan kesejahteraan anak (positive), pemenuhan hak anak (positive)]",221
+puan,Ketua Umum PDI Perjuangan Megawati Soekarnoputri diprediksi bakal mengusung putrinya sendiri yang juga Ketua DPR RI… https://t.co/bjaM0OtERG,0,1552259818739486721,"named_entity_recognition: [Megawati Soekarnoputri, PDI Perjuangan, putrinya, Ketua DPR RI]
+aspect_sentiment: [mengusung (positif)]",239
+puan,"Pengamat menilai, mandat politik Mega ke Puan Maharani untuk persiapkan diri di pilpres. https://t.co/7k3645gjyF Waktunya Puan Maharani",0,1552259818739486721,"named_entity_recognition: [""Pengamat"", ""Mega"", ""Puan Maharani""]
+
+aspect_sentiment: [""mandat politik (positive)"", ""persiapkan diri (positive)"", ""pilpres (neutral)"", ""Waktunya Puan Maharani (positive)""]",251
+puan,Megawati mengirim sinyal kuat bahwa Puan Maharani menjadi kandidat kuat calon presiden yang akan diusung PDIP dalam… https://t.co/3iSCuS6u9Z,0,1552259818739486721,"named_entity_recognition: [Megawati, Puan Maharani, PDIP]
+
+aspect_sentiment: [mengirim sinyal (positif), Puan Maharani menjadi kandidat kuat calon presiden (positif), diusung PDIP (positif)]",252
+puan,"Kenaikan inflasi menggerus daya beli masyarakat, Puan Maharani himbau untuk perkuat daya beli masyarakat demi kepen… https://t.co/5lDVOsW7jo",0,1552259818739486721,"named_entity_recognition: [Puan Maharani]
+
+aspect_sentiment: [kenaikan inflasi (negatif), daya beli masyarakat (negatif), Puan Maharani (netral)]",235
+puan,Ada pesan khusus dari Mega ke Puan agar datang ke partai politik lain dan persiapkan diri untuk pilpres 2024 mendat… https://t.co/Bt6aTjFXwC,0,1552259818739486721,"named_entity_recognition: [Mega, Puan, pilpres 2024]
+aspect_sentiment: [pesan (netral), datang ke partai politik lain (positif), persiapkan diri (positif)]",241
+puan,Mandat yang diberikan Megawati kepada Puan Maharani diyakini sebagai pesan tersirat kepada anaknya tersebut untuk m… https://t.co/tLkgXDlRLg,0,1552259818739486721,"named_entity_recognition: [Megawati, Puan Maharani]
+aspect_sentiment: [Mandat (positive), pesan (positive)]",217
+puan,Mandat politik dari Megawati ke Puan Maharani dinilai ada maksud khusus. https://t.co/7r2bcWFCkY Waktunya Puan Maharani,0,1552259818739486721,"named_entity_recognition: [""Megawati"", ""Puan Maharani""]
+aspect_sentiment: [""Mandat politik (positive)"", ""maksud khusus (negative)"", ""Waktunya Puan Maharani (neutral)""]",239
+puan,Puan Maharani mendorong agar penyusunan upah minimum 2023 mempertimbangkan kenaikan berbagai kebutuhan pokok.… https://t.co/96gk4VJsbz,0,1552259818739486721,"named_entity_recognition: [Puan Maharani]
+
+aspect_sentiment: [penyusunan upah minimum 2023 (positive), kenaikan berbagai kebutuhan pokok (positive)]",231
+puan,Puan Maharani disebut sebagai tokoh perempuan yang paling potensial untuk maju sebagai calon presiden di 2024.… https://t.co/UOVYPTUnSH,0,1552259818739486721,"named_entity_recognition: [""Puan Maharani""]
+
+aspect_sentiment: [""tokoh perempuan"" (positive), ""calon presiden"" (positive)]",220
+puan,Pengamat menilai bahwa safari politik Puan Maharani adalah sebuah bentuk persiapan untuk nyapres di 2024.… https://t.co/3TKclXlcrc,0,1552259818739486721,"named_entity_recognition: [Puan Maharani]
+
+aspect_sentiment: [safari politik (positive), persiapan (positive), nyapres (positive)]",220
+puan,Umur baru 20 dah tag twtjodoh nak cari pasangan hidup ni patut habiskan belajar dulu. Cari kerja. Hidup sekarang ni… https://t.co/6nFqpXsveo,1136,1551481237650698241,"named_entity_recognition: []
+
+aspect_sentiment: [Umur (positive), tag twtjodoh (neutral), cari pasangan hidup (positive), habiskan belajar (positive), cari kerja (positive), Hidup sekarang (positive)]",258
+puan,Safari politik yang dilakukan Puan Maharani sebagai sinyal kuat PDIP untuk bekontestasi dalam pemilihan presiden 20… https://t.co/qM08IQQbkU,0,1551481237650698241,"named_entity_recognition: [Puan Maharani, PDIP]
+
+aspect_sentiment: [Safari politik (positif), Pemilihan presiden (netral)]",223
+puan,Puan Maharani mendorong NU untuk bergerak secara global untuk merawat jagad dan membangun peradaban. https://t.co/Q9HnJRyh5I,0,1551481237650698241,"named_entity_recognition: [Puan Maharani, NU]
+
+aspect_sentiment: [merawat jagad (positive), membangun peradaban (positive)]",219
+puan,SMRC prediksi PDIP akan mengusung Puan Maharani dalam pilpres 2024. https://t.co/WmJeec6T8j,0,1551481237650698241,"named_entity_recognition: [""SMRC"", ""PDIP"", ""Puan Maharani""]
+
+aspect_sentiment: [""prediksi (positive)""]",209
+puan,"Emeklerim,hayallerim ve hakkım... Hepsi 3-5 dklik mülakatla hiç oldu gitti. Kpssden 90 puan aldım ben. Bunun için m… https://t.co/bicNjKAzo2",27,1552244634126110720,"named_entity_recognition: []
+
+aspect_sentiment: []",215
+puan,Puan Maharani mengingatkan bahwa pemilu 2024 bukan ajang memecah belah bangsa. https://t.co/9E2vSGFU6l Waktunya Puan Maharani,0,1552244634126110720,"named_entity_recognition: [Puan Maharani]
+
+aspect_sentiment: [pemilu 2024 (positive), ajang memecah belah bangsa (negative)]",229
+puan,Megawati menugaskan Puan Maharani untuk menjalin komunikasi dengan partai politik lain. https://t.co/HWoBVDyaQ6,0,1552244634126110720,"named_entity_recognition: [""Megawati"", ""Puan Maharani""]
+
+aspect_sentiment: [""menugaskan (positive)"", ""menjalin komunikasi (positive)""]",216
+puan,Relawan Gema Puan di malang mendeklarasikan Puan Maharani sebagai presiden Indonesia 2024 mendatang. https://t.co/3pPsu6BtRj,0,1552244634126110720,"named_entity_recognition: [Gema Puan, Puan Maharani, Indonesia]
+
+aspect_sentiment: [Relawan Gema Puan (positive), Puan Maharani (positive), presiden Indonesia 2024 (positive)]",235
+puan,Waktunya Puan Maharani nih untuk adanya transparansi DPR https://t.co/SoFjIS28ea,0,1552244634126110720,"named_entity_recognition: [""Puan Maharani"", ""DPR""]
+
+aspect_sentiment: [""transparansi (positive)""]",198
+puan,"Puan Maharani terus turun bertemu rakyat, membantu rakyat, menyejahterakan rakyat. https://t.co/NrLrvMin2e Waktunya Puan Maharani",0,1552244634126110720,"named_entity_recognition: [Puan Maharani]
+aspect_sentiment: [turun (positif), bertemu (positif), membantu (positif), menyejahterakan (positif)]",236
+puan,"@equoreals Sang puan berdiri dari kursisnya dan memeluk setangkai bunga berwarna biru putih dipelukannya.
+Seraya te… https://t.co/yIzgoRlqJp",1,1552472728837316608,"named_entity_recognition: [Sang puan]
+aspect_sentiment: [berdiri (positive), memeluk setangkai bunga berwarna biru putih (positive)]",237
+puan,Puan Maharani memiliki satu visi yang sama dengan Fatayat NU dalam upaya memperjuangkan hak-hak perempuan.… https://t.co/0Vs7dbM8RQ,0,1552472728837316608,"named_entity_recognition: [Puan Maharani, Fatayat NU]
+aspect_sentiment: [visi (positif), upaya (positif), hak-hak perempuan (positif)]",229
+puan,"Waktunya Puan Maharani
+👂🎶🧡THANK YOU🧡 https://t.co/cetENVeRcg",0,1552472728837316608,"named_entity_recognition: [Puan Maharani]
+
+aspect_sentiment: [Waktunya (positive)]",199
+puan,"BORSA İSTANBUL’DA GÜNÜN ÖZETİ
+BIST 100 endeksi, günü yüzde 0.28 artışla, 2,544.12 puandan kapattı. Gün içerisinde e… https://t.co/m8Vrck2Hlp",1,1552465038836916225,,0
+puan,Puan Maharani dinilai memiliki keistimewaan sebagai politisi perempuan. https://t.co/Vf7iQL9vJu Waktunya Puan Maharani,0,1552465038836916225,"named_entity_recognition: [""Puan Maharani""]
+
+aspect_sentiment: [""memiliki keistimewaan (positive)""]",210
+puan,"Puan Maharani yakin jika perempuan Indonesia memiliki kreativitas, ide, dan bisa menemukan cara-cara untuk meningka… https://t.co/U2DcxycN9r",0,1552465038836916225,"named_entity_recognition: [Puan Maharani, Indonesia]
+
+aspect_sentiment: [perempuan Indonesia (positive), kreativitas (positive), ide (positive), cara-cara (positive), meningkat (positive)]",234
+puan,"saya dukung Bu Puan
+Waktunya Puan Maharani https://t.co/4IQZOCho8f",0,1552465038836916225,"named_entity_recognition: [Bu Puan Maharani]
+
+aspect_sentiment: [saya dukung (positive)]",194
+puan,/ex ada puan yg bersedia cuddle pagi ini? -m95,0,1552465038836916225,"named_entity_recognition: [Puan]
+aspect_sentiment: [cuddle (positive)]",179
+puan,Puan Maharani dianggap meruskan semangat Soekarno sebagai pemimpin bangsa. https://t.co/P3ytcpcZqf Waktunya Puan Maharani,0,1552465038836916225,"named_entity_recognition: [""Puan Maharani"", ""Soekarno""]
+aspect_sentiment: [""merusak semangat Soekarno (negative)""]",223
+puan,"Puan Maharani menegaskan, capaian yg diraihnya hingga kini adalah hasil dari kerja kerasnya dan tidak mengandalkan… https://t.co/QG4hqNCvGY",0,1552465038836916225,"named_entity_recognition: [Puan Maharani]
+aspect_sentiment: [capaian (positif), kerja keras (positif)]",219
+puan,"“128 anggota fraksi PDI Perjuangan berkumpul, untuk kembali menyelaraskan derap langkah kami agar selalu seirama de… https://t.co/AHQ3BM5Tr4",0,1552465038836916225,"named_entity_recognition: [""PDI Perjuangan""]
+
+aspect_sentiment: [""anggota (positive)"", ""fraksi (positive)"", ""kumpul (positive)"", ""derap langkah (positive)"", ""kami (positive)""]",240
+puan,Mesin politik PDIP bakal solid mendukung Puan Maharani apabila nantinya maju pada Pilpres 2024. Puan dinilai layak… https://t.co/0aieX9VfsK,0,1552465038836916225,"named_entity_recognition: [""PDIP"", ""Puan Maharani""]
+aspect_sentiment: [""Mesin politik PDIP (positive)"", ""Puan Maharani (positive)""]",234
+puan,"Meski elektabilitasnya masih rendah di sejumlah survei, sosok Puan Maharani menyimpan sisi baik yg belum banyak dik… https://t.co/D4MFT5qlbs",0,1552465038836916225,"named_entity_recognition: [Puan Maharani]
+
+aspect_sentiment: [elektabilitas (rendah)]",211
+ganjar,"Pertemuan Ganjar dengan Yasui..
+
+Kerjasama yang ditandatangani @ganjarpranowo ini antara Provinsi Jawa Tengah dan J… https://t.co/Malm5Ut8Bs",2,1552468494788481024,"named_entity_recognition: [Provinsi Jawa Tengah, Yasui, Ganjar Pranowo]
+
+aspect_sentiment: [Kerjasama (positif)]",229
+ganjar,"@ekowboy2 Ini manusia goblok yg tak punya otak.
+Giliran kelompoknya merampok uang rakyat dgn cara jualan nama tuhan… https://t.co/WLKV5dAhET",1,1552475665232203776,"named_entity_recognition: [ekowboy2, tuhan]
+aspect_sentiment: [merampok (negative), jualan (negative)]",226
+ganjar,"Lahirkan Jokowi, Puan hingga Ganjar, Megawati Putuskan Capres 2024 Terbaik https://t.co/rPyr6qFwSj",0,1552475665232203776,"named_entity_recognition: [Jokowi, Puan, Ganjar, Megawati]
+aspect_sentiment: [Lahirkan (positive), Putuskan (positive), Capres 2024 Terbaik (positive)]",233
+ganjar,"Sekolah gratis gagasan dr @ganjarpranowo, khusus unk rakyatnya yg kurang mampu agar bisa mengubah Nasib keluarganya… https://t.co/yiqh7FqeXA",101,1552111385718718465,"named_entity_recognition: [""ganjarpranowo""]
+
+aspect_sentiment: [""sekolah gratis (positive)"", ""gagasan (positive)"", ""rakyatnya (positive)"", ""keluarganya (positive)""]",242
+ganjar,Santri-Ulama di Sulsel Dukung Ganjar Nyapres: Dia Bersahaja &amp; Merakyat https://t.co/YJ1Gt8YlV7,0,1552111385718718465,"named_entity_recognition: [Ganjar, Sulsel]
+aspect_sentiment: [Santri-Ulama (positive), Ganjar (positive), Nyapres (positive), Bersahaja (positive), Merakyat (positive)]",232
+ganjar,"Ternyata... Pak Ganjar pernah ngontrak ketika awal menikah
+
+Pantesan aja kebijakan beliau selama ini pro banget sam… https://t.co/5ksiwg15SO",3,1552466168316772352,"named_entity_recognition: [Pak Ganjar]
+
+aspect_sentiment: [ngontrak (positive), awal menikah (neutral), kebijakan (positive)]",230
+ganjar,Kabid Pengelolaan Daerah Aliran Sungai dan Konservasi Sumber Daya Alam Dinas Lingkungan Hidup dan Kehutanan Provins… https://t.co/BvABkdI3sB,0,1552466168316772352,"named_entity_recognition: [""Kabid Pengelolaan Daerah Aliran Sungai dan Konservasi Sumber Daya Alam Dinas Lingkungan Hidup dan Kehutanan Provins""]
+
+aspect_sentiment: []",245
+ganjar,"Sejak periode pertama di tahun 2014 hingga saat ini, telah ada sebanyak 101 juta batang pohon ditanam untuk reboisa… https://t.co/x0qji8s8Cw",0,1552466168316772352,"named_entity_recognition: []
+
+aspect_sentiment: [periode (positive), tahun (positive), 101 juta batang pohon (positive), reboisa (positive)]",231
+ganjar,Pemerintah Provinsi Jawa Tengah di bawah kepemimpinan Ganjar Pranowo telah berupaya melakukan rehabilitasi hutan da… https://t.co/L4gMfdspFT,0,1552466168316772352,"named_entity_recognition: [""Pemerintah Provinsi Jawa Tengah"", ""Ganjar Pranowo""]
+
+aspect_sentiment: [""rehabilitasi hutan da (positive)""]",231
+ganjar,"SEMARANG 
+
+Ganjar Pranowo, Inisiator Program pro rakyat di masa pandemi Covid 19.
+
+@ganjarpranowo, berbakat &amp; sanga… https://t.co/1NUTkhfj8E",4,1552441669920133124,"named_entity_recognition: [""Ganjar Pranowo"", ""Program pro rakyat"", ""Covid 19""]
+
+aspect_sentiment: [""Inisiator Program pro rakyat (positive)"", ""masa pandemi Covid 19 (negative)""]",254
+ganjar,"Luncurkan Jogo Konco, Ganjar Serius Lindungi Anak-Anak dari Perundungan https://t.co/1TnzJyjhok #beritajogja #jogja… https://t.co/4eF2uAzXb5",0,1552441669920133124,"named_entity_recognition: [Jawaban anda: Tidak ada entitas yang dapat diidentifikasi sebagai ""PERSON"" atau ""ORGANIZATION""]
+
+aspect_sentiment: [Jawaban anda: Tidak ada verb atau noun-phrase yang dapat diidentifikasi dalam komentar tersebut]",263
+ganjar,"Gimana mazeeehhhh....
+Smoga P.Ganjar...diberikan kesehatan https://t.co/p5Ebc8Txm5",2,1552145623742582784,"named_entity_recognition: [P.Ganjar (PERSON)]
+
+aspect_sentiment: [kesehatan (positive)]",204
+ganjar,"Cegah Kekerasan dan Perundungan Anak, Gubernur Ganjar Pranowo Luncurkan Aplikasi Jogo Konco. Artinya Beliau,Pak… https://t.co/df4bJLZ6HC",1,1552477196849070081,"named_entity_recognition: [Gubernur Ganjar Pranowo, Aplikasi Jogo Konco]
+aspect_sentiment: [Cegah Kekerasan (positive), Perundungan Anak (negative), Aplikasi Jogo Konco (positive)]",258
+ganjar,"Gema dan Sholawat kami panjatkan serta Doa Untuk Bapak Ganjar Pranowo Presiden 2024.
+
+Santri Dukung Ganjar Kordinat… https://t.co/na3EmymiU6",0,1552477196849070081,"named_entity_recognition: [Ganjar Pranowo (PERSON)]
+
+aspect_sentiment: [Gema (positive), Sholawat (positive), Doa (positive), Bapak Ganjar Pranowo (positive), Presiden 2024 (positive), Santri (positive), Ganjar (positive)]",263
+ganjar,"Yuk daftar untuk dapat vaksinasi, khitanan, imunisasi, donor darah, ataupun cek kesehatan, SEMUANYA GRATISSS LOHH.… https://t.co/0CryYYzjAe",0,1552477196849070081,"named_entity_recognition: []
+
+aspect_sentiment: [daftar (positive), vaksinasi (positive), khitanan (positive), imunisasi (positive), donor darah (positive), cek kesehatan (positive), GRATISSS (positive)]",258
+ganjar,"Ganjar Pranowo Tak Berhasil Atasi Peredaran Narkoba, Buktinya BNN Jateng Catat Ratusan Desa di Jateng Kategori Baha… https://t.co/hajZOtRLIA",19,1552256158492430336,"named_entity_recognition: [Ganjar Pranowo, BNN Jateng]
+aspect_sentiment: [Atasi (negative), Peredaran Narkoba (negative), BNN Jateng (neutral), Ratusan Desa di Jateng (neutral), Kategori Baha (neutral)]",261
+ganjar,"JOGO KONCO (Jaga Teman) 
+
+Terobosan Pak Ganjar @ganjarpranowo  untuk mencegah kekerasan dan perundungan pada anak a… https://t.co/7y2EJEwTgd",6,1552454665031233539,"named_entity_recognition: [Pak Ganjar (PERSON)]
+
+aspect_sentiment: [Terobosan (positive), kekerasan (negative), perundungan (negative), anak (neutral)]",241
+ganjar,"Gercep ! 👍
+
+Ganjar Respons Cepat Aduan Penyekapan 54 WNI di Kamboja, Ini Perkembangannya 
+https://t.co/w3k7GiFCq1",0,1552454665031233539,"named_entity_recognition: [Ganjar, Kamboja]
+aspect_sentiment: [Respons (positif)]",217
+ganjar,"Akhirnya! Duel Anies vs Ganjar Soal Prestasi, ini Pemenangnya.
+Chusnul: Tahun 2019, @ganjarpranowo Setahun 40 Pengh… https://t.co/UQOrxfOqU4",108,1552094259683405824,"named_entity_recognition: [""Anies"", ""Ganjar"", ""Chusnul"", ""Ganjar Pranowo""]
+aspect_sentiment: [""Duel (positive)"", ""Prestasi (positive)"", ""Pemenang (positive)"", ""Tahun 2019 (positive)"", ""Setahun 40 Pengh (positive)""]",273
+ganjar,Ganjar: Jepang-Jateng Jajaki Kerjasama Bidang Kesehatan Sampai Kebencanaan https://t.co/cpXYEhJxpE,0,1552094259683405824,"named_entity_recognition: [Ganjar, Jepang-Jateng]
+aspect_sentiment: [Jepang-Jateng (positive), Kerjasama (positive), Bidang Kesehatan (positive), Kebencanaan (positive)]",239
+ganjar,"Temui Ganjar, Investor Taiwan Sebut Jateng Berkembang Pesat https://t.co/SCyJaJtti7",0,1552094259683405824,"named_entity_recognition: [Ganjar, Taiwan]
+aspect_sentiment: [Temui (positive), Investor Taiwan (positive), Jateng Berkembang Pesat (positive)]",210
+ganjar,"@ChusnulCh__ @ganjarpranowo Pak Ganjar vs Anis ya jauh Anis itu mental dan kinerjanya belum level pejbat publik, ma… https://t.co/xFBUGmsazM",0,1552094259683405824,"named_entity_recognition: [Anis, Ganjar Pranowo]
+aspect_sentiment: [Anis (negative), mental (positive), kinerjanya (negative), level pejabat publik (positive)]",240
+ganjar,Puan tak masalah bahkan Ganjar jadi salah satu bacapres. Waktunya Puan Maharani,0,1552094259683405824,"named_entity_recognition: [Puan Maharani, Ganjar]
+
+aspect_sentiment: [Puan (positive), Ganjar (positive)]",197
+ganjar,"Dengan digelarnya doa istighosah bersama ini, memiliki harapan bangsa ini menjadi Baldatun Thoyyibatun Warrobbun Gh… https://t.co/q8FotFw98n",3,1552469215365304320,"named_entity_recognition: []
+
+aspect_sentiment: []",205
+ganjar,"Cegah Kekerasan dan Perundungan Anak, Gubernur Ganjar Pranowo Luncurkan Aplikasi Jogo Konco. Artinya Beliau,Pak… https://t.co/df4bJLZ6HC",1,1552441669920133124,"named_entity_recognition: [Gubernur Ganjar Pranowo, Aplikasi Jogo Konco]
+aspect_sentiment: [Cegah Kekerasan (positive), Perundungan Anak (negative), Aplikasi Jogo Konco (positive)]",258
+ganjar,"Lindungi Anak dari Perundungan, Ganjar Pranowo Luncurkan Aplikasi Jogo Konco...
+
+""Anak-anak ini sangat kreatif dari… https://t.co/3mpH1PUA19",2,1552465981678972928,"named_entity_recognition: [Ganjar Pranowo, Jogo Konco]
+aspect_sentiment: [Lindungi Anak (positive), Perundungan (negative), Aplikasi Jogo Konco (positive)]",244
+ganjar,"Ganjar Pranowo klaim...
+
+Ganjar menyebutkan, iklim investasi yang kondusif dan kemudahan pelayanan berinvestasi di… https://t.co/yjxwHvmens",6,1552465322271461376,"named_entity_recognition: [Ganjar Pranowo]
+
+aspect_sentiment: [iklim investasi (positif), kemudahan pelayanan berinvestasi (positif)]",231
+ganjar,Saat memberi sambutan secara virtual melalui Zoom dalam pembukaan Sekolah Lapang Cuaca Nelayan (SLCN) 2022 yg disel… https://t.co/yWUMEsDfbZ,0,1552465322271461376,"named_entity_recognition: [Sekolah Lapang Cuaca Nelayan (SLCN) 2022]
+
+aspect_sentiment: [memberi sambutan (positif)]",230
+ganjar,Gubernur Jawa Tengah Ganjar Pranowo mengajak nelayan di Kabupaten Cilacap untuk memanfaatkan teknologi dan informas… https://t.co/tDfUa9QUnL,0,1552465322271461376,"named_entity_recognition: [Ganjar Pranowo, Jawa Tengah, Kabupaten Cilacap]
+aspect_sentiment: [memanfaatkan teknologi (positive), informasi (positive)]",241
+ganjar,Mungkin ketemu Ganjar di Jakarta? https://t.co/j02mjPTymZ,2,1552463024421670913,"named_entity_recognition: [Ganjar, Jakarta]
+
+aspect_sentiment: [ketemu (positive)]",185
+ganjar,"Dukungan datang lagi, hampir semua kalangan sdh ada nyatakan dukungan, dari tokoh agama, nelayan, petani, hingga pe… https://t.co/Zct4nq2Z99",32,1552157066344935424,"named_entity_recognition: [tokoh agama, nelayan, petani]
+aspect_sentiment: [dukungan (positif)]",224
+ganjar,Disnakertrans Jateng langsung menindaklanjuti laporan &amp; mendapat informasi dari WNI atas nama Mohammad Effendy mewa… https://t.co/XmYP1g4oaa,12,1552438822658777088,"named_entity_recognition: [""Disnakertrans Jateng"", ""WNI"", ""Mohammad Effendy""]
+aspect_sentiment: [menindaklanjuti (positive), mendapat informasi (positive)]",239
+ganjar,Prestasi ganjar yg sngt menakjubkan https://t.co/jr3K4jh5ow,15,1552130853954015232,"named_entity_recognition: []
+
+aspect_sentiment: []",181
+ganjar,"@ekowboy2 Ini manusia goblok yg tak punya otak.
+Giliran kelompoknya merampok uang rakyat dgn cara jualan nama tuhan… https://t.co/WLKV5dAhET",1,1552130853954015232,"named_entity_recognition: [ekowboy2, tuhan]
+aspect_sentiment: [merampok (negative), jualan (negative)]",226
+ganjar,Membuka Hari Koperasi Hybrid Expo 2022 dlm rangka memeriahkan Hari Koperasi Nasional @ganjarpranowo berharap kopera… https://t.co/XfXYvhwtbk,2,1552460187360849923,"named_entity_recognition: [""ganjarpranowo"", ""Hari Koperasi Nasional""]
+aspect_sentiment: [""Membuka Hari Koperasi Hybrid Expo 2022 (positive)"", ""memeriahkan Hari Koperasi Nasional (positive)"", ""berharap koperasi (positive)""]",258
+ganjar,"Pribadi saya Dukung Siapapun yg jadi Pemimpin Indonesia asal Dia tetap menjaga dan mendukung ""Bhineka Tunggal Ika""… https://t.co/5jjKC6fCJE",3,1552473173312282629,"named_entity_recognition: [Siapapun, Indonesia, Bhineka Tunggal Ika]
+aspect_sentiment: [Dukung (positive), menjaga (positive), mendukung (positive)]",242
+ganjar,Gemanya sudah Merebak dan Menggaung seantero Negeri... Semoga Allah Memberikan Pemimpin yg Baik Buat Seluruh Bangsa… https://t.co/CtyhMep0YS,3,1552471958851588096,"named_entity_recognition: []
+
+aspect_sentiment: []",203
+ganjar,"Respons cepat Gubernur Jawa Tengah @ganjarpranowo atas 
+aduan seorang warganet
+mengenai adanya dugaan penyekapan 
+5… https://t.co/k2webCOUeM",13,1552450137754324992,"named_entity_recognition: [Gubernur Jawa Tengah, Ganjar Pranowo]
+
+aspect_sentiment: [Respons (positif)]",232
+ganjar,@Mdy_Asmara1701 Ada lagi cil @Mdy_Asmara1701 penghargaan atas banyanknya kelebihan bayar di berbagai proyek. Ganjar gak bisa dapat itu 🤭,0,1552450137754324992,"named_entity_recognition: [""@Mdy_Asmara1701"", ""Ganjar""]
+aspect_sentiment: [""penghargaan (positive)"", ""kelebihan bayar (negative)"", ""proyek (neutral)""]",242
+ganjar,Bahkan para penolak UAS pun hanya melongo melihat bersatunya kekuatan Ummat Islam di kota kelahiran Ganjar purworej… https://t.co/CCBzU6XSXj,955,1551209033662857217,"named_entity_recognition: [Ummat Islam, Ganjar purworej]
+aspect_sentiment: [bersatunya kekuatan (positive)]",226
+ganjar,Kemendikbud Undang Ganjar Hadiri Pertemuan Menteri Kebudayaan G20 https://t.co/2KgfRFmlqg,3,1552323555643125760,"named_entity_recognition: [""Kemendikbud"", ""Ganjar"", ""Menteri Kebudayaan G20""]
+
+aspect_sentiment: [""Undang (positive)"", ""Hadiri (neutral)"", ""Pertemuan Menteri Kebudayaan G20 (neutral)""]",244
+ganjar,"Ganjar Pranowo memiliki nama asli Ganjar Sungkowo yang artinya Ganjaran dari kesusahan atau kesedihan. Namun, saat… https://t.co/VrsDdcoD9F",9,1552243280968318976,"named_entity_recognition: [Ganjar Pranowo]
+
+aspect_sentiment: [nama asli (positive), artinya (positive), Ganjaran dari kesusahan atau kesedihan (positive)]",234
+ganjar,"Meski secara elektabilitas yang dikeluarkan lembaga survei nama Puan Maharani belum sementara Ganjar Pranowo, Puan… https://t.co/67tmwo11Fb",0,1552243280968318976,"named_entity_recognition: [Puan Maharani, Ganjar Pranowo]
+aspect_sentiment: [elektabilitas (positive), lembaga survei (neutral)]",227
+ganjar,Meskipun hasil elektabilitas yang dikeluarkan lembaga survei menunjukkan bahwa nama Puan Maharani belum sementereng… https://t.co/3xXWYyUjbI,0,1552243280968318976,"named_entity_recognition: [""Puan Maharani""]
+
+aspect_sentiment: [""hasil elektabilitas (positif)""]",217
+ganjar,Pengamat menyebut Puan Maharani lebih potensial dipilih PDIP untuk nyapres meski secara elektabilitas yang dikeluar… https://t.co/QNLHYSlfdU,0,1552243280968318976,"named_entity_recognition: [Puan Maharani, PDIP]
+
+aspect_sentiment: [Pengamat (positive), Puan Maharani (positive), PDIP (positive), nyapres (neutral), elektabilitas (neutral)]",238
+ganjar,secara elektabilitas yang dikeluarkan lembaga survei nama puan Maharani belum sementereng Ganjar.. namun puan diseb… https://t.co/NYbLqhtgZe,0,1552243280968318976,"named_entity_recognition: [Puan Maharani, Ganjar]
+aspect_sentiment: [elektabilitas (positive), lembaga survei (neutral), nama Puan Maharani (neutral), Ganjar (positive)]",239
+ganjar,"Pribadi saya Dukung Siapapun yg jadi Pemimpin Indonesia asal Dia tetap menjaga dan mendukung ""Bhineka Tunggal Ika""… https://t.co/5jjKC6fCJE",3,1552243280968318976,"named_entity_recognition: [Siapapun, Indonesia, Bhineka Tunggal Ika]
+aspect_sentiment: [Dukung (positive), menjaga (positive), mendukung (positive)]",242
+ganjar,Kenapa buzzer pendukung jokowi dan ganjar tiarap gak bersuara jika model koruptornya seperti ini ? https://t.co/EkWMh1s6Ex,1196,1551186249574416386,"named_entity_recognition: [Jawaban anda: Tidak ada entitas yang relevan dengan label ""PERSON"" atau ""ORGANIZATION""]
+
+aspect_sentiment: [Tidak ada aspect yang relevan dengan sentiment]",231
+ganjar,"Heboh Ganjar Jajal Motor Listrik Karya Anak SMK, Netizen: Halah, Pencitraan Basi!, Jualannya Sama Kayak Kelakuan Pe… https://t.co/GL4IpSkPZ2",163,1552079106782609408,"named_entity_recognition: [Ganjar, Anak SMK]
+aspect_sentiment: [Jajal Motor Listrik (positif), Pencitraan (negatif), Jualannya (negatif), Kelakuan Pe (negatif)]",251
+ganjar,"Pengamat2 politik dulu ramai2 bilang ucapan ""ojo kesusu"" itu kode untuk Ganjar, hanya kami yg bilang itu bukan utk… https://t.co/HG5HCGXVz7",60,1552195286939750400,"named_entity_recognition: [Pengamat2 politik, Ganjar]
+aspect_sentiment: [ucapan (netral)]",223
+ganjar,"@NyiMasRuminah @PDI_Perjuangan Ada pa @ganjarpranowo  capres @PDI_Perjuangan 
+Maka akan pilih PDIP..
+Klo pa Ganjar… https://t.co/9HNCQIGQMv",0,1552195286939750400,"named_entity_recognition: [""@NyiMasRuminah"", ""@PDI_Perjuangan"", ""@ganjarpranowo"", ""PDIP""]
+
+aspect_sentiment: [""Ada pa"" (positive), ""capres"" (neutral), ""pilih PDIP"" (positive), ""Klo pa Ganjar"" (neutral)]",269
+ganjar,"Adakan kontes modifikasi truk di Semarang, 
+
+Ternyata ada yang lagi trend di motif airbrush para peserta.
+Wajah ora… https://t.co/aFZgOL3Rpj",28,1551868200677085184,"named_entity_recognition: [truk, Semarang]
+aspect_sentiment: [kontes modifikasi (positive), motif airbrush (positive), peserta (neutral)]",227
+ganjar,"BAPAK PEMBABAT PUNGLI 
+
+Aksi heroik pak ganjar yg membabat  praktik pungli melekat dihati para pemilik truk
+
+Mereka… https://t.co/rJJHR78xai",15,1551882962521968642,"named_entity_recognition: [pak ganjar, para pemilik truk]
+aspect_sentiment: [membabat (positif), praktik pungli (negatif)]",236
+ganjar,"Saking tresno’nya ke Pak @ganjarpranowo 
+
+para supir truk Meng Hiasi bak mereka dgn wajah Pak Ganjar di acara Truck… https://t.co/mJM9ToQH7s",4,1551837573060112384,"named_entity_recognition: [""ganjarpranowo"", ""Truck""]
+aspect_sentiment: [""tresno (positive)"", ""supir truk (neutral)"", ""bak (neutral)"", ""wajah Pak Ganjar (positive)"", ""acara Truck (neutral)""]",251
+ganjar,"Lihat,para pecinta truk rela merogoh kocek dalam2 memoles truck miliknya dengan wajah gubernur Ganjar Pranowo berba… https://t.co/iNDJCjbcMd",11,1551831529684631552,"named_entity_recognition: [Ganjar Pranowo (PERSON)]
+
+aspect_sentiment: [merogoh kocek (negative), memoles truck (positive), wajah gubernur Ganjar Pranowo (neutral)]",238
+ganjar,"Kontes modifikasi truk di Semarang - Jateng, kembali digelar.
+
+Fenomena baru menjangkiti pecinta truk. Terlihat jel… https://t.co/EL3MimBKss",10,1551908774809841664,"named_entity_recognition: [Kontes modifikasi truk, Semarang - Jateng]
+aspect_sentiment: [Kontes modifikasi truk (positif)]",234
+ganjar,Gemanya sudah Merebak dan Menggaung seantero Negeri... Semoga Allah Memberikan Pemimpin yg Baik Buat Seluruh Bangsa… https://t.co/CtyhMep0YS,3,1551908774809841664,"named_entity_recognition: []
+
+aspect_sentiment: []",203
+ganjar,"Diantara 2 putra terbaik bangsa ini, siapakah yg terbaik menurut anda ?
+Anies.                        Ganjar
+   🔁… https://t.co/q3jxbtaocu",3468,1540334115202838528,"named_entity_recognition: [Anies, Ganjar]
+aspect_sentiment: [putra (positive), terbaik (positive), bangsa (positive), Anies (positive), Ganjar (positive)]",235
+ganjar,Fenomena truk bergambar wajah gubernur kesayangan rakyat Ganjar Pranowo ternyata jadi ajang kreativitas dan bentuk… https://t.co/jINvFJ2wh5,7,1552137329988751361,"named_entity_recognition: [""Ganjar Pranowo""]
+
+aspect_sentiment: [""truk bergambar wajah gubernur kesayangan rakyat"" (positive)]",234
+ganjar,@cendanao @rucidewa151 @tatakujiyati @jokowi @ganjarpranowo Nah...pertanyaanmu membuktikan kepiawaian Pak… https://t.co/139mvMnDst,0,1552137329988751361,"named_entity_recognition: [@cendanao, @rucidewa151, @tatakujiyati, @jokowi, @ganjarpranowo]
+
+aspect_sentiment: [pertanyaanmu (positive), Pak Jokowi (positive), Ganjar Pranowo (positive)]",261
+ganjar,Seharusnya tahu kapasitas diri. Di semua survei suara Ganjar Pranowo melambung sendiri. Masa partai sebesar… https://t.co/OwYK9gOVFw,22,1552138503294570501,"named_entity_recognition: [Ganjar Pranowo, partai]
+aspect_sentiment: [tahu kapasitas diri (negative), survei suara (positive), Ganjar Pranowo (positive), partai (negative)]",245
+ganjar,"Tanaman sakit karna berkutu, 
+Jangan pakai obat kimiawi,
+Kwalitas diri harus bermutu,
+Tuhan kan ganjar hidup surgaw… https://t.co/H5AGfD65wG",0,1552465322271461376,"named_entity_recognition: []
+
+aspect_sentiment: [Tanaman (negative), berkutu (negative), obat kimiawi (negative), kualitas diri (positive), hidup surgaw (positive)]",243
+ganjar,@ganjarpranowo Pk ganjar 👍👍👍👍👍,0,1552465322271461376,"named_entity_recognition: [PERSON]
+aspect_sentiment: [Pk ganjar (positive)]",186
+ganjar,Santri Dukung Ganjar Kalimantan Timur dalam Agenda Gerakan Sosial bantu UMKM lokal di kota Samarinda… https://t.co/6QTh0iEYKZ,0,1552465322271461376,"named_entity_recognition: [Ganjar Kalimantan Timur, UMKM, Samarinda]
+aspect_sentiment: [Santri (positive), Dukung (positive), Gerakan Sosial (positive), bantu UMKM lokal (positive), kota Samarinda (neutral)]",251
+ganjar,Santri Dukung Ganjar Kalimantan Timur dalam Agenda Gerakan Sosial bantu UMKM lokal di kota Samarinda… https://t.co/D1hn08E3VX,0,1552465322271461376,"named_entity_recognition: [Ganjar Kalimantan Timur, Samarinda]
+
+aspect_sentiment: [Santri (positive), Dukung (positive), Agenda Gerakan Sosial (positive), bantu UMKM lokal (positive), kota Samarinda (positive)]",246
+ganjar,"@AimanJudakusum1 @NasDem Ya, nasdem seperti limbung .... berusaha cari dukungan yang pro ganjar &amp; anies , itu bukan… https://t.co/X8uR10XAJ6",0,1552465981678972928,"named_entity_recognition: [AimanJudakusum1, NasDem, ganjar, anies]
+aspect_sentiment: [nasdem (negative), cari dukungan (positive), pro ganjar (positive), anies (positive)]",246
+ganjar,"Ini loh gyus cara yang diambil oleh pak @ganjarpranowo untuk melindungi anak2 dr aksi perundungan dan kekerasan
+Bel… https://t.co/h0z7K6MMJ5",26,1552241591875936256,"named_entity_recognition: [""ganjarpranowo""]
+
+aspect_sentiment: [""melindungi (positive)"", ""anak2 (positive)"", ""perundungan (negative)"", ""kekerasan (negative)""]",238
+ganjar,Santri Dukung Ganjar Kalimantan Timur dalam Agenda Gerakan Sosial bantu UMKM lokal di kota Samarinda… https://t.co/wrEfTBEh8r,0,1552241591875936256,"named_entity_recognition: [Ganjar Kalimantan Timur, Samarinda]
+
+aspect_sentiment: [Santri (positive), Dukung (positive), Gerakan Sosial (positive), UMKM lokal (positive), kota Samarinda (neutral)]",243
+ganjar,"""Mendoakan agar Bapak Ganjar Pranowo selalu sehat, dan diberikan kekuatan untuk memimpin bangsa Indonesia dan negar… https://t.co/gRN6Pf1ApM",1,1552469219270217729,"named_entity_recognition: [Bapak Ganjar Pranowo, Indonesia]
+
+aspect_sentiment: [mendoakan (positive), sehat (positive), kekuatan (positive), memimpin (positive)]",236
+ganjar,"Beware, menurut @yunartowijaya di channel @akbarfaizal68 mmg bs ada skenario kesepakatan utk cut out tokoh2 elektab… https://t.co/0kJ0tvnxj1",0,1552454665031233539,"named_entity_recognition: [""@yunartowijaya"", ""@akbarfaizal68""]
+
+aspect_sentiment: [""skenario (negative)"", ""kesepakatan (negative)"", ""cut out (negative)"", ""tokoh2 elektab (negative)""]",255
+ganjar,"@Aryprasetyo85 Maksa banget ya 🤭🤭
+Tapi kita tetap harus hati² juga rapatkan barisan, karna FAKTA nya banyak juga ma… https://t.co/WalUDtMe3l",0,1552454665031233539,"named_entity_recognition: []
+
+aspect_sentiment: []",210
+ganjar,"@Dennysiregar7 Lah tentu yg banyak peluang ya ganjar,emang lu,minta komisaris tapi tdk memperbaikin diri,malah duku… https://t.co/WGuBLG566K",0,1552138503294570501,"named_entity_recognition: [Dennysiregar7, ganjar]
+aspect_sentiment: [minta komisaris (negative), memperbaikin diri (positive), duku (negative)]",238
+ganjar,"""Mendoakan agar Bapak Ganjar Pranowo selalu sehat, dan diberikan kekuatan untuk memimpin bangsa Indonesia dan negar… https://t.co/gRN6Pf1ApM",1,1552138503294570501,"named_entity_recognition: [Bapak Ganjar Pranowo, Indonesia]
+
+aspect_sentiment: [mendoakan (positive), sehat (positive), kekuatan (positive), memimpin (positive)]",236
+ganjar,"Dengan digelarnya doa istighosah bersama ini, memiliki harapan bangsa ini menjadi Baldatun Thoyyibatun Warrobbun Gh… https://t.co/q8FotFw98n",3,1552138503294570501,"named_entity_recognition: []
+
+aspect_sentiment: []",205
+ganjar,"@SKaspani_ong @Mdy_Asmara1701 Prestasi kerja?
+Ganjar santuy aja.. https://t.co/tEJZQMgfui",0,1552138503294570501,"named_entity_recognition: [@SKaspani_ong, @Mdy_Asmara1701]
+aspect_sentiment: [Prestasi kerja (positive), Ganjar (neutral)]",222
+ganjar,"Pertemuan Ganjar dengan Yasui..
+
+Kerjasama yang ditandatangani @ganjarpranowo ini antara Provinsi Jawa Tengah dan J… https://t.co/Malm5Ut8Bs",2,1552138503294570501,"named_entity_recognition: [""Ganjar"", ""Yasui"", ""Provinsi Jawa Tengah""]
+
+aspect_sentiment: [""Kerjasama (positif)""]",231
+ganjar,"Para militan Ganjar Pranowo Monggo di follow akun tiktok @Ganjar_banten,akun tiktok ini hanya up semua kegiatan Gan… https://t.co/LIll3flmNH",3,1552460680959102976,"named_entity_recognition: [Ganjar Pranowo, Ganjar_banten]
+aspect_sentiment: [akun tiktok (positive)]",219
+ganjar,@ChusnulCh__ @ganjarpranowo Ingat ganjar ingat wadas jng sampe indonesia di wadaskan,0,1552460680959102976,"named_entity_recognition: [""@ChusnulCh__"", ""@ganjarpranowo"", ""Indonesia""]
+
+aspect_sentiment: [""Ingat ganjar (positive)"", ""ingat wadas (negative)"", ""indonesia di wadaskan (negative)""]",229
+ridwan,@kostanalter gamau ah pasti kamu ridwan,0,1552466168316772352,"named_entity_recognition: [""@kostanalter"", ""ridwan""]
+aspect_sentiment: []",177
+ridwan,https://t.co/fOemObPooO,0,1552466168316772352,"named_entity_recognition: [Tidak ada entitas yang dapat diidentifikasi dalam komentar ini]
+
+aspect_sentiment: [Tidak ada aspek yang dapat diidentifikasi dalam komentar ini]",196
+ridwan,"Bagi kawan-kawan komunitas maupun independen yang berdomisili di luar DIY, berikut tautan pemesanan tiket Rans NFC… https://t.co/PqEay6ZLUg",27,1552480466573266945,"named_entity_recognition: [Rans NFC]
+
+aspect_sentiment: [tautan pemesanan tiket (positive)]",219
+ridwan,"☆ rekomendasi tunik hitam ☆
+
+1. rate : 4,9 link : https://t.co/7erxJneR6m
+2. rate : 4,8 link :… https://t.co/ONdzALAKxE",80,1551494530566078464,"named_entity_recognition: []
+
+aspect_sentiment: []",211
+ridwan,"@tansyahbagas @yozzeef_ Ayo ayo mas, saya didaerah ciputat",0,1551494530566078464,"named_entity_recognition: [@tansyahbagas, @yozzeef_]
+aspect_sentiment: [Ayo ayo (positive), mas (neutral), saya (neutral), didaerah ciputat (neutral)]",218
+ridwan,@FWBESS Ridwan hanif kah,0,1551494530566078464,"named_entity_recognition: [""Ridwan Hanif"" (PERSON)]
+
+aspect_sentiment: [Tidak ada aspect yang dapat diidentifikasi]",183
+ridwan,@Darwinn99 @LFC https://t.co/fu0BtqIii4,0,1551494530566078464,"named_entity_recognition: [@Darwinn99, @LFC]
+aspect_sentiment: []",184
+ridwan,@kudaniljantan @sunatpakelaser @idextratime @telegraaf ig pak ridwan kamil ttg Baim Paula,0,1551494530566078464,"named_entity_recognition: [""@kudaniljantan"", ""@sunatpakelaser"", ""@idextratime"", ""@telegraaf"", ""ig"", ""pak ridwan kamil"", ""Baim Paula""]
+
+aspect_sentiment: [pak ridwan kamil (positive), Baim Paula (neutral)]",242
+ridwan,"Prokes lengkapi booster
+Kasus covid-19 di Jabar ngegas lagi, Ridwan Kamil ingatkan prokes https://t.co/6QFPlwSvLQ",0,1551494530566078464,"named_entity_recognition: [Ridwan Kamil, Jabar]
+aspect_sentiment: [Prokes (positive), booster (neutral), Kasus covid-19 di Jabar (negative), ngegas (negative), Ridwan Kamil (positive), prokes (neutral)]",246
+ridwan,me: did shakespeare get performed in india first in the 18th or 19th century? would local troupes known any shakesp… https://t.co/EfbcG7F3IE,0,1551494530566078464,"named_entity_recognition: [Shakespeare, India]
+aspect_sentiment: [did shakespeare get performed (neutral), in india (neutral), in the 18th or 19th century (neutral), local troupes (neutral)]",236
+ridwan,@Sen_ridwan @officalboinft Lfgg,0,1551494530566078464,"named_entity_recognition: []
+
+aspect_sentiment: []",168
+ridwan,"Tapi saat baca Mas Baim kecewa karena 'niat baik' Mas Baim dicemooh masyarakat, yang cemoohan itu diperkuat dengan… https://t.co/4U1OREpZ6a",4,1552337660768686084,"named_entity_recognition: [Mas Baim]
+
+aspect_sentiment: [kecewa (negative), niat baik (positive), dicemooh (negative), masyarakat (neutral)]",232
+ridwan,Sosok Rudi Kamri yang Sebut Ridwan Kamil Ngemis Donasi Masjid untuk Eril https://t.co/JsA6tRBpgO,0,1552337660768686084,"named_entity_recognition: [Rudi Kamri, Ridwan Kamil, Eril]
+
+aspect_sentiment: [Sosok Rudi Kamri (positive), Ridwan Kamil (negative), Ngemis Donasi Masjid (negative), Eril (neutral)]",236
+ridwan,iba bgt sama angkatan 19 beneran kuliah bentar abistu pandemi covid abistu kkn tb tb JEDERRRR skripsi,299,1552263963743727616,"named_entity_recognition: [19, covid, kkn, skripsi]
+aspect_sentiment: [kuliah (positive), pandemi (negative), kkn (neutral), skripsi (positive)]",220
+ridwan,"@haianuu_ @hellennecs Ono mobil, ono jas ujannu",0,1552263963743727616,"named_entity_recognition: [@haianuu_, @hellennecs]
+aspect_sentiment: [mobil (positive), jas ujannu (neutral)]",198
+ridwan,@Mike_Palicz We learned it from you dad,1,1552425321542156293,"named_entity_recognition: [Mike_Palicz]
+aspect_sentiment: [learned (positive)]",175
+ridwan,"@officalboinft wow 🤯🤯
+
+I'm 🅱️ullish on 🅱️🅱️🅱️ https://t.co/UsMc9iBXmn",1,1552425321542156293,"named_entity_recognition: []
+
+aspect_sentiment: []",200
+ridwan,@haianuu_ @Tempat_Luka @hellennecs Iyo iyo aku sing salah nu,0,1552425321542156293,"named_entity_recognition: [@haianuu_, @Tempat_Luka, @hellennecs]
+aspect_sentiment: [aku (negative)]",195
+ridwan,@LFC https://t.co/X9LAYRtipC,0,1552425321542156293,"named_entity_recognition: [LFC]
+
+aspect_sentiment: [Tidak ada aspect atau sentiment yang dapat diidentifikasi dari komentar tersebut]",186
+ridwan,@Yaeyaewhite24 Did that shit too but never no more,0,1552425321542156293,"named_entity_recognition: []
+
+aspect_sentiment: [Did (negative), shit (negative)]",177
+ridwan,@Tempat_Luka @ridwan_mr10 @hellennecs alah om wan seng koyo entut nek dijak dolan kok wkwkwkwkwk,0,1552425321542156293,"named_entity_recognition: [@Tempat_Luka, @ridwan_mr10, @hellennecs]
+aspect_sentiment: [om wan (positive), entut (negative), dolan (positive)]",222
+ridwan,Religion finish africa!!!,1704,1552411058773663744,"named_entity_recognition: []
+
+aspect_sentiment: []",160
+ridwan,@intundd Selamat ulang tahun tang,0,1552411058773663744,"named_entity_recognition: [""@intundd""]
+aspect_sentiment: []",169
+ridwan,"https://t.co/XqhjYLNvb9
+                     ☝
+Silahkan klik link di atas 
+Ridwan Arul - Inilah aku ( official vide… https://t.co/UuAMFdulSz",0,1552411058773663744,"named_entity_recognition: [Ridwan Arul]
+aspect_sentiment: [official vide (positive)]",213
+ridwan,"but for real they are though, and you're a cat (and wildlife) abuser if you let your cat wander outside https://t.co/0qp42abssE",0,1552411058773663744,"named_entity_recognition: []
+
+aspect_sentiment: [cat (negative), wildlife (negative)]",199
+ridwan,the scientific institute https://t.co/6tvl8T6Gji https://t.co/NEOPqkx3vZ,1327,1552319167923109888,"named_entity_recognition: [""the scientific institute""]
+
+aspect_sentiment: []",188
+ridwan,🅱️oi 🤍,104,1552474269208264704,"named_entity_recognition: []
+
+aspect_sentiment: []",163
+ridwan,@ridwan_mr10 @haianuu_ @hellennecs Anu rasah dijak mas,0,1552474269208264704,"named_entity_recognition: [@ridwan_mr10, @haianuu_, @hellennecs]
+aspect_sentiment: [Anu (neutral)]",195
+ridwan,"People often treat sundial watches like some kind of hilarious joke, but here are some actual pocket watch sundials… https://t.co/MGLVZ3RdcT",18,1552302190467125248,"named_entity_recognition: []
+
+aspect_sentiment: [treat (negative), sundial watches (neutral), hilarious joke (negative), pocket watch sundials (neutral)]",213
+ridwan,"Direktur PSDI, Ridwan Mulyana menegaskan “konsep kebijakan Penangkapan Ikan Terukur pada perikanan tangkap skala ke… https://t.co/7IduJTQz0h",0,1552302190467125248,"named_entity_recognition: [Direktur PSDI, Ridwan Mulyana]
+aspect_sentiment: [konsep kebijakan Penangkapan Ikan Terukur (positif)]",237
+ridwan,AYOOOOOOO! https://t.co/7cOI9xqdfg,0,1552302190467125248,"named_entity_recognition: []
+
+aspect_sentiment: []",174
+ridwan,"Buku Panduan : https://t.co/z6ZR12WU6M
+Link Registrasi :
+https://t.co/CKx8K5QyBZ
+
+📌Narahubung :
+- 0856 4144 1420 (A… https://t.co/60RZ6UNnfV",2,1552474360367431681,"named_entity_recognition: [0856 4144 1420 (PERSON)]
+
+aspect_sentiment: [Buku Panduan (positive), Link Registrasi (neutral), Narahubung (neutral)]",256
+ridwan,"[ PROUDLY PRESENT ] 
+
+FESTIVAL JURNALISTIK dengan tema ""Peran Media dalam Mengawal Problematika HAM sebagai Kebebas… https://t.co/sX3uOaoHIw",3,1552474356777127937,"named_entity_recognition: [FESTIVAL JURNALISTIK, Media]
+aspect_sentiment: [""Peran Media"" (positive), ""Problematika HAM"" (negative), ""Kebebasan"" (positive)]",240
+ridwan,@irvansyto11 @ahmadshbrn_ @BCSxPSS_1976 Malah bingung https://t.co/h9A8QbNQEQ,0,1552474356777127937,"named_entity_recognition: [@irvansyto11, @ahmadshbrn_, @BCSxPSS_1976]
+aspect_sentiment: [bingung (negative)]",224
+ridwan,"Dituduh Ngemis Dana Buat Masjid, Ridwan Kamil Beri Balasan Menohok https://t.co/CWZRbIv894",0,1552474356777127937,"named_entity_recognition: [""Ridwan Kamil""]
+
+aspect_sentiment: [""Dituduh Ngemis Dana Buat Masjid"" (negative), ""Beri Balasan Menohok"" (positive)]",222
+ridwan,"gonna break this tweet down as an example of monkeypox misinfo, how to spot it, why it’s harmful, etc https://t.co/NEUEkuOEH3",1193,1552385319466463232,"named_entity_recognition: []
+
+aspect_sentiment: [break (neutral), tweet (neutral), monkeypox misinfo (negative), spot (neutral), harmful (negative)]",217
+ridwan,Sometimes when I feel bad about a first draft I like to think about this behind-the-scenes sketch of the facehugger… https://t.co/4rPJWUGye7,2167,1552109674304086017,"named_entity_recognition: []
+
+aspect_sentiment: [feel (positive)]",197
+ridwan,@Collins25607767 Bbn fans are always toxic just bearly five days and u want certain housemates to be evicted to please ur fave,0,1552109674304086017,"named_entity_recognition: [Bbn fans]
+aspect_sentiment: [toxic (negative), certain housemates (neutral), fave (positive)]",206
+ridwan,@IwuohaGift Ahh see brain,0,1552109674304086017,,0
+ridwan,testing the bot,0,1552109674304086017,"named_entity_recognition: []
+
+aspect_sentiment: []",158
+ridwan,@ShakibShayed Okey then,0,1552109674304086017,"named_entity_recognition: []
+
+aspect_sentiment: []",163
+ridwan,"@ridwan_mr10 @hellennecs mancing ki mancing iwak omm, moso mancing perkoro awokawokawok",0,1552109674304086017,"named_entity_recognition: [@ridwan_mr10, @hellennecs]
+aspect_sentiment: [mancing (positive), iwak (positive), mancing perkoro (negative)]",212
+ridwan,@ridwan_mr10 @hellennecs la nek udan opo arep udan-udanan loo,0,1552109674304086017,"named_entity_recognition: [@ridwan_mr10, @hellennecs]
+aspect_sentiment: [udan (positive)]",194
+ridwan,fans baim paula serem bgt. ngatain pak ridwan kamil “orang berpendidikan kan?” wkwk gila https://t.co/YK7LbNhFFn,7371,1551474998514106368,"named_entity_recognition: [""baim paula"", ""pak ridwan kamil""]
+aspect_sentiment: [""fans baim paula (negative)"", ""ngatain pak ridwan kamil (negative)""]",231
+ridwan,"@officalboinft Please Dm or follow, I have a proposal for you",0,1551474998514106368,"named_entity_recognition: [""@officalboinft""]
+aspect_sentiment: []",179
+ridwan,"“Jika kamu berbuat baik (berarti) kamu berbuat baik untuk dirimu sendiri dan jika kamu berbuat jahat, maka (kejahat… https://t.co/pzxxs1oQAu",0,1551474998514106368,"named_entity_recognition: []
+
+aspect_sentiment: []",202
+ridwan,"Cegah Perundungan Kembali Terulang, Ridwan Kamil Minta Guru Awasi Jam Kritis https://t.co/rk6tk1g0cB",0,1551474998514106368,"named_entity_recognition: [Ridwan Kamil, Guru]
+aspect_sentiment: [Cegah (positive), Perundungan (negative), Kembali (negative), Terulang (negative), Minta (positive), Awasi (positive), Jam Kritis (neutral)]",239
+ridwan,"Apakah ini teori konspirasi Citayam Fashion Week? 🙄 
+
+Gila observasi nya bikin overthinking🤣😭 
+
+Paula Ridwan Kamil… https://t.co/fUR3uOwaoF",1007,1551493612919455745,"named_entity_recognition: [Paula Ridwan Kamil]
+
+aspect_sentiment: [teori konspirasi (negative), Citayam Fashion Week (neutral), observasi (positive), overthinking (negative), Paula Ridwan Kamil (neutral)]",248
+ridwan,"@UmarHasibuan70_ @ridwankamil Cc: @ridwankamil .
+Diamkan saja Pak ridwan.
+ga ada gunanya ngeladenin pepesan kosong.… https://t.co/r3EIxLFZqU",0,1551493612919455745,"named_entity_recognition: [@UmarHasibuan70_, @ridwankamil, @ridwankamil]
+aspect_sentiment: [ngeladenin (negative)]",235
+ridwan,@lingdranaksa Diem,0,1551493612919455745,"named_entity_recognition: []
+
+aspect_sentiment: []",162
+ridwan,@kosmoscokelat Nyatane iso,0,1551493612919455745,"named_entity_recognition: []
+
+aspect_sentiment: []",165
+ridwan,@fathh___ Tenggara,0,1551493612919455745,"named_entity_recognition: []
+
+aspect_sentiment: []",163
+ridwan,@DryFloooo Okee,0,1551493612919455745,"named_entity_recognition: []
+
+aspect_sentiment: []",160
+ridwan,@fatyagvn @SmgMenfess2 Lha spek e sing digolek i koyo aku pora wkwkw,0,1551493612919455745,"named_entity_recognition: []
+
+aspect_sentiment: []",184
+ridwan,The media is a click-seeking machine dressed up as a truth-seeking machine,27565,1552324811153707018,"named_entity_recognition: []
+
+aspect_sentiment: [""media (negative)"", ""click-seeking machine (negative)"", ""truth-seeking machine (positive)""]",188
+ridwan,"Heran, kok banyak yang senang sama penyalahgunaan kuasa begini. Padahal pola otoritarianisme ini berbahaya dan pern… https://t.co/NjYeqVElDS",1198,1551763378670292992,"named_entity_recognition: []
+
+aspect_sentiment: [penyalahgunaan (negative), pola otoritarianisme (negative)]",219
+ridwan,@SmgMenfess2 Ki mas sat set sat set jare @ridwan_mr10,0,1551763378670292992,"named_entity_recognition: [""@SmgMenfess2"", ""Ki mas"", ""@ridwan_mr10""]
+aspect_sentiment: []",192
+ridwan,"Pak Ridwan Kamil kok bisa dapet aja jawabannya, heran banget deh gue😭🤣 https://t.co/1g0kra54ih",1,1552330192504639488,"named_entity_recognition: [Pak Ridwan Kamil]
+aspect_sentiment: [jawabannya (positif)]",210
+ridwan,"Intip Foto-foto Rumah Pribadi Ridwan Kamil yang Ramah Lingkungan, Terbuat dari 30 Ribu Botol Bekas
+ 
+#RidwanKamil… https://t.co/bqwglumBXq",0,1552330192504639488,"named_entity_recognition: [""Ridwan Kamil""]
+
+aspect_sentiment: []",211
+ridwan,"@razaqrdnsyh Heran, pada pede banget fafifu di depan bonge gitu. Cuma ridwan kamil doang si yg paling realistis omongannya",3,1552365101340295168,"named_entity_recognition: [""ridwan kamil""]
+
+aspect_sentiment: [""paling realistis (positive)""]",213
+ridwan,"🎁 GIVEAWAY 🎁
+
+Minting in under 24 hours! 🔥
+
+🏆 1 $SOL
+
+🎫 To enter:
+1️⃣ Follow @Wallstcyborgs 
+2️⃣ RT, Like + Tag Fri… https://t.co/QbWw7QIvle",219,1552423090747052033,"named_entity_recognition: [""@Wallstcyborgs""]
+
+aspect_sentiment: [""Minting (positive)"", ""$SOL (neutral)"", ""Follow (positive)"", ""RT (positive)"", ""Like (positive)"", ""Tag (positive)""]",271
+ridwan,@officalboinft 🅱️OON 🌕,0,1552423090747052033,"named_entity_recognition: []
+
+aspect_sentiment: []",169
+ridwan,🅱️lon 🅱️usk https://t.co/cR7NzEYRFw,153,1552463680012525574,"named_entity_recognition: [Blon Busk]
+
+aspect_sentiment: [Tidak ada aspect yang dapat diidentifikasi]",193
+ridwan,"@TaniHitam @ievaniesh @indahsuryani @txtdrberseragam Hahahaa, turun temurun dan mendarah daging 😂😂",0,1552463680012525574,"named_entity_recognition: [@TaniHitam, @ievaniesh, @indahsuryani, @txtdrberseragam]
+aspect_sentiment: [turun temurun (positive), mendarah daging (positive)]",241
+ridwan,@Fatimah59708894 Apakah ada contoh dari Rasulullah shalallahu alaihi wa sallam atau para sahabat yang sempurna isla… https://t.co/7NdoIrliRJ,0,1551474998514106368,"named_entity_recognition: [Rasulullah shalallahu alaihi wa sallam, para sahabat]
+aspect_sentiment: [contoh (positif)]",232
+ridwan,"Katla 189 5/6*
+
+⬛🟨⬛⬛⬛
+🟩⬛⬛⬛⬛
+🟩⬛⬛⬛⬛
+🟩⬛🟩🟩⬛
+🟩🟩🟩🟩🟩
+
+https://t.co/2K0k4dwUCJ",0,1551474998514106368,"named_entity_recognition: []
+
+aspect_sentiment: []",257
+ridwan,Muka nya emang dach keq KOPED 19 😂😂😂 https://t.co/TEoFhatN6B,2,1552463230370398210,"named_entity_recognition: []
+
+aspect_sentiment: []",187
+ridwan,"#TheLoudHouse
+#Ady https://t.co/LaagFoGhJe",0,1552463230370398210,"named_entity_recognition: [Ady]
+
+aspect_sentiment: [TheLoudHouse (neutral)]",184
+ridwan,"Ridwan Kamil : Pemerintah Harus Wadahi Aktivitas Positif Remaja
+
+https://t.co/vXf3t1664O
+
+#info #golalidotid #golaliid Citayam Fashion Week",0,1552463230370398210,"named_entity_recognition: [""Ridwan Kamil"", ""Pemerintah""]
+aspect_sentiment: [""Wadahi Aktivitas Positif Remaja (positive)""]",237
+ridwan,"Totally agree with Pak Ridwan Kamil.
+
+Citayam Fashion Week https://t.co/Mfs09bZZqm",3599,1551428497868222469,"named_entity_recognition: [Pak Ridwan Kamil, Citayam Fashion Week]
+
+aspect_sentiment: [agree (positive)]",197
+ridwan,@ridwan_mr10 @SmgMenfess2 penting ra sibuk sibuk bgt sih mas 🤣,0,1551428497868222469,"named_entity_recognition: [@ridwan_mr10, @SmgMenfess2]
+aspect_sentiment: [penting (positive), sibuk (negative)]",207
+ridwan,@CG_Contest @cehlos #DuoGanteng,0,1551428497868222469,"named_entity_recognition: [CG_Contest, cehlos]
+aspect_sentiment: [DuoGanteng (positive)]",186
+ridwan,@CG_Contest @cehlos Ga ngetik apa-apa cuma geser-geser menu aplikasi aja. 😁,0,1551428497868222469,"named_entity_recognition: []
+
+aspect_sentiment: [geser-geser menu aplikasi (positive)]",196
+ridwan,@TaniHitam @ievaniesh @ridwan_sidiik @txtdrberseragam Sampe mumet mau ngeberesin dari mana dulu 😅,0,1551428497868222469,"named_entity_recognition: [@TaniHitam, @ievaniesh, @ridwan_sidiik, @txtdrberseragam]
+aspect_sentiment: [mumet (negative)]",226
+ridwan,"$75 | 1.05 JT • 8 hrs • rt 
+
+➡️ follow @CompBrosCrypto",4696,1552459101267181568,"named_entity_recognition: []
+
+aspect_sentiment: []",178
+ridwan,"$15 | 30 mins
+
+RT this + LIKE @moneymotive888 recent tweets",1238,1552452912667889664,"named_entity_recognition: []
+
+aspect_sentiment: []",173
+ridwan,@xbhjkl @SmgMenfess2 Jalan jalan virtual lewat story ne wong,0,1552452912667889664,"named_entity_recognition: [PERSON, ORGANIZATION]
+
+aspect_sentiment: [Jalan jalan virtual (positive)]",191
+ridwan,@ievaniesh @ridwan_sidiik @indahsuryani @txtdrberseragam Ya kalo kejaksaannya beres. Kadang sama aja cari seripilan… https://t.co/PmCETyCZYt,0,1552452912667889664,"named_entity_recognition: [@ievaniesh, @ridwan_sidiik, @indahsuryani, @txtdrberseragam]
+aspect_sentiment: [kejaksaannya (positive), seripilan (negative)]",253
+ridwan,@ruangtaktik Seminggu sekali berasa lama,0,1552452912667889664,"named_entity_recognition: []
+
+aspect_sentiment: [seminggu (negative)]",176
+ridwan,@ridwan_mr10 @SmgMenfess2 gaweane hiling kok yaaa mas yaaa ng omh glundang glundung tok😌,0,1552452912667889664,"named_entity_recognition: [@ridwan_mr10, @SmgMenfess2]
+aspect_sentiment: [gaweane (positive), hiling (neutral), mas (positive), ng omh glundang glundung tok (neutral)]",230
+ridwan,"@Fandom_ID Jatidiri ndom, semua minuman harus di pindah ke plastik.",0,1552452912667889664,"named_entity_recognition: [@Fandom_ID]
+aspect_sentiment: [minuman (positive)]",185
+ridwan,@DrJakobWagner Follow back or DM please,0,1551474998514106368,"named_entity_recognition: []
+
+aspect_sentiment: []",165
+ridwan,"@xbhjkl @SmgMenfess2 Mung mangan turu kok ya, nek dikon revisian asal ra dikerjake kan ra sibukbwkwkwk",0,1551474998514106368,"named_entity_recognition: []
+
+aspect_sentiment: [mangan (positive), turu (neutral), dikon revisian (negative), sibuk (negative)]",220
+ridwan,@sdanangm Ben nyaman mbe penggantiku sek. Ngko kan lali wkwkw,0,1551474998514106368,"named_entity_recognition: [Ben]
+aspect_sentiment: [nyaman (positive), penggantiku (neutral), lali (negative)]",197
+ridwan,"KaijuFrenz 🤝 Meeps
+
+Collab giveaway with @MEEPSofficial
+To enter: 
+1. Follow @KaijuFrenz &amp; @MEEPSofficial
+2. Like &amp;… https://t.co/XDzRzDKIWY",1984,1552115558023569408,"named_entity_recognition: [""KaijuFrenz"", ""Meeps"", ""@MEEPSofficial"", ""@KaijuFrenz""]
+aspect_sentiment: [""Collab giveaway (positive)"", ""follow (neutral)"", ""like (positive)""]",261
+ridwan,lets 🅱️uild an empire,265,1552447383854006272,"named_entity_recognition: []
+
+aspect_sentiment: [build (positive)]",167
+ridwan,@officalboinft Empire it's,0,1552447383854006272,"named_entity_recognition: [Empire]
+aspect_sentiment: [Empire (positive)]",171
+ridwan,Orang dalam malaikat Ridwan semua. https://t.co/9hDEf3YSsK,0,1552447383854006272,"named_entity_recognition: []
+
+aspect_sentiment: []",179
+ridwan,🅱️oi,319,1552424450146041858,"named_entity_recognition: []
+
+aspect_sentiment: []",160
+ridwan,"masyrakatnya jerit-jerit, gubernurnya malah sibuk galang dana untuk nyapres. pemimpin macam apa ini.… https://t.co/s5fJfkK5GM",2,1551532025772838912,"named_entity_recognition: [gubernurnya]
+
+aspect_sentiment: [galang dana (negative), nyapres (negative)]",222
+ridwan,@memelandpttz @gactasn @0xJ3kyll @yarinbirgun @Kymcfr85 @tirekke @hesam9marai1990 @Mightyduck87 @SloaneRay1… https://t.co/H75k5P8Qwr,0,1551532025772838912,"named_entity_recognition: [@memelandpttz, @gactasn, @0xJ3kyll, @yarinbirgun, @Kymcfr85, @tirekke, @hesam9marai1990, @Mightyduck87, @SloaneRay1]
+
+aspect_sentiment: [tidak ada informasi yang dapat diekstraksi]",289
+ridwan,"@ridwan_mr10 @SmgMenfess2 gaweane mung mgn turu to mas, kan ra sibuk kui rung wae nek dicht dosen kon revisian terus🤣 mobal utekke🤣",0,1551532025772838912,"named_entity_recognition: [@ridwan_mr10, @SmgMenfess2]
+aspect_sentiment: [gaweane (positive), mung mgn turu (neutral), sibuk (negative), dicht dosen (negative), revisian (negative), mobal utekke (positive)]",265
+ridwan,Sholat 5 waktu lebih susah dijaga daripada hati seseorang.,0,1551532025772838912,"named_entity_recognition: []
+
+aspect_sentiment: [Sholat (negative), waktu (neutral), hati seseorang (positive)]",193
+ridwan,@xbhjkl @SmgMenfess2 Kasih paham nggak sibuk e orang skripsian wkwkw,0,1551532025772838912,"named_entity_recognition: [PERSON, ORGANIZATION]
+
+aspect_sentiment: [paham (positive), sibuk (negative)]",203
+erick,Erick Pulgar não é jogador do Flamengo,0,1551532025772838912,"named_entity_recognition: [Erick Pulgar, Flamengo]
+aspect_sentiment: [jogador (negatif)]",180
+erick,"Menteri BUMN @erickthohir beberes ruang pertemuan sebelum bertemu Menteri Urusan Kebudayaan, Komunitas, dan Kepemud… https://t.co/nTLjjQzuXC",0,1551532025772838912,"named_entity_recognition: [""Menteri BUMN"", ""@erickthohir"", ""Menteri Urusan Kebudayaan, Komunitas, dan Kepemud""]
+
+aspect_sentiment: [""beberes ruang pertemuan (positive)"", ""bertemu Menteri Urusan Kebudayaan, Komunitas, dan Kepemud (neutral)""]",284
+erick,"Finalmente uma expulsão. Este time filho da puta dessa Varmengo fazem o que QUEREM em campo. O QUE QUEREM
+O Gabriel… https://t.co/GOBVtPzv42",1,1552480701521477634,"named_entity_recognition: [Varmengo, Gabriel]
+
+aspect_sentiment: [expulsão (positif), time (negatif)]",220
+erick,"Cartão amarelo para Arrascaeta, após este lance com Erick 
+
+#CopaDoBrasil https://t.co/GLD6aRWmg6",66,1552479326725079043,"named_entity_recognition: [Arrascaeta, Erick, CopaDoBrasil]
+
+aspect_sentiment: [Cartão (amarelo), lance (positif)]",211
+erick,Será q eras platinar um pouco e meter um brinco 😳,0,1552479326725079043,"named_entity_recognition: []
+
+aspect_sentiment: []",172
+erick,"Erick Pulgar, quase acertado com o Flamengo, tem histórico de denúncia por abuso sexual, além de ter atropelado e m… https://t.co/mWLGgUOXbz",355,1552328122565070848,"named_entity_recognition: [Erick Pulgar, Flamengo]
+
+aspect_sentiment: [acertado (positive), histórico de denúncia por abuso sexual (negative), atropelado (negative)]",237
+erick,"""CONFIRMADO, ERICK PULGAR VIAJA MAÑANA A RÍO DE JANEIRO A FIRMAR CONTRATO Y A PONERSE AL SERVICIO DEL ""MENGAO""!… https://t.co/iVieaIr31Z",1,1552481128015093760,"named_entity_recognition: [""ERICK PULGAR"", ""RÍO DE JANEIRO"", ""MENGAO""]
+aspect_sentiment: [""VIAJA (positive)"", ""FIRMAR CONTRATO (neutral)"", ""PONERSE AL SERVICIO (positive)""]",264
+erick,"Time do Athletico, cêis tão ligado, é de guerra! Astúcia de todos! A importância do Erick, Abner, Khellven nessa partida kkkk cêéloko",0,1552481128015093760,"named_entity_recognition: [Athletico, Erick, Abner, Khellven]
+
+aspect_sentiment: [Time (positive), guerra (positive), Astúcia (positive), Erick (positive), Abner (positive), Khellven (positive)]",243
+erick,"@nanasssee おはよう
+バイトがんばれー",0,1552481128015093760,"named_entity_recognition: []
+
+aspect_sentiment: []",171
+erick,Erick Thohir mendampingi presiden Jokowi gelar pertemuan bilateral dengan PM Jepang. Kedua negara sepakat meningkat… https://t.co/VT2M9v67JS,3,1552459479106523136,"named_entity_recognition: [Erick Thohir, Jokowi, PM Jepang]
+aspect_sentiment: [mendampingi (positive), gelar pertemuan bilateral (positive), meningkat (positive)]",239
+erick,"O flamenguista que vive batendo no Galo pela contratação do Cuca e batia no CAP por causa do Marcinho, terá dificul… https://t.co/jk4dk29woA",116,1552327222907834375,"named_entity_recognition: [flamenguista, Galo, Cuca, CAP, Marcinho]
+aspect_sentiment: [contratação (positive), dificuldade (negative)]",230
+erick,Pinche rolon.,0,1552327222907834375,"named_entity_recognition: []
+
+aspect_sentiment: []",159
+erick,"@ErickDalbem Você joga bola mano, pelo amor de Deus.",0,1552327222907834375,"named_entity_recognition: [ErickDalbem]
+aspect_sentiment: [joga bola (positive)]",182
+erick,Erick Pulgar não é jogador para Flamengo. #PulgarNão https://t.co/RPoClbnFD1,1403,1552329978380967940,"named_entity_recognition: [Erick Pulgar, Flamengo]
+
+aspect_sentiment: [jogador (negative)]",195
+erick,"Gabigol deveria ter sido expulso na falta no Fernandinho. E agora, Arrascaeta deveria ter sido expulso na falta no Erick.",18,1552478975863267328,"named_entity_recognition: [Gabigol, Fernandinho, Arrascaeta, Erick]
+
+aspect_sentiment: [deveria ter sido expulso (negative), falta (neutral)]",218
+erick,@cittongabriel7 Absurdo!! Aí oq ele expulsou foi por reclamação kkkkkkkk Arrascaeta quase quebrou a perna do Erick,0,1552478975863267328,"named_entity_recognition: [Erick, Arrascaeta]
+
+aspect_sentiment: [expulsou (negative), reclamação (negative), quebrou a perna (negative)]",224
+erick,"ERA PRA VERMELHO? Arrascaeta chegou de sola no calcanhar de Erick, mas o árbitro deu amarelo. 
+O que achou?… https://t.co/QpQkw3xL3M",37,1552480177820663809,"named_entity_recognition: [Arrascaeta, Erick]
+
+aspect_sentiment: [chegou (negative), amarelo (neutral)]",227
+erick,"En términos contractuales: 
+
+El amor debe ser bilateral o sinalagmático. No unilateral.",0,1552480177820663809,"named_entity_recognition: []
+
+aspect_sentiment: [amor (positive)]",182
+erick,"A verdade é que esse jogo tinha que ter três expulsos: 
+
+Gabriel pela entrada no Fernandinho
+Arrascaeta pela entrad… https://t.co/srl3gRgXlF",0,1552480177820663809,"named_entity_recognition: [Gabriel, Fernandinho, Arrascaeta]
+aspect_sentiment: [entrada (negative)]",214
+erick,"Erick = Crack. 
+
+Não omitam.",0,1552479326725079043,"named_entity_recognition: [Erick]
+aspect_sentiment: [Erick (positive)]",172
+erick,"Una mujer bonita,jamás estaría d tumbo en tumbo con cualquier mequetrefe,encima mostrarse cachosa,altanera,soberbia… https://t.co/3s8SkzAA4D",0,1552480177820663809,"named_entity_recognition: []
+
+aspect_sentiment: []",205
+erick,turco mohamed acabou com meu time,0,1552478975863267328,"named_entity_recognition: [Mohamed]
+aspect_sentiment: [acabou (negative), time (neutral)]",178
+erick,"finalmente 
+
+mas independente
+o Gabigol AGREDIU o Fernandinho
+era pra ter sido expulso. 
+
+o Arrascaeta deu NO MEIO… https://t.co/oAw6VUvqgh",0,1552478975863267328,"named_entity_recognition: [Gabigol, Fernandinho, Arrascaeta]
+aspect_sentiment: [Gabigol (negative), Fernandinho (neutral), Arrascaeta (positive)]",235
+erick,"Coisas que faltaram neste jogo: Cartão para Khellven, Expulsão de Fernandinho e Erick, cartão p Thiago Heleno e Ped… https://t.co/MS7xOpKFDU",0,1552480177820663809,"named_entity_recognition: [Khellven, Fernandinho, Erick, Thiago Heleno, Ped]
+aspect_sentiment: [Cartão (negative), Expulsão (negative)]",231
+erick,"Alto estima da tif homi, 7 foto e 8 vídeo por dia",0,1552480177820663809,"named_entity_recognition: []
+
+aspect_sentiment: [Alto estima (positive), tif homi (neutral), 7 foto (positive), 8 vídeo (positive)]",200
+erick,"Komitmen @erickthohir Berantas Korupsi Era Baru Pembangunan Indonesia
+
+Komitme Erick dalam memberantas korupsi dan… https://t.co/PSNowcFotG",9,1552445790807035904,"named_entity_recognition: [""@erickthohir"", ""Indonesia""]
+aspect_sentiment: [""Komitmen (positive)"", ""Berantas Korupsi (negative)"", ""Era Baru Pembangunan Indonesia (positive)""]",239
+erick,"Um absurdo o VAR não recomendar a expulsão do Arrascaeta em uma entrada como essa no Erick.
+
+Pipocaram no Maracanã!",1,1552479929903841281,"named_entity_recognition: [Arrascaeta, Erick, Maracanã]
+
+aspect_sentiment: [VAR (negative), expulsão (negative), entrada (negative), Pipocaram (negative)]",220
+erick,@hevertonfutebol Cadê seu time?,0,1552479929903841281,"named_entity_recognition: [hevertonfutebol (PERSON)]
+
+aspect_sentiment: [time (neutral)]",178
+erick,@_gabrielbelo Erick é o 13 né?,0,1552479326725079043,"named_entity_recognition: [""Erick""]
+
+aspect_sentiment: [""Erick (neutral)""]",176
+erick,Carrinho por trás ABSURDO de Arrascaeta no Erick com solada no tornozelo: AMARELO,14,1552479079374487552,"named_entity_recognition: [Arrascaeta, Erick]
+
+aspect_sentiment: [Carrinho (negative), ABSURDO (negative), Arrascaeta (neutral), Erick (neutral), solada (negative), tornozelo (neutral), AMARELO (neutral)]",226
+erick,Khellven e Erick @CBF_Futebol,0,1552479079374487552,"named_entity_recognition: [""Khellven"" (PERSON), ""Erick"" (PERSON), ""CBF_Futebol"" (ORGANIZATION)]
+
+aspect_sentiment: [Tidak ada aspect yang dapat diidentifikasi dalam komentar tersebut]",206
+erick,@VAR_Brazil e o lance que o erick chuta o everton em ?,0,1552480177820663809,"named_entity_recognition: [Erick, Everton]
+
+aspect_sentiment: [chuta (negative)]",182
+erick,"""CONFIRMADO, ERICK PULGAR VIAJA MAÑANA A RÍO DE JANEIRO A FIRMAR CONTRATO Y A PONERSE AL SERVICIO DEL ""MENGAO""!… https://t.co/iVieaIr31Z",1,1552480177820663809,"named_entity_recognition: [""ERICK PULGAR"", ""RÍO DE JANEIRO"", ""MENGAO""]
+aspect_sentiment: [""VIAJA (positive)"", ""FIRMAR CONTRATO (positive)"", ""PONERSE AL SERVICIO (positive)""]",264
+erick,@Adriano_Camppos @AthleticoPR Khelven e Erick e Hugo e Thiago Heleno,0,1552480177820663809,"named_entity_recognition: [""Khelven"", ""Erick"", ""Hugo"", ""Thiago Heleno"", ""AthleticoPR""]
+
+aspect_sentiment: [""Khelven (neutral)"", ""Erick (neutral)"", ""Hugo (neutral)"", ""Thiago Heleno (neutral)"", ""AthleticoPR (neutral)""]",239
+erick,"gabi chutando o fernandinho sem bola ❌️
+arrasca carrinho por trás pegando só a perna do erick ❌️
+david luiz pistola… https://t.co/UqPriaHFIT",0,1552480177820663809,"named_entity_recognition: [gabi, fernandinho, arrasca, erick, david luiz]
+aspect_sentiment: [chutando (negative), carrinho (negative), pistola (negative)]",240
+erick,"O cara da amarelo na entrada criminosa do Arrascaeta no calcanhar do Erick e expulsa o David Luiz aleatoriamente, muito fraco pqp",0,1552329978380967940,"named_entity_recognition: [Arrascaeta, Erick, David Luiz]
+aspect_sentiment: [entrada (negatif), criminosa (negatif), calcanhar (negatif), David Luiz (negatif)]",229
+erick,"Olha isso, mano. Entrada criminal do Arrascaeta no Erick. https://t.co/R5tWbF0FmD",1,1552479897708290049,"named_entity_recognition: [Arrascaeta, Erick]
+
+aspect_sentiment: [Entrada (negative)]",196
+erick,@KennyUndrX well im super passionate about the fnf mod me and Erick Animations are making called Demonic Determinat… https://t.co/hNKKVvAvod,2,1552321575084593153,"named_entity_recognition: [Erick Animations, Demonic Determinat]
+
+aspect_sentiment: [passionate (positive), fnf mod (positive), Demonic Determinat (positive)]",221
+erick,"@erick_uhmm @aurattarot aqui, amr https://t.co/Knq4vfiSXd",0,1552480177820663809,"named_entity_recognition: [@erick_uhmm, @aurattarot]
+aspect_sentiment: [aqui (neutral)]",198
+erick,"TOONZ 3 weeks of Giveaways left!
+
+All you need to do to enter for a chance to win is interact with this Tweet. (Lik… https://t.co/nOmalwSlCj",115,1552478279646384135,,0
+erick,It’s also Wandy Peralta’s birthday today??? Yikes…,0,1552480177820663809,,0
+erick,"Selain pada perempuan, perhatian dan kepedulian yg tinggi, pak Erick juga tujukan pada anak muda Indonesia.
+Beda dg… https://t.co/sEvw6jPGEO",22,1552229966146043906,"named_entity_recognition: [Erick]
+aspect_sentiment: [perhatian (positif), kepedulian (positif), anak muda Indonesia (positif)]",227
+erick,Aimeth y Erick mi curitas de vida. https://t.co/y75kJP5OKG,0,1552229966146043906,"named_entity_recognition: [Aimeth, Erick]
+aspect_sentiment: [curitas (positive)]",188
+erick,O que jogou o Erick hoje foi putaria.,0,1552229966146043906,"named_entity_recognition: []
+
+aspect_sentiment: [jogou (negative)]",171
+erick,"Buenas noches, solo para invitar a los jóvenes y adolescentes de mi comunidad para que asistan a los cursos de vera… https://t.co/auPzBWunZ9",0,1552229966146043906,"named_entity_recognition: []
+
+aspect_sentiment: [invitar (positive), asistir (positive)]",208
+erick,@hevertonfutebol Cadê seu time ?,0,1552229966146043906,"named_entity_recognition: [PERSON]
+aspect_sentiment: [time (neutral)]",172
+erick,Judging someone because of their mental illness is a bit peak but pop off ig bro,0,1552480177820663809,"named_entity_recognition: []
+
+aspect_sentiment: [Judging (negative), someone (neutral), mental illness (negative), peak (positive), pop off (positive), ig bro (neutral)]",200
+erick,"Nível de concentração insano da zaga, Fernandinho na primeira atuação de elite e Erick melhor em campo. Plano deu c… https://t.co/XWTO15CEbU",0,1552480177820663809,"named_entity_recognition: [Fernandinho, Erick]
+aspect_sentiment: [Nível de concentração (positive), zaga (positive), Fernandinho (positive), primeira atuação (positive), Erick (positive), melhor em campo (positive), Plano (neutral)]",247
+erick,Juiz filho da puta tmnc,0,1552479326725079043,"named_entity_recognition: []
+
+aspect_sentiment: [Juiz (negative)]",167
+erick,alguém on para eu testar o método intepretação de sonhos ?,3,1551993083616690181,"named_entity_recognition: []
+
+aspect_sentiment: [método (positif), intepretação de sonhos (netral)]",191
+erick,"Erick Thohir Gagas Pergelaran Musik M20 di Pertemuan G20.
+Menteri BUMN @erickthohir menggandeng musikus legendaris,… https://t.co/XLzktQNmwk",0,1551993083616690181,"named_entity_recognition: [""Erick Thohir"", ""Menteri BUMN"", ""musikus legendaris""]
+aspect_sentiment: [""Gagas (positive)"", ""Pergelaran Musik M20 (positive)"", ""Pertemuan G20 (positive)""]",259
+erick,"KKKKK, o cara da central do apito fala que Davis Luiz mereceu ser expulso KKKK, o cara recebe pra falar essas merdas",0,1551993083616690181,"named_entity_recognition: [Davis Luiz]
+
+aspect_sentiment: [central do apito (negative), Davis Luiz (negative)]",209
+erick,@Er1ckIDK @EvaPartis ERICK SOS GOD,0,1551993083616690181,"named_entity_recognition: [""@Er1ckIDK"", ""@EvaPartis""]
+aspect_sentiment: []",182
+erick,"A campanha de torcedores do Flamengo contra a contratação de Erick Pulgar não influencia o clube.
+
+Fla consultou au… https://t.co/U5i0J5bxRD",275,1552348067785056258,"named_entity_recognition: [Flamengo, Erick Pulgar]
+
+aspect_sentiment: [campanha (neutral), contratação (negative), clube (neutral)]",225
+erick,"@pensandinho @_baconwars @emd_erick @affonsosolano Óbvio que existem shapes melhores, mas a questão aqui foi compar… https://t.co/iNploLIwg5",0,1552479326725079043,"named_entity_recognition: [@pensandinho, @_baconwars, @emd_erick, @affonsosolano]
+aspect_sentiment: [existem shapes (positive), questão (neutral)]",237
+erick,"@shareocs Well I sadly don't have a picture of him yet but Erick gets wings every once in a while so it counts.
+
+Tl… https://t.co/oFy5p0byf1",0,1552479326725079043,"named_entity_recognition: [Erick]
+aspect_sentiment: [Erick (positive)]",205
+erick,@CopadoBrasil @ACGOficial @Corinthians @Flamengo @AthleticoPR O que fizeram com o furacão hoje foi absurdo. Arrasca… https://t.co/4SWS1XwBTg,0,1552479326725079043,"named_entity_recognition: [""@CopadoBrasil"", ""@ACGOficial"", ""@Corinthians"", ""@Flamengo"", ""@AthleticoPR""]
+
+aspect_sentiment: [""fizeram (negatif)"", ""furacão (negatif)"", ""absurdo (negatif)"", ""Arrasca (netral)""]",268
+erick,Erick Thohir memiliki kompetensi yang mumpuni untuk menjadi pemimpin Indonesia jika dilihat dari rekam jejak dan ca… https://t.co/BARIfIgtA4,6,1552445797375295489,"named_entity_recognition: [Erick Thohir, Indonesia]
+
+aspect_sentiment: [rekam jejak (positif)]",213
+erick,"@caioBadaro_ Barbosa devia ter tomado vermelho direto, sobre o Arrascaeta, também
+
+Erick não tomou vermelho, o Davi… https://t.co/G5VGj9oVnm",0,1552479079374487552,"named_entity_recognition: [Barbosa, Arrascaeta, Erick, Davi]
+aspect_sentiment: [Barbosa (negative), Arrascaeta (neutral), Erick (neutral), Davi (neutral)]",240
+erick,"- Arturo Vidal;
+- Everton Cebolinha;
+- Erick Pulgar;
+- Guillermo Varela;
+- Oscar ⏳
+- Brian Rodríguez.⏳
+
+Nossa, quem… https://t.co/XfgXk5GeIa",59,1552342991410446336,"named_entity_recognition: [Arturo Vidal, Everton Cebolinha, Erick Pulgar, Guillermo Varela, Oscar, Brian Rodríguez]
+aspect_sentiment: [Arturo Vidal (neutral), Everton Cebolinha (neutral), Erick Pulgar (neutral), Guillermo Varela (neutral), Oscar (neutral), Brian Rodríguez (neutral)]",280
+erick,"Erick mengatakan, program bersih-bersih BUMN yang terpenting adalah bagaimana program ini bisa memperbaiki sistem d… https://t.co/TYSIVlxhd2",12,1552445263478157312,"named_entity_recognition: [Erick, BUMN]
+aspect_sentiment: [program bersih-bersih (positif), sistem (negatif)]",220
+erick,"Jangan menjadikan orang yang baru tumbuh gigi sebagai pemimpin, apa lagi programnya cuma mengoleksi piagam pengharg… https://t.co/iW6e43Ioa7",17,1552445407854497792,"named_entity_recognition: []
+
+aspect_sentiment: [menjadikan (negative), orang (neutral), tumbuh gigi (neutral), pemimpin (negative), program (neutral), mengoleksi piagam penghargaan (neutral)]",241
+erick,"Flamengo irá pagar 2,8 milhões de euros (R$ 15 milhões) à Fiorentina por 80% dos direitos econômicos de Erick Pulga… https://t.co/M4wdfih745",72,1552412143949053960,"named_entity_recognition: [Fiorentina, Erick Pulga]
+aspect_sentiment: [Flamengo (positive), pagar (positive), 2,8 milhões de euros (positive), R$ 15 milhões (positive), 80% dos direitos econômicos (positive)]",256
+erick,"💣💣BOMBAZO💣💣
+
+✅ACUERDO CERRADO✅
+
+🇧🇷Flamengo ha llegado a un acuerdo para el fichaje del mediocentro 🇨🇱Erick Pulgar d… https://t.co/YcQylb1NSr",5,1552397820266774528,"named_entity_recognition: [Flamengo, Erick Pulgar]
+aspect_sentiment: [fichaje (positive)]",242
+erick,⚠️ O volante chileno Erick Pulgar e o lateral-direito uruguaio Guillermo Varela são os novos reforços do Flamengo.… https://t.co/X4GHvSvqNC,1271,1552324042719371265,"named_entity_recognition: [Erick Pulgar, Guillermo Varela, Flamengo]
+aspect_sentiment: [volante (positive), lateral-direito (positive), reforços (positive)]",238
+erick,"Sejak dilantik menjadi Menteri BUMN komitmen Erick Thohir jelas, sesuai arahan Presiden harus menjadikan BUMN bersi… https://t.co/i0b23wKHpm",6,1552449527508267008,"named_entity_recognition: [Erick Thohir, BUMN, Presiden]
+aspect_sentiment: [menjadi Menteri BUMN (positif), menjadikan BUMN bersi (positif)]",241
+khofifah,"Random 
+
+1. https://t.co/hwRvCPcB3B
+2. https://t.co/dQmTqjZl0t
+3. https://t.co/uzYxJFGnDZ
+4.… https://t.co/yjSlVh2eJp",9,1552476517950582784,"named_entity_recognition: []
+
+aspect_sentiment: []",221
+khofifah,"Lenovo V14✨
+Harga 3jtan
+Link https://t.co/xaRVAMPvvO 
+
+#RacunShopee #LaptopDariShopee
+Tags: dunia tipu-tipu siapa J… https://t.co/RicuCR910g",0,1552476517950582784,"named_entity_recognition: []
+
+aspect_sentiment: []",219
+khofifah,renjun amanda manopo haki baim heri jokowi siapa jw umur 16 dunia tipu-tipu gubernur jatim keisya khofifah engaged… https://t.co/XX83HJxDc3,3,1552479303094632448,"named_entity_recognition: [renjun, amanda manopo, baim heri, jokowi, jw, gubernur jatim, keisya khofifah]
+aspect_sentiment: [renjun (neutral), amanda manopo (neutral), haki (neutral), baim heri (neutral), jokowi (neutral), jw (neutral), umur (neutral), dunia (neutral), tipu-tipu (negative), gubernur jatim (neutral), keisya khofifah (neutral), engaged (neutral)]",318
+khofifah,"Gubernur Khofifah Klaim Kasus PMK di Jatim Mereda, Genjot Perluasan Vaksinasi",0,1552476517950582784,"named_entity_recognition: [""Gubernur Khofifah"", ""PMK"", ""Jatim""]
+aspect_sentiment: [""Kasus PMK (positive)"", ""Perluasan Vaksinasi (positive)""]",222
+khofifah,"Shopee THR
+
+https://t.co/R9OYZwP4OS
+
+renjun amanda manopo haki baim heri jokowi siapa jw umur 16 dunia tipu-tipu gu… https://t.co/bqm8xZksTj",0,1552476517950582784,"named_entity_recognition: [renjun, amanda manopo, baim heri, jokowi]
+aspect_sentiment: [Shopee (positive), THR (positive), renjun (neutral), amanda manopo (neutral), baim heri (neutral), jokowi (neutral), jw (neutral), umur 16 (neutral), dunia tipu-tipu (negative)]",289
+khofifah,"Case 
+
+https://t.co/hwRvCPcB3B
+
+renjun amanda manopo haki baim heri jokowi siapa jw umur 16 dunia tipu-tipu gubernu… https://t.co/9Cp3pQiAOt",0,1552476517950582784,"named_entity_recognition: [renjun, amanda manopo, baim heri, jokowi]
+aspect_sentiment: [Case (neutral), renjun (neutral), amanda manopo (neutral), haki (neutral), baim heri (neutral), jokowi (neutral), siapa (neutral), jw (neutral), umur (neutral), 16 (neutral), dunia (neutral), tipu-tipu (negative), gubernu (neutral)]",304
+khofifah,"Sepatu 120rb an
+
+https://t.co/NqSW9eQ87u
+
+renjun amanda manopo haki baim heri jokowi siapa jw umur 16 dunia tipu-ti… https://t.co/8Vo96yAcbs",0,1552476517950582784,"named_entity_recognition: [renjun, amanda manopo, baim heri, jokowi]
+aspect_sentiment: [Sepatu (positive), 120rb (neutral)]",244
+khofifah,"Pasta cabai 
+
+https://t.co/eU3gdQm4H5
+
+renjun amanda manopo haki baim heri jokowi siapa jw umur 16 dunia tipu-tipu… https://t.co/94PIA1uNcI",0,1552476517950582784,"named_entity_recognition: [renjun, amanda manopo, haki, baim heri, jokowi, jw]
+aspect_sentiment: [Pasta cabai (positive), renjun (neutral), amanda manopo (neutral), haki (neutral), baim heri (neutral), jokowi (neutral), siapa jw (neutral), umur 16 (neutral), dunia tipu-tipu (negative)]",300
+khofifah,"Kemeja 
+
+https://t.co/MZnz7G8FOD
+
+renjun amanda manopo haki baim heri jokowi siapa jw umur 16 dunia tipu-tipu guber… https://t.co/5AdRa0Tuin",0,1552476517950582784,"named_entity_recognition: [renjun, amanda manopo, baim heri, jokowi]
+aspect_sentiment: [Kemeja (positive), renjun (neutral), amanda manopo (neutral), haki (neutral), baim heri (neutral), jokowi (neutral), siapa (neutral), jw (neutral), umur (neutral), dunia (neutral), tipu-tipu (negative), guber (neutral)]",300
+khofifah,"Ditegaskan Khofifah, Indonesia Emas 2045 ini akan datang sebelum ekonomi besar di 2050. Jadi saya harap kita bisa m… https://t.co/drCm7IJrhX",0,1552476517950582784,"named_entity_recognition: [Khofifah, Indonesia Emas 2045, ekonomi besar di 2050]
+
+aspect_sentiment: [Ditegaskan (positive), Indonesia Emas 2045 (positive), ekonomi besar di 2050 (positive)]",253
+khofifah,"Kick Off Harlah 1 Abad NU Jatim, Khofifah Akan Tampil di Tupal Fashion Night.
+
+Surabaya (https://t.co/ksziGGG4m3) –… https://t.co/uZyDBtsNdh",0,1552476517950582784,"named_entity_recognition: [Khofifah, NU Jatim, Tupal Fashion Night, Surabaya]
+aspect_sentiment: [Kick Off Harlah 1 Abad NU Jatim (positive), Khofifah Akan Tampil di Tupal Fashion Night (positive)]",262
+khofifah,"""Nanti saat 2050, di atas kita hanya akan ada Cina, India, dan Amerika. Negara lain seperti Brazil, Rusia, Meksiko,… https://t.co/0Xdduv8HqJ",0,1552476517950582784,"named_entity_recognition: [Cina, India, Amerika, Brazil, Rusia, Meksiko]
+aspect_sentiment: [2050 (neutral)]",225
+khofifah,"ASUS ROG Zephyrus Duo 16
+Spec super gila-gilaan
+Harga sepadan
+Link https://t.co/n6LMh9NT4g
+
+#RacunShopee… https://t.co/n9QuMA5CKo",0,1552476517950582784,"named_entity_recognition: [ASUS ROG Zephyrus Duo 16]
+
+aspect_sentiment: [Spec (positive), Harga (positive)]",233
+khofifah,"Filmora 11 Crack➡️https://t.co/C4kYRyxh3k
+
+Karnataka Kate McCann Katla 189 X Katoto Kavay - Vay Keane Keisya Kelas… https://t.co/Mzs4H2pFY9",0,1552476517950582784,"named_entity_recognition: [Kate McCann, Karnataka, Katla, Katoto Kavay, Vay Keane Keisya Kelas]
+aspect_sentiment: [Filmora 11 Crack (negative)]",249
+khofifah,"Gubernur Khofifah Hadiri Rakerda Himperra Jatim, Dukung Upaya Wujudkan Perumahan Murah untuk MBR",0,1552476517950582784,"named_entity_recognition: [Gubernur Khofifah, Himperra Jatim, MBR]
+aspect_sentiment: [Hadiri (positive), Rakerda Himperra Jatim (neutral), Dukung Upaya Wujudkan Perumahan Murah untuk MBR (positive)]",246
+khofifah,"Gubernur Khofifah berpendapat, dari 10 keterampilan yang dibutuhkan di era industri 4.0, 5.0, dan 6.0 yang tertingg… https://t.co/wvAIebxOyQ",0,1552476517950582784,"named_entity_recognition: [Gubernur Khofifah]
+aspect_sentiment: [keterampilan (positif)]",228
+khofifah,"Acer Aspire 3 Slim A314 Ryzen 3 3250 4GB/8GB 256SSD/512SSD
+Harga 4jtan
+Link https://t.co/vKWOWT9jWu
+
+#RacunShopee… https://t.co/9nFr1qDJRC",0,1552476517950582784,"named_entity_recognition: []
+
+aspect_sentiment: []",226
+khofifah,"Laptop HP 14 Inch Silver
+Harga 5jtan
+Garansi 2tahun
+Free Tas laptop
+Link https://t.co/zytu74V9yR
+
+#RacunShopee… https://t.co/TjFq7Eonow",0,1552476517950582784,"named_entity_recognition: []
+
+aspect_sentiment: [Laptop HP 14 Inch Silver (positive), Harga 5jtan (negative), Garansi 2tahun (positive), Free Tas laptop (positive)]",247
+khofifah,"”Jangan sampai ada produk bisnis, khususnya mamin, mencelakai masyarakat. Ini akan jadi isu penting dan tugas yang… https://t.co/DWfU0tbs5V",0,1552476517950582784,"named_entity_recognition: []
+
+aspect_sentiment: []",205
+khofifah,”Karena produk dari industri makanan dan minuman akan dikonsumsi masyarakat dan berpengaruh terhadap kondisi keseha… https://t.co/9A3vd0NlB7,0,1552476517950582784,"named_entity_recognition: []
+
+aspect_sentiment: []",202
+khofifah,Khofifah Buka Pameran K-UKM Expo di Hari Koperasi ke 75 https://t.co/5UHFjZl67E,1,1552466933659799552,"named_entity_recognition: [Khofifah, K-UKM Expo, Hari Koperasi]
+aspect_sentiment: [Buka (positive), Pameran (neutral), K-UKM Expo (positive), Hari Koperasi (neutral)]",232
+khofifah,"Gubernur Khofifah Indar Parawansa menerangkan, selama ini pihaknya sangat memperhatikan aspek etika bisnis. Terutam… https://t.co/ZWEgT2v4Ud",0,1552466933659799552,"named_entity_recognition: [Gubernur Khofifah Indar Parawansa]
+aspect_sentiment: [pihaknya (positif), aspek etika bisnis (positif)]",238
+khofifah,"Khofifah Buka Pameran K-UKM Expo di Hari Koperasi ke 75
+https://t.co/36RW5FkUQP",0,1552466933659799552,"named_entity_recognition: [Khofifah, K-UKM Expo, Hari Koperasi]
+aspect_sentiment: [Buka (positive), Pameran (neutral), K-UKM Expo (neutral), Hari Koperasi (neutral)]",232
+khofifah,https://t.co/zJRfz1oJCM,0,1552466933659799552,"named_entity_recognition: [Tidak ada entitas yang dapat diidentifikasi dalam komentar ini]
+
+aspect_sentiment: [Tidak ada aspek yang dapat diidentifikasi dalam komentar ini]",197
+khofifah,Gubernur Jatim Khofifah Indar Parawansa sebagai pembina gugus tugas menjadi saksi dalam pelantikan tersebut. Kakanw… https://t.co/NtSBGVgiT4,0,1552466933659799552,"named_entity_recognition: [""Gubernur Jatim Khofifah Indar Parawansa"", ""gugus tugas""]
+
+aspect_sentiment: [""pembina (positive)"", ""saksi (neutral)"", ""pelantikan (neutral)""]",245
+khofifah,"“Menjadi bagian yang penting bagi kita semua membangun sinergi untuk mempersiapkan kinerja yang makin kreatif, inov… https://t.co/SRp2ZXTfrl",0,1552466933659799552,"named_entity_recognition: []
+
+aspect_sentiment: []",201
+khofifah,Dengan demikian lanjut Khofifah prestasi yang menjadi tolak ukur semakin menegaskan ASN Jatim telah melakukan pelay… https://t.co/yXoi9he0rM,0,1552466933659799552,"named_entity_recognition: [ASN Jatim]
+aspect_sentiment: [prestasi (positif)]",213
+khofifah,Maka kata Khofifah menjaga dan mengawal serta meningkatkan prestasi membutuhkan sinergi dan koordinasi.,0,1552466933659799552,"named_entity_recognition: [Khofifah]
+aspect_sentiment: [menjaga (positive), mengawal (positive), meningkatkan prestasi (positive), sinergi (positive), koordinasi (positive)]",222
+khofifah,Gubernur Khofifah mengatakan eduanya Provinsi Jatim menduduki rangking satu yang diumumkan oleh BKN artinya kerja-k… https://t.co/785O8qaSSx,0,1552466933659799552,"named_entity_recognition: [Gubernur Khofifah, Provinsi Jatim, BKN]
+aspect_sentiment: [eduanya (positive), Provinsi Jatim (positive), rangking satu (positive), kerja-k (negative)]",245
+khofifah,Lebih lanjut Khofifah memberitahukan mengenai mplementasi manajemen ASN terbaik serta perencanaan kebutuhan dan mutasi kepegawaian,0,1552466933659799552,"named_entity_recognition: [Khofifah, ASN]
+aspect_sentiment: [implementasi (positive), manajemen ASN (positive), perencanaan kebutuhan (positive), mutasi kepegawaian (neutral)]",234
+khofifah,"Khofifah Indar parawansa Melawan Pembajakan Demokrasi; Pelajaran Tragedi Pilkada Jawa Timur.
+
+Oleh; Ahmad Millah Ha… https://t.co/RjaTUXLuOR",0,1552466933659799552,"named_entity_recognition: [""Khofifah Indar Parawansa"", ""Pembajakan Demokrasi"", ""Tragedi Pilkada Jawa Timur"", ""Ahmad Millah Ha""]
+
+aspect_sentiment: [""Khofifah Indar Parawansa (negative)"", ""Pembajakan Demokrasi (negative)"", ""Tragedi Pilkada Jawa Timur (negative)""]",283
+khofifah,Artinya yaitu kata Khofifah apa yang kita lakukan perlu dijaga seluruh lini bagaimana masing-masing OPD menyiapkan… https://t.co/hsUO1c8Wg6,0,1552466933659799552,"named_entity_recognition: []
+
+aspect_sentiment: [menyiapkan (positive)]",215
+khofifah,"Gubernur Khofifah juga berpesan agar penghargaan yang berhasil diraih, harus dikawal dan terus ditingkatkan",0,1552466933659799552,"named_entity_recognition: [Gubernur Khofifah]
+aspect_sentiment: [penghargaan (positif), dikawal (positif), ditingkatkan (positif)]",216
+khofifah,Maka dari itu Khofifah ingin kita bisa menjaga yang sudah mendapat outstanding achievement agar dipertahankan dan ditingkatkan,0,1552466933659799552,"named_entity_recognition: [Khofifah]
+
+aspect_sentiment: [menjaga (positive), outstanding achievement (positive), dipertahankan (positive), ditingkatkan (positive)]",214
+khofifah,"Khofifah bilang bahwa banyak pengaduan-pengaduan melalui aplikasi, maka hadirnya operator menjadi sangat penting.",0,1552466933659799552,"named_entity_recognition: [Khofifah, operator]
+
+aspect_sentiment: [pengaduan-pengaduan (positive), aplikasi (positive), operator (positive)]",211
+khofifah,"Dikatakan Gubernur Khofifah, agar kegiatan tahunan ini sukses, ia minta media lokal dilibatkan.",0,1552466933659799552,"named_entity_recognition: [""Gubernur Khofifah"", ""media lokal""]
+aspect_sentiment: [""kegiatan tahunan (positif)"", ""sukses (positif)"", ""media lokal (netral)""]",220
+khofifah,Menurut Khofifah Indar Parawansa menjaga tindak lanjut dari pengaduan masyarakat yang sudah mendapat penilaian luar… https://t.co/Gncuf884Bj,0,1552466933659799552,"named_entity_recognition: [Khofifah Indar Parawansa]
+
+aspect_sentiment: [menjaga tindak lanjut (positive)]",223
+khofifah,“Tolong dijaga ritme tindak lanjut pengaduan masyarakat sehingga mampu menjaga dan mewujudkan tindak lanjut pengadu… https://t.co/nyWmgbxbxV,0,1552466933659799552,"named_entity_recognition: []
+
+aspect_sentiment: []",210
+khofifah,Capaian tersebut lanjut Khofifah merupakan hasil kerja keras ASN Provinsi Jatim dengan sinergi berbagai elemen stra… https://t.co/jofcEwiwbx,0,1552466933659799552,"named_entity_recognition: [ASN Provinsi Jatim]
+aspect_sentiment: [kerja keras (positive)]",211
+khofifah,"""Hari jadi Pemprov tahun ini tidak ada band, atau penyanyi top, tetapi diganti beberapa kegiatan seperti jalan seha… https://t.co/mWy0z6rofP",0,1552466933659799552,"named_entity_recognition: []
+
+aspect_sentiment: [Hari jadi Pemprov (positive), band (neutral), penyanyi top (neutral), kegiatan (positive), jalan sehat (positive)]",232
+khofifah,Selain itu Khofifah menuturkan Provinsi Jatim yang berhasil meraih Penghargaan Terbaik Instansi Pemerintah Kategori Outstanding Achievement,0,1552466933659799552,"named_entity_recognition: [""Khofifah"", ""Provinsi Jatim""]
+aspect_sentiment: [""meraih Penghargaan Terbaik Instansi Pemerintah Kategori Outstanding Achievement"" (positive)]",227
+khofifah,"Gubernur Jawa Timur Khofifah Indar Parawansa meminta peringatan Hari Jadi Provinsi Jawa Timur ke-77 tahun 2022, tid… https://t.co/Jjs84DuWcy",0,1552466933659799552,"named_entity_recognition: [""Gubernur Jawa Timur Khofifah Indar Parawansa"", ""Provinsi Jawa Timur""]
+
+aspect_sentiment: [""meminta (positive)"", ""peringatan Hari Jadi Provinsi Jawa Timur (neutral)""]",251
+khofifah,"""Prestasi ini harus bisa dijaga dan lebih diingkatkan secara seksama,” ujar Khofifah",0,1552466933659799552,"named_entity_recognition: [""Khofifah""]
+aspect_sentiment: [""Prestasi (positive)"", ""dijaga (positive)"", ""diingkatkan (positive)""]",207
+khofifah,"Salam Khofifah kepada seluruh operator dan frontliner sebagai lini tedepan melayani publik di sektor kesehatan, eko… https://t.co/WYdE6HENTp",0,1552466933659799552,"named_entity_recognition: [operator, frontliner, Khofifah, publik, sektor kesehatan]
+aspect_sentiment: [Salam Khofifah (positive), lini tedepan (positive), melayani publik (positive)]",248
+khofifah,Khususnya lanjut Khofifah operator dan frontliner yang ada di lini terdepan yang telah berupaya memaksimalkan pelay… https://t.co/04bSNYxeBD,0,1552466933659799552,"named_entity_recognition: [Khofifah, operator, frontliner]
+aspect_sentiment: [berupaya (positif), memaksimalkan pelayanan (positif)]",231
+khofifah,Bagi Khofifah angka tersebut sangat signifikan dan menunjukkan buah hasil kinerja yang baik dari para ASN Pemprov Jatim.,0,1552466933659799552,"named_entity_recognition: [ASN Pemprov Jatim]
+aspect_sentiment: [kinerja (positif)]",204
+khofifah,"Yaitu kata Khofifah diawali dari penghargaan Standar Pelayanan Minimal (SPM) dari Kemendagri, Jatim mencatatkan ran… https://t.co/k71sVoyVzY",0,1552466933659799552,"named_entity_recognition: [Khofifah, Kemendagri, Jatim]
+aspect_sentiment: [penghargaan (positif), Standar Pelayanan Minimal (netral), ran (netral)]",242
+khofifah,Khofifah menyampaikan catatan-catatan prestasi yang didapatkan cukup memberikan kebanggaan atas indikator keberhasi… https://t.co/MUOaTF4eKt,0,1552466933659799552,"named_entity_recognition: [Khofifah]
+aspect_sentiment: [catatan-catatan prestasi (positif)]",216
+khofifah,Tentunya Gubernur Khofifah bersama dengan Pemprov Jatim menyampaikan terima kasih atas kerja keras kita bersama,0,1552466933659799552,"named_entity_recognition: [""Gubernur Khofifah"", ""Pemprov Jatim""]
+aspect_sentiment: [""terima kasih (positive)"", ""kerja keras (positive)""]",218
+khofifah,"""Alhamdulilah Provinsi Jatim mendapat beberapa prestasi membanggakan atas kerja keras seluruh ASN di lingkungan Pem… https://t.co/n6ZZBadlme",0,1552466933659799552,"named_entity_recognition: [Provinsi Jatim, ASN, Pem]
+aspect_sentiment: [prestasi (positif), kerja keras (positif)]",225
+khofifah,Serta kata Khofifah dengan pestasi membanggakan itu juga akan mewujudkan kesejahteraan lebih meningkat dan merata.,0,1552466933659799552,"named_entity_recognition: [Khofifah]
+aspect_sentiment: [kata Khofifah (positive)]",203
+khofifah,Khofifah menegaskan bahwa penghargaan yang sudah diperoleh harus dipertahankan di beberapa sektor yang telah berhas… https://t.co/PZ2ZglCswB,0,1552466933659799552,"named_entity_recognition: [Khofifah]
+aspect_sentiment: [penghargaan (positif), sektor (positif)]",216
+khofifah,@AdindaAsmara_ @Mdy_Asmara1701 Termasuk Gubernur Jawa Timur kata Orang Madura itu Bapak Nur.. terus Pak Karwo sama… https://t.co/LYVOplzx6s,0,1552466933659799552,"named_entity_recognition: [""Gubernur Jawa Timur"", ""Orang Madura"", ""Bapak Nur"", ""Pak Karwo""]
+
+aspect_sentiment: [""Gubernur Jawa Timur (positive)"", ""Orang Madura (neutral)"", ""Bapak Nur (neutral)"", ""Pak Karwo (neutral)""]",269
+khofifah,"Khofifah menjelaskan JKF 2022 yang mengangkat tema ""Optimis Jatim Bangkit dan Akselerasi Transformasi Digital"" diha… https://t.co/lFRmYgVqrz",0,1552466933659799552,"named_entity_recognition: [JKF 2022, Khofifah, Jatim]
+aspect_sentiment: [mengangkat tema (positif), Optimis Jatim Bangkit (positif), Akselerasi Transformasi Digital (positif)]",251
+khofifah,"@ChusnulCh__ @ganjarpranowo Kalo itu kriterianya, jadi bajer khofifah saja.. blio lebih hebat dari ganjar.. https://t.co/ww197HvWnJ",1,1552299756436697091,"named_entity_recognition: [ChusnulCh__, ganjarpranowo, khofifah]
+aspect_sentiment: [bajer (positive), khofifah (positive), ganjar (negative)]",241
+khofifah,"Raih Banyak Penghargaan, Gubernur Khofifah Sampaikan Apresiasi Atas Kinerja Terbaik ASN Pemprov Jatim",0,1552299756436697091,"named_entity_recognition: [""Gubernur Khofifah"", ""ASN Pemprov Jatim""]
+aspect_sentiment: [""Raih Banyak Penghargaan (positive)"", ""Apresiasi Atas Kinerja Terbaik (positive)""]",236
+khofifah,“Ke depan kami berharap koperasi di Jatim bisa terus maju dan berkembang menyejahterakan masyarakat sehingga kopera… https://t.co/OOWVQxNZ6M,0,1552299756436697091,"named_entity_recognition: [koperasi di Jatim]
+aspect_sentiment: [berharap (positive), maju (positive), berkembang (positive), menyejahterakan masyarakat (positive)]",240
+khofifah,Dan dari total tersebut kata Khofifah menandakan bahwasanya koperasi dan UMKM merupakan tulang punggung perekonomian Jatim.,0,1552299756436697091,"named_entity_recognition: [Khofifah, koperasi, UMKM, Jatim]
+aspect_sentiment: [koperasi (positive), UMKM (positive), perekonomian Jatim (positive)]",230
+khofifah,"Gubernur Jawa Timur Khofifah Indar Parawansa meminta pengelola mal untuk menyediakan lokasi khusus koperasi, tujuan… https://t.co/PB01kqvXLm",0,1552299756436697091,"named_entity_recognition: [""Gubernur Jawa Timur Khofifah Indar Parawansa"", ""lokasi khusus koperasi""]
+
+aspect_sentiment: [""meminta (positive)"", ""pengelola mal (neutral)"", ""menyediakan lokasi khusus koperasi (positive)""]",261
+khofifah,"Gubernur Khofifah, di Kota Batu, Selasa (26/7), mengatakan bahwa penyelenggaraan JKF 2022 pada 25-28 Juli tersebut… https://t.co/dMX3TlLzED",0,1552299756436697091,"named_entity_recognition: [Gubernur Khofifah, Kota Batu, JKF 2022]
+
+aspect_sentiment: [penyelenggaraan (positif)]",239
+khofifah,"Gubernur Jawa Timur Khofifah Indar Parawansa berharap Jatim Kominfo Festival (JKF) 2022, yang digelar di Kota Batu,… https://t.co/OD1TrsQgME",0,1552299756436697091,"named_entity_recognition: [""Gubernur Jawa Timur Khofifah Indar Parawansa"", ""Jatim Kominfo Festival (JKF) 2022"", ""Kota Batu""]
+
+aspect_sentiment: [""berharap (positive)""]",254
+khofifah,Gubernur Khofifah Harap JKF 2022 Percepat Transformasi Digital,0,1552299756436697091,"named_entity_recognition: [Gubernur Khofifah, JKF 2022]
+aspect_sentiment: [Transformasi Digital (positif)]",196
+khofifah,Dan Khofifah mengatakan hasil upaya aktif itu terbukti dari meningkatnya kontribusi sektor koperasi dan UMKM dalam PDRB Jatim.,0,1552299756436697091,"named_entity_recognition: [Khofifah, PDRB Jatim]
+aspect_sentiment: [hasil upaya aktif (positif), kontribusi sektor koperasi dan UMKM dalam PDRB Jatim (positif)]",240
+khofifah,Selain itu lanjut Khofifah juga adanya penyaluran dana bergulir dan pinjaman berbunga rendah seperti KUR,0,1552299756436697091,"named_entity_recognition: [Khofifah, KUR]
+aspect_sentiment: [penyaluran dana bergulir (positif), pinjaman berbunga rendah (positif)]",220
+khofifah,Gubernur Khofifah berharap agar masjid di Jawa Timur bisa menjadi percontohan dan tempat studi banding masjid di nusantara,0,1552299756436697091,"named_entity_recognition: [""Gubernur Khofifah"", ""Jawa Timur""]
+
+aspect_sentiment: [""berharap (positive)"", ""masjid di Jawa Timur (neutral)"", ""percontohan (positive)"", ""tempat studi banding masjid di nusantara (positive)""]",248
+khofifah,"“Dari segi permodalan, kami aktif memberikan fasilitasi pendampingan akses permodalan melalui kredit lunak yang dis… https://t.co/EbVECff6l1",0,1552299756436697091,"named_entity_recognition: []
+
+aspect_sentiment: []",201
+khofifah,Gubernur Khofifah mengajak seluruh ASN untuk menjaga serta meningkatkan kinerja lebih seksama sehingga mampu memper… https://t.co/a1Xnpn2fM4,0,1552299756436697091,"named_entity_recognition: [Gubernur Khofifah, ASN]
+aspect_sentiment: [menjaga (positif), meningkatkan kinerja (positif)]",230
+khofifah,"Dan juga kata Khofifah dapat memberikan pelatihan pemasaran secara online dgn 5 market place yaitu tokopedia, gojek, shopee, blibli dan grab",0,1552299756436697091,"named_entity_recognition: [""Khofifah"", ""tokopedia"", ""gojek"", ""shopee"", ""blibli"", ""grab""]
+aspect_sentiment: [""memberikan pelatihan pemasaran secara online (positive)"", ""5 market place (positive)""]",246
+khofifah,Khofifah berterima kasihnya kepada ASN di lingkungan pemprov setempat karena mampu membuktikan kualitas kinerja. Te… https://t.co/Xq2ghGJ2DO,0,1552299756436697091,"named_entity_recognition: [Khofifah, ASN, pemprov]
+aspect_sentiment: [berterima kasih (positive), mampu membuktikan kualitas kinerja (positive)]",237
+khofifah,"Beberapa penghargaan dari sejumlah kementerian maupun instansi nasional lainnya juga didapatkan oleh Pemprov Jatim,… https://t.co/muORp3f6HQ",0,1552299756436697091,"named_entity_recognition: [Pemprov Jatim]
+
+aspect_sentiment: [penghargaan (positif)]",213
+khofifah,"Kemudian kata Khofifah ada fasilitas lainnya seperti fasilitasi merk produk, sertifikasi halal dan juga sertifikasi… https://t.co/VH1g8gP2Eo",0,1552299756436697091,"named_entity_recognition: [Khofifah]
+aspect_sentiment: [fasilitas (positive), merk produk (positive), sertifikasi halal (positive), sertifikasi (positive)]",234
+khofifah,Selain itu Gubernur Khofifah juga menyampaikan bahwa Pemprov Jawa Timur saat ini juga memberikan fasilitasi dalam p… https://t.co/4WzF2snts3,0,1552299756436697091,"named_entity_recognition: [Gubernur Khofifah, Pemprov Jawa Timur]
+aspect_sentiment: [memberikan fasilitasi (positive)]",225
+khofifah,Serta lanjut Khofifah adanya aplikasi Si-Jawara Plus yang memberikan kesempatan Koperasi dan UMKM Jatim untuk belajar secara mandiri.,0,1552299756436697091,"named_entity_recognition: [Si-Jawara Plus, Koperasi, UMKM Jatim]
+aspect_sentiment: [aplikasi (positive), belajar (positive)]",223
+khofifah,Program tersebut kata Khofifah seperti memberikan pelatihan managerial sertifikat kerja kompetensi nasional indonesia (SKKNI),0,1552299756436697091,"named_entity_recognition: [Khofifah, SKKNI]
+aspect_sentiment: [memberikan pelatihan (positive), managerial (positive), sertifikat kerja (positive), kompetensi nasional indonesia (positive)]",224
+khofifah,Gubernur Khofifah berterima kasihnya kepada ASN di lingkungan pemprov setempat karena mampu membuktikan kualitas kinerja.,0,1552299756436697091,"named_entity_recognition: [""Gubernur Khofifah"", ""ASN"", ""pemprov""]
+aspect_sentiment: [""berterima kasih (positive)"", ""membuktikan kualitas kinerja (positive)""]",231
+khofifah,"Menurut Gubernur Khofifah, penting bagi ASN untuk mengenal dan berkomunikasi dengan Sekdaprov Jatim yang baru dilan… https://t.co/nnwrdUKB8L",0,1552299756436697091,"named_entity_recognition: [Gubernur Khofifah, ASN, Sekdaprov Jatim]
+aspect_sentiment: [mengenal (positif), berkomunikasi (positif)]",234
+khofifah,"Dimana lanjut Khofifah ada sebanyak 3,97 juta orang yang menjadi anggota dan menjalankan kegiatan koperasi di Jatim",0,1552299756436697091,"named_entity_recognition: [""Khofifah"", ""Jatim""]
+aspect_sentiment: [""lanjut (positive)"", ""anggota (positive)"", ""kegiatan (positive)"", ""koperasi (positive)""]",228
+khofifah,"Khofifah mengatakan dari sisi kinerja keuangan, dapat dilihat bahwasanya koperasi memiliki peran penting dalam hal… https://t.co/97Pl8LsgV1",0,1552299756436697091,"named_entity_recognition: [Khofifah, koperasi]
+aspect_sentiment: [kinerja keuangan (positif), peran penting (positif)]",229
+khofifah,Gubernur Khofifah Perkenalan Adhy Karyono Sebagai Sekda ke ASN Jatim,0,1552299756436697091,"named_entity_recognition: [""Gubernur Khofifah"", ""Adhy Karyono"", ""ASN Jatim""]
+aspect_sentiment: [""perkenalan (positive)""]",207
+khofifah,Sebab saat ini Gubernur Jatim Khofifah menegaskan bahwa total koperasi yang ada di Provinsi Jawa Timur ini mencapai 22.965 koperasi,0,1552299756436697091,"named_entity_recognition: [""Gubernur Jatim Khofifah"", ""Provinsi Jawa Timur""]
+
+aspect_sentiment: [""total koperasi (positive)""]",224
+khofifah,Panitia juga telah menyiapkan bazar makanan di area Grahadi. https://t.co/wfdzll1yXp,0,1552299756436697091,"named_entity_recognition: [Panitia, Grahadi]
+aspect_sentiment: [menyiapkan bazar makanan (positive)]",205
+khofifah,"Gandeng Aprindo, Gubernur Khofifah Akan Hadirkan Produk UMKM dan Koperasi di Mal-mal https://t.co/DkctYd1KW1",0,1552299756436697091,"named_entity_recognition: [Aprindo, Khofifah, UMKM, Koperasi]
+
+aspect_sentiment: [Gandeng (positive), Gubernur Khofifah (positive), Produk UMKM (positive), Koperasi (positive), Mal-mal (positive)]",248
+khofifah,"Peringati 1 Muharram, Khofifah Ajak Masyarakat Gowes : Okezone News https://t.co/LMFxuMaRbc",2,1552365215496282113,"named_entity_recognition: [Khofifah, Masyarakat, Okezone News]
+
+aspect_sentiment: [Peringati (positive), 1 Muharram (neutral), Ajak (positive), Masyarakat (neutral), Gowes (positive)]",234
+khofifah,"Jatim Kominfo Festival resmi di buka oleh Gubernur Jatim Khofifah Indar Parawansa.
+Mantul Kominfo festivalnya 👍… https://t.co/7HaLWQtdsS",0,1552365215496282113,"named_entity_recognition: [""Jatim Kominfo Festival"", ""Gubernur Jatim Khofifah Indar Parawansa""]
+aspect_sentiment: [""buka (positive)"", ""Mantul Kominfo festivalnya (positive)""]",247
+khofifah,"Khofifah Ajak Masyarakat Meriahkan Gowes 1 Muharram 1444H: Hadiah Umroh!.
+
+Surabaya (https://t.co/ksziGGG4m3) – Gub… https://t.co/SXHNbrJNCT",0,1552365215496282113,"named_entity_recognition: [Khofifah, Masyarakat, Gowes 1 Muharram 1444H, Umroh, Surabaya, Gub]
+
+aspect_sentiment: [Ajak (positive), Meriahkan (positive), Gowes 1 Muharram 1444H (neutral), Hadiah Umroh (positive)]",283
+khofifah,"https://t.co/mLNA3BfOrU |  Sambut Satu Suro, Khofifah Ajak Gowes Bareng https://t.co/uuvOdYX8Sy https://t.co/m3QIaE52Q6",0,1552365215496282113,"named_entity_recognition: [Khofifah, Satu Suro]
+aspect_sentiment: [Sambut (positive), Ajak (positive), Gowes Bareng (positive)]",238
+khofifah,Gubernur Khofifah Minta Produk Lokal UKM Masuk Mal di Jatim https://t.co/Iq9aexZzt4,0,1552365215496282113,"named_entity_recognition: [Khofifah, UKM, Mal, Jatim]
+aspect_sentiment: [Gubernur Khofifah (positive), Produk Lokal UKM (positive), Masuk Mal (positive)]",226
+anies,"Mas Has, klu nanya Prestasi Anies, tanya kpd Ketua DPRD DKI, dia kader PDIP. Kalau AB tdk berprestasi tegur sekeras… https://t.co/cxv9ivYgUd",317,1551818712558497792,"named_entity_recognition: [Mas Has, Anies, Ketua DPRD DKI, PDIP, AB]
+aspect_sentiment: [nanya (positive), Prestasi Anies (positive), tanya (neutral), Ketua DPRD DKI (neutral), kader PDIP (neutral), AB (negative), berprestasi (positive), tegur (negative)]",279
+anies,@praditya_winda @Kodek38988077 @MarahIchsan @AnsoriHidayat_ @CerishIva Membela anies tapi gak pake otak juga kan? Yang tolol beneran ente.,0,1551818712558497792,"named_entity_recognition: [@praditya_winda, @Kodek38988077, @MarahIchsan, @AnsoriHidayat_, @CerishIva]
+aspect_sentiment: [membela anies (negative), gak pake otak (negative), tolol (negative)]",266
+anies,"Terlihat intim sekali hubungan maming dg istana, partai merah &amp; ormas hijau.. 
+
+Pantas buzzer membabi buta serang A… https://t.co/u9R5TnaXOZ",186,1552459920531808256,"named_entity_recognition: [maming (PERSON), istana (ORGANIZATION), partai merah (ORGANIZATION), ormas hijau (ORGANIZATION)]
+
+aspect_sentiment: [hubungan (positif), maming (netral), istana (netral), partai merah (netral), ormas hijau (netral), buzzer (negatif), serang (negatif)]",283
+anies,"Prestasi Anies ada di hati warganya bukan dimulutnya Hasto. 
+Benahi kumuhnya bukan gusur kampungnya.
+Suara mereka y… https://t.co/AbmpDxc4aL",9,1552479758906433536,"named_entity_recognition: [Anies, Hasto]
+aspect_sentiment: [Prestasi (positive), hati (positive), warganya (positive), kumuhnya (negative), gusur kampungnya (negative), Suara mereka (neutral)]",256
+anies,"Anies Sering Dituduh Mainkan Politik Identitas, Rocky Gerung : Politik Identitas Disempitkan Maknanya oleh Pembenci… https://t.co/0hRJl4wlUj",33,1552271435577827328,"named_entity_recognition: [Anies, Rocky Gerung]
+
+aspect_sentiment: [Anies (positive), Politik Identitas (negative), Rocky Gerung (positive)]",227
+anies,"1. Hal yang sangat lumrah ketika seorang direshufle dia bertindak antitesa (faktor sakit hati dsbnya)
+
+2. Fakta nya… https://t.co/CVK536XUyL",54,1552451161936265216,"named_entity_recognition: []
+
+aspect_sentiment: [direshufle (negative), faktanya (neutral)]",219
+anies,"Ingin upah minimum buruh yg layak &amp; sesuai dg kenaikan inflasi, Anies ajukan banding atas putusan pengadilan TUN so… https://t.co/Mt9JvW8WTd",698,1552252486928330752,"named_entity_recognition: [Anies, TUN]
+aspect_sentiment: [upah minimum (positive), buruh (neutral), kenaikan inflasi (negative), putusan pengadilan (neutral)]",239
+anies,Pak Anies selalu GAGAL membuat senang para buzzer &amp; the gank https://t.co/M9jDeB6gPD,0,1552479758906433536,"named_entity_recognition: [Pak Anies, buzzer, the gank]
+aspect_sentiment: [membuat senang (positive)]",208
+anies,Kontras bngt di balik Dua penghargaan Anies pemenuhan HAK pd anak di DKI https://t.co/O6EzI7qySU,7,1552277887293607936,"named_entity_recognition: [Anies, DKI]
+aspect_sentiment: [pemenuhan HAK (positif)]",209
+anies,"Sekali anda tanya tentang prestasi Anies, anda sama saja memberi kekuatan Anies untuk muncul. Anda memberi ruang ba… https://t.co/L7nCSFp3vO",408,1552144579050508288,"named_entity_recognition: [Anies]
+
+aspect_sentiment: [tanya (positive), prestasi (positive), memberi kekuatan (positive), muncul (positive), memberi ruang (positive)]",236
+anies,"Geger Duit Negara Digondol Sampai Rp. 54 Triliun Oleh Kaum Itu-Itu Saja, Tapi Yang Selalu Diserang BuzzeRP Adalah H… https://t.co/z6GQCnOiBi",842,1551944492315738114,"named_entity_recognition: [Kaum Itu-Itu Saja, BuzzeRP]
+aspect_sentiment: [Duit Negara (negative), Rp. 54 Triliun (positive)]",244
+anies,Anggota DPD RI: Prestasi Anies Melampaui Ekspektasi https://t.co/ljlaBLP5XM,7,1552453522972614658,"named_entity_recognition: [Anies]
+
+aspect_sentiment: [Prestasi (positif)]",194
+anies,@BdgLautanApi @GeiszChalifah @puanmaharani_ri Prestasi ? Prestasi bukan penghargaan . Prestasi seorg gub ketika bis… https://t.co/oIVKJYWdm7,1,1552480695502589954,"named_entity_recognition: [@BdgLautanApi, @GeiszChalifah, @puanmaharani_ri]
+
+aspect_sentiment: [Prestasi (positif), penghargaan (negatif), gub (netral)]",252
+anies,"Presiden Buruh Puji Konsisten Anies Banding Putusan PTUN Soal UMP
+https://t.co/f746fYBbwI",31,1552304377423360000,"named_entity_recognition: [Presiden Buruh, Anies, PTUN, UMP]
+
+aspect_sentiment: [Puji (positif), Konsisten (positif), Banding Putusan PTUN Soal UMP (netral)]",229
+anies,@BdgLautanApi @GeiszChalifah @puanmaharani_ri Prestasi ? Prestasi bukan penghargaan . Prestasi seorg gub ketika bis… https://t.co/oIVKJYWdm7,1,1552459920531808256,"named_entity_recognition: [@BdgLautanApi, @GeiszChalifah, @puanmaharani_ri]
+
+aspect_sentiment: [Prestasi (positif), penghargaan (negatif), gub (netral)]",252
+anies,"Heran GUE Duit Negara Digondol Sampai Rp. 54 Triliun Oleh Kaum Itu-Itu Saja, Tapi Yang Selalu Diserang BuzzeRP Adal… https://t.co/TeGcavOKbY",151,1552166179158228992,"named_entity_recognition: [Kaum Itu-Itu Saja, BuzzeRP]
+aspect_sentiment: [Duit Negara (negative), Rp. 54 Triliun (negative)]",246
+anies,@tatakujiyati Pak Anies Baswedan itu....Solusi Untuk Indonesia Maju,0,1551944492315738114,"named_entity_recognition: [""@tatakujiyati"", ""Pak Anies Baswedan"", ""Indonesia""]
+aspect_sentiment: [""Solusi (positive)"", ""Indonesia Maju (positive)""]",211
+anies,"Cuma mau bilang buat orqng2 yang masih meragukan komitmen Pak @aniesbaswedan  soal UMP DKI.
+Pak Anies ajukan Bandin… https://t.co/TE6uOJhEbD",10,1552306134341795841,"named_entity_recognition: [Pak Anies (PERSON)]
+
+aspect_sentiment: [ajukan Bandin (positive)]",225
+anies,"@adi_blinx @tatakujiyati Uang Negara di maling triliunan ke Singapure loh diam, sementara kebijakan Gubemur.Anies B… https://t.co/mTyaQI3kR8",1,1552454046430404608,"named_entity_recognition: [Anies Baswedan (PERSON)]
+
+aspect_sentiment: [kebijakan (positive)]",225
+anies,"Kalo mau di catat, pak anies punya segudang prestasi, kalo cuman 7, ini saya cicil aja dulu 7 prestasi pak anies se… https://t.co/8eCMWGIK2d",37,1552279771572477952,"named_entity_recognition: [pak anies]
+aspect_sentiment: [catat (positive), prestasi (positive), cicil (neutral)]",229
+anies,@RAISYAELBIX1s @M45Broo_ @KPK_RI Anies gak rampok?,0,1552279771572477952,"named_entity_recognition: [""Anies""]
+
+aspect_sentiment: [""rampok (negative)""]",190
+anies,"Tidak perlu buka suara pun semua sudah tau, dan kalian akan mengusung anies.
+
+Politik hitam itu perna berhasil di D… https://t.co/qiZrkBUwQN",142,1551802155224678401,"named_entity_recognition: [Anies]
+
+aspect_sentiment: [mengusung (positif)]",211
+anies,Luar biasa wong kito..Dorongan perubahan sdh ada diseluruh wilayah di Sumatera Selatan. Masyarakat mengorganisir di… https://t.co/dY4EeiMSvS,49,1552427696155934722,"named_entity_recognition: []
+
+aspect_sentiment: []",206
+anies,Relawan Tertawa Dengar Hasto Tanyakan Prestasi Anies https://t.co/Dqd50aaCYb,86,1551764582838018052,"named_entity_recognition: [Hasto, Anies]
+aspect_sentiment: [Tertawa (positive), Tanyakan Prestasi (neutral)]",202
+anies,@ignust62 @Hutab3Hutab Sprti anies byk teori..tp kerja nol..,0,1551764582838018052,"named_entity_recognition: [@ignust62, @Hutab3Hutab, Anies]
+aspect_sentiment: [teori (negative), kerja (negative)]",207
+anies,Intinya JIS di bangun bukan utk sarana olah raga atau sepak bola tp utk kepentingan politik anies mengumpulkan mass… https://t.co/rg4EgQtNBp,252,1551888306421436421,"named_entity_recognition: [JIS, anies]
+aspect_sentiment: [bangun (positive), sarana olah raga (neutral), sepak bola (neutral), kepentingan politik (negative), anies (positive), mengumpulkan mass (positive)]",251
+anies,Anies’ Upbringing in a Javanese Culture Environment https://t.co/YU2Vac7EdM,12,1551810041778413568,"named_entity_recognition: [Anies]
+
+aspect_sentiment: [Upbringing (positive)]",187
+anies,@rey_0289 @ScioCogitoCredo @Mdy_Asmara1701 ini produk kapir kenapa dulu anies memakainya https://t.co/R0HxGkVuxO,0,1551818712558497792,"named_entity_recognition: [""@rey_0289"", ""@ScioCogitoCredo"", ""@Mdy_Asmara1701"", ""anies""]
+aspect_sentiment: [""produk (negative)""]",233
+anies,"@Irwan2yah Itu namanya kesetaraan, jgn ada ikhtiar pembatasan kreatifitas, tujuannya jgn ada pembatasan utk pembata… https://t.co/q9DHPQYyVL",0,1551818712558497792,"named_entity_recognition: [Irwan2yah, pembatasan kreatifitas, pembatasan, pembata]
+
+aspect_sentiment: [kesetaraan (positive), ikhtiar pembatasan kreatifitas (negative), tujuan (positive), pembatasan (negative)]",259
+anies,"Menurut kalian warga DKI
+Siapa gubernur terbaik DKI menurut kalian ?
+
+Ahok.                          Anies
+ RT.… https://t.co/gSxeQkvfii",2933,1539109384965574657,"named_entity_recognition: [Jawaban anda: Ahok, Anies]
+aspect_sentiment: [Identifikasi verb / noun-phrase hasil dari part-of-speech di dalam komentar, disertai dengan nilai sentiment masing-masing aspect dengan format <aspect (sentiment)>]
+- gubernur terbaik (positive)",258
+anies,"Prestasi Anies ada di hati warganya bukan dimulutnya Hasto. 
+Benahi kumuhnya bukan gusur kampungnya.
+Suara mereka y… https://t.co/AbmpDxc4aL",9,1539109384965574657,"named_entity_recognition: [Anies, Hasto]
+aspect_sentiment: [Prestasi (positive), hati (positive), warganya (positive), mulutnya (negative), Benahi kumuhnya (positive), gusur kampungnya (negative), Suara mereka (positive)]",264
+anies,"@kapten11 @ChusnulCh__ Gua kurang cerdas apa loenya yg tolol 😁😁😁😁
+Jika Anies terbukti menerima kelebihan bayar kena… https://t.co/09vCO1O4IK",0,1552459920531808256,"named_entity_recognition: [Anies]
+
+aspect_sentiment: [menerima (positif)]",227
+anies,"Bukti sudah didepan mata..
+Duit Negara digondol kelompok Nganu sampai Rp. 54 Triliun, masih juga menutup mata.
+Tapi… https://t.co/ZWpuLu4LFB",678,1552209710459518981,"named_entity_recognition: [Nganu]
+
+aspect_sentiment: [Duit Negara (negative), kelompok Nganu (negative)]",228
+anies,"@herry_wl @MarahIchsan Ternyata seru, hanya saya 1 orang yang gak setuju Anies di bully bak pembuat bencana nasiona… https://t.co/w5GLtu3SXE",0,1552209710459518981,"named_entity_recognition: [Anies]
+
+aspect_sentiment: [bully (negative), pembuat bencana nasional (negative)]",223
+anies,"Sebenarnya sy iba dengan buruh, tapi dulu kau juga yang dukung anies, kau juga yang khianati Ahok... 
+
+Sekarang ber… https://t.co/qVx9IegfAO",7,1552457128996384768,"named_entity_recognition: [Anies, Ahok]
+aspect_sentiment: [dukung (positive), khianati (negative)]",224
+anies,@8e9aca18c8de48f @restyca_yah @aniesbaswedan Bambang Widjojanto ditugaskan Anies untuk bela Maming ya ???,0,1552459920531808256,"named_entity_recognition: [Bambang Widjojanto, Anies Baswedan]
+
+aspect_sentiment: [bela Maming (positive)]",217
+anies,"Heran dengan Sekjen PDIP Hasto yang Pertanyakan Prestasi Anies, Waketum NasDem: Terus yang Berprestasi Siapa? https://t.co/o5TlGmYkHH",2,1552469039729225728,"named_entity_recognition: [Sekjen PDIP Hasto, Anies, Waketum NasDem]
+aspect_sentiment: [Pertanyakan (negative), Prestasi (positive), Berprestasi (positive)]",238
+anies,"Survei: 74,9 Persen Warga Puas dengan Kinerja Anies Tangani Banjir
+https://t.co/60vUMSKSrA https://t.co/vtRjFKd1Jd",134,1551832289239113729,"named_entity_recognition: [Anies]
+    aspect_sentiment: [Survei (positive), Warga (positive), Kinerja Anies Tangani Banjir (positive)]",233
+anies,@Mdy_Asmara1701 Anies mantap,0,1551832289239113729,"named_entity_recognition: [Anies (PERSON)]
+
+aspect_sentiment: [mantap (positive)]",176
+anies,"Sebenarnya banyak pencapaian Pak Anies, tapi hanya diminta 7 kan, ya? 
+
+#Anies #AniesBaswedan https://t.co/3xSsgo3kY7",152,1551809581319213056,"named_entity_recognition: [Pak Anies, Anies Baswedan]
+
+aspect_sentiment: [pencapaian (positive)]",219
+anies,"Anies menganggap Enteng Robohnya pagar Pembatas JIS
+Pdhl ini semua tetap berkaitan dgn keselamatan Orang banyak. https://t.co/WXBgc60e6c",1,1552476658266845184,"named_entity_recognition: [Anies, Pembatas JIS]
+aspect_sentiment: [menganggap (negative), Enteng Robohnya pagar Pembatas JIS (negative), berkaitan (neutral), keselamatan Orang banyak (positive)]",246
+anies,JIS BERGEMURUUHHH ‼️ Puluhan Ribu Jakmania Teriakan Anies Presiden ‼️Terima Kasih Anies Baswedan… https://t.co/wQ7zSY4AKi,1215,1551368255268614144,"named_entity_recognition: [Anies Baswedan]
+
+aspect_sentiment: [JIS (positive), Jakmania (positive), Anies Presiden (positive), Terima Kasih Anies Baswedan (positive)]",241
+anies,"Apa ya prestasi yang bisa di banggakan dari Anies?
+
+Kelebihan bayarnya kah?
+
+Serius nanya. https://t.co/H5MAuS934n",23,1551863793206312960,"named_entity_recognition: [Anies]
+
+aspect_sentiment: [prestasi (positive), bayar (negative)]",210
+anies,Kritikan terhadap Anies Baswedan Keluar dari Rasa Dengki https://t.co/zqsjVkXLmK,43,1551857060777807873,"named_entity_recognition: [Anies Baswedan]
+
+aspect_sentiment: [Kritikan (negatif)]",199
+ahy,@LUISGAB81756753 @RevistaSemana Ahy que ser demasiado estúpido o uribista para creer que eso es posible en Colombia… https://t.co/dgy0qF4m6f,0,1552209710459518981,"named_entity_recognition: []
+
+aspect_sentiment: []",204
+ahy,"Kalo ada yg penasaran dgn apa yg sudah dilakukan kader Demokrat di seluruh penjuru Nusantara dalam membantu sesama,… https://t.co/q0S01p95XX",19,1552319127448358912,"named_entity_recognition: [kader Demokrat, Nusantara]
+aspect_sentiment: [membantu sesama (positive)]",221
+ahy,"@alnuzha لكل مجتهد نصيب 
+مبروك الف مبروك 
+الله يوفقك ويسهل أمرك",0,1552319127448358912,"named_entity_recognition: []
+
+aspect_sentiment: []",200
+ahy,@RAMujiyono Coba di observasi lagi .. Passion nya Broo AHY itu di Militer ..bukan Politik ..😉✌🏾,0,1552319127448358912,"named_entity_recognition: [AHY]
+
+aspect_sentiment: [Passion (positive), Militer (neutral), Politik (negative)]",208
+ahy,Ahy ang bad ah https://t.co/Y6U0TNhAGt,1,1552443193383600129,"named_entity_recognition: []
+
+aspect_sentiment: []",172
+ahy,#opinasin muy buena noche cada vez que un país quiere los buenos siempre ahy persona que temen ser parte de que se… https://t.co/QEOIeCedSV,0,1552443193383600129,"named_entity_recognition: []
+
+aspect_sentiment: []",194
+ahy,"AHY curi perhatian, menggunakan Rompi saat Olahraga https://t.co/cAfVKJ4y1G https://t.co/iTACKjHNnk",7,1552326086876311552,"named_entity_recognition: [AHY, Rompi]
+aspect_sentiment: [menggunakan Rompi (positive)]",207
+ahy,@gossipeconomist Dog chaw de esa ahy en todos lados no batalle,0,1552326086876311552,"named_entity_recognition: []
+
+aspect_sentiment: [Dog (neutral)]",179
+ahy,@Eduardoando Tatiana maslany párate de ahy 😭,0,1552326086876311552,"named_entity_recognition: [Tatiana Maslany]
+aspect_sentiment: [parate (negative)]",183
+ahy,@Estigia_69 @LaUnicejaDeAD @tez1arturo @InvictosSomos Y tú argentino lo único que tienes es fútbol de ahy en adelan… https://t.co/mq8AHT6mfC,0,1552326086876311552,"named_entity_recognition: [Estigia_69, LaUnicejaDeAD, tez1arturo, InvictosSomos]
+aspect_sentiment: [fútbol (positive)]",243
+ahy,@Ximena_Cosmo Cómo m gustaría estar ahy acostado con Tigo acariciándote toda amiga estás hermosísima 😍,0,1552326086876311552,"named_entity_recognition: [Ximena_Cosmo, Tigo]
+
+aspect_sentiment: [acostado (positive), acariciándote (positive), hermosísima (positive)]",222
+ahy,@MilenaMayorga @ChrisGuevaraG Ahy cosas q uno sé pregunta y no se explica como llegaron ahí x ejemplo Sanchez o con… https://t.co/iyEDhjhhTc,0,1552326086876311552,"named_entity_recognition: [Sanchez]
+
+aspect_sentiment: [llegaron (neutral)]",210
+ahy,@SecardenOk Haters?  Te equivocas .... no te odio. Solo no.tolero a los llorones.... es muy diferente. Y más habien… https://t.co/jpn65fxdin,0,1552326086876311552,"named_entity_recognition: []
+
+aspect_sentiment: [no.tolero (negative)]",207
+ahy,"Anies - AHY presiden 2024 
+#demokrat 
+#partaidemokrat 
+#AHY 
+#MJN
+#RAMujiyono https://t.co/Le4btB1Mhe",0,1552326086876311552,"named_entity_recognition: [""Anies"", ""AHY"", ""MJN"", ""RAMujiyono""]
+
+aspect_sentiment: [""Anies (positive)"", ""AHY (positive)"", ""presiden 2024 (neutral)"", ""demokrat (neutral)"", ""partaidemokrat (neutral)"", ""MJN (neutral)"", ""RAMujiyono (neutral)""]",274
+ahy,Yo vivo por ahy por la esquina de luis https://t.co/OIrGhTXe2B,0,1552326086876311552,"named_entity_recognition: []
+
+aspect_sentiment: []",179
+ahy,@Valeria_Martell Ahy no puede ser y yo que,0,1552326086876311552,"named_entity_recognition: []
+
+aspect_sentiment: []",168
+ahy,"@panca66 Panca panca .... mau nanya SBY berkuasa THN brapa ?
+president Tresolhd 20 ℅ pada jaman siapa berkuasa dan… https://t.co/BpMlq3gwEk",0,1552319127448358912,"named_entity_recognition: [""SBY"", ""Tresolhd""]
+aspect_sentiment: [""berkuasa (positive)"", ""jaman (neutral)""]",230
+ahy,"AHY PAKK, ITO NA ANG RETIREMENT 4P KO✨✨✨ https://t.co/SbJDIslD8g",0,1552319127448358912,"named_entity_recognition: [AHY, 4P]
+aspect_sentiment: [RETIREMENT (positive)]",204
+ahy,@TheS8testboy @AnneLalou1 Ahy mais qu'est-ce que c'est 🤣🤣🤣🤣😂,0,1552319127448358912,"named_entity_recognition: []
+
+aspect_sentiment: []",189
+ahy,@zonacero AHY TA LO JODIDO EL COMANDANTE PIDIENDOLE A LOS COLOMBIANOS QUE SALGAN A MARCHAR POR ELLOS Y ESTE HP POLO… https://t.co/orX6pYvY3H,0,1552319127448358912,"named_entity_recognition: [AHY, COMANDANTE, COLOMBIANOS, HP POLO]
+
+aspect_sentiment: [PIDIENDOLE (positif), SALGAN (negatif)]",240
+ahy,@krnsnjsc ikaw nlng ahy,0,1552319127448358912,"named_entity_recognition: [PERSON]
+
+aspect_sentiment: [ikaw (neutral)]",172
+ahy,Yes AHY 💙 https://t.co/XPlz6rGBQJ,12,1552319379114639360,"named_entity_recognition: [AHY]
+
+aspect_sentiment: [AHY (positive)]",180
+ahy,@kelvisGarciaa Está semana a este lo vengo siguiendo y confío en el enorme potencial que tiene ahora con esa efecti… https://t.co/vL2KrbFP1V,0,1552319379114639360,"named_entity_recognition: [kelvisGarciaa]
+aspect_sentiment: [semana (positive), potencial (positive)]",217
+ahy,SMRC: SBY dan Surya Paloh Jadi Faktor Penentu Duet Anies-AHY di Pilpres 2024 https://t.co/oeGJamQZGU,2,1551238425633865728,"named_entity_recognition: [""SMRC"", ""SBY"", ""Surya Paloh"", ""Anies"", ""AHY"", ""Pilpres 2024""]
+
+aspect_sentiment: [""SMRC (neutral)"", ""SBY (neutral)"", ""Surya Paloh (neutral)"", ""Duet Anies-AHY (positive)"", ""Pilpres 2024 (neutral)""]",268
+ahy,tener amigos hombres es lo mejor q ahy,4,1552427461002121217,"named_entity_recognition: []
+
+aspect_sentiment: [tener amigos hombres (positif)]",171
+ahy,KETUA UMUM PARTAI DEMOKRAT AHY PENUH ENERGIK. PILIHAN MELINEAL. https://t.co/NpiCQQZ94N,0,1552427461002121217,"named_entity_recognition: [AHY, PARTAI DEMOKRAT]
+aspect_sentiment: [KETUA UMUM PARTAI DEMOKRAT (positive), AHY (positive), PILIHAN MELINEAL (positive)]",234
+ahy,Las mil veces q me necesitaste estuve ahy y así me paagass👍👏,0,1552427461002121217,"named_entity_recognition: []
+
+aspect_sentiment: [me necesitaste (positive), estuve ahy (positive), me paagass (positive)]",200
+ahy,I swear como ahy gente que chinga y no tienen el valor de decir las cosas ala cara !!!,0,1552427461002121217,"named_entity_recognition: []
+
+aspect_sentiment: [""gente (negative)"", ""decir las cosas (negative)"", ""ala cara (negative)""]",198
+ahy,"Sehat selalu Mas Ketum @AgusYudhoyono, terimakasih telah menginspirasi kami setiap saat.
+InsyaAllah, AHY Presiden 2… https://t.co/hc4uuI6oBw",0,1552427461002121217,"named_entity_recognition: [""Agus Yudhoyono"", ""AHY""]
+aspect_sentiment: []",223
+ahy,@Animalbelngjerk Ahý þbofý to þhe ttes,0,1552427461002121217,"named_entity_recognition: []
+
+aspect_sentiment: []",171
+ahy,@Nagoyamiyachan トマトは食べれるんだけど、ジュースになると喉が飲み込むのを拒否するw,0,1552427461002121217,"named_entity_recognition: []
+
+aspect_sentiment: [トマト (positive), 食べる (positive), ジュース (negative), 喉 (negative), 飲み込む (negative)]",240
+ahy,@SG_KYUBI Ahy anong drama yana haha,0,1552427461002121217,"named_entity_recognition: []
+
+aspect_sentiment: [drama (positive)]",173
+ahy,@1980makoto928 食べれる～,0,1552427461002121217,"named_entity_recognition: []
+
+aspect_sentiment: []",168
+ahy,"@PabloFiera14 @JoanAguinaga Q sean profesionales, y si a eso le sumas, que lleguen a tener cariño por la ciudad la… https://t.co/tQLW2bmYul",0,1552427461002121217,"named_entity_recognition: [@PabloFiera14, @JoanAguinaga]
+aspect_sentiment: [Q sean profesionales (positive), que lleguen a tener cariño por la ciudad (positive)]",239
+ahy,"Muda adalah kekuatan!
+#AHY #AHYPresiden2024 #BintangMudaIndonesia #partaidemokrat https://t.co/v4Z3rRNlvl",0,1552427461002121217,"named_entity_recognition: [AHY, AHYPresiden2024, BintangMudaIndonesia, partaidemokrat]
+
+aspect_sentiment: [Muda (positive)]",226
+ahy,"@jackhooned ahy, thank u po &gt;.&lt;",0,1552427461002121217,"named_entity_recognition: []
+
+aspect_sentiment: []",170
+ahy,"Anies AHY primadona Pilpres 2024
+
+https://t.co/ha3oUKrfqj",30,1551903010514927616,"named_entity_recognition: [Anies, AHY, Pilpres 2024]
+
+aspect_sentiment: [primadona (positive)]",198
+ahy,@EUGENIOMENESES9 Estoy hechandole palo a  el juego de Yankees ahy va ganando los mest no me percate que los mest la… https://t.co/XDFDxUYQUi,0,1551903010514927616,"named_entity_recognition: [Yankees, mest]
+aspect_sentiment: [juego (positif), Yankees (positif), mest (negatif)]",226
+ahy,El trabajo constante es necesario sin el no ahy riqueza posible y reciclar es una fuente de riqueza para cuba # cub… https://t.co/Z6MR9yMYdA,2,1552130103303458816,"named_entity_recognition: []
+
+aspect_sentiment: [trabajo (positif), reciclar (positif), fuente de riqueza (positif)]",223
+ahy,@HerrArstichocke “ahy k ebolucionar Bro”,0,1552130103303458816,"named_entity_recognition: []
+
+aspect_sentiment: []",171
+ahy,Ahy no 🤣🤣 https://t.co/8ioYF5Njf1,2,1552459237531475980,"named_entity_recognition: []
+
+aspect_sentiment: []",177
+ahy,"Duet #AniesAHY ini bisa memberikan perbedaan dan perbaikan nasib untuk rakyat Indonesia.
+
+Meminjam istilah kakak ke… https://t.co/im6J55UMf0",14,1552261054964461568,"named_entity_recognition: [AniesAHY, Indonesia]
+aspect_sentiment: [duet (positive), perbedaan (positive), perbaikan (positive), nasib (positive), rakyat Indonesia (positive)]",238
+ahy,Ahy 😂😂😂😂😂 https://t.co/xv5GrVLUSk,0,1552261054964461568,"named_entity_recognition: []
+
+aspect_sentiment: []",178
+ahy,Ahy no 🤣🤣 https://t.co/8ioYF5Njf1,2,1552319127448358912,"named_entity_recognition: []
+
+aspect_sentiment: []",177
+ahy,AHY dong 💙 https://t.co/10UTfcmtKO,1,1552449939418271745,"named_entity_recognition: [AHY]
+
+aspect_sentiment: [AHY (positive)]",178
+ahy,no puede ser que los colegios públicos pasen esta miseria y nuestros niños al cual dicen proteger los tengas estudi… https://t.co/ptRFnK8qkw,1,1552391742007025665,"named_entity_recognition: []
+
+aspect_sentiment: [colegios públicos (negatif), miseria (negatif), niños (positif), proteger (positif), estudiar (positif)]",228
+ahy,@misskitteen_ Ojo q no digo q no lo vales solo q por estos tiempos ahy q pensar birn en q gastar el dinero,0,1552391742007025665,"named_entity_recognition: []
+
+aspect_sentiment: [tiempos (neutral), dinero (neutral)]",199
+ahy,@javirmz77 No mmrs desde que el mundo existe ahy guachos tranzas .y te lo digo por experiencia.,0,1552427461002121217,"named_entity_recognition: []
+
+aspect_sentiment: [No mmrs (negative), mundo (neutral), guachos tranzas (negative), experiencia (neutral)]",206
+ahy,"Anies-AHY Ramai Dibicarakan, Mungkinkah Terwujud? Jika nasdem masih percaya dgn janji janji manis penguasa artinya… https://t.co/hTcpv6dyZ2",2,1552322815285534720,"named_entity_recognition: [Anies-AHY, nasdem]
+aspect_sentiment: [Anies-AHY (positive), nasdem (negative)]",229
+ahy,"@fairuz_salwa @GTRoulette Mas AHY kan memang diminta foto banyak peserta drpd copot pasang, sementara copot dulu mpok🙏😁",0,1552322815285534720,"named_entity_recognition: [""@fairuz_salwa"", ""@GTRoulette"", ""AHY""]
+aspect_sentiment: [""memang diminta foto (positive)"", ""banyak peserta (positive)"", ""copot pasang (negative)"", ""copot dulu (negative)"", ""mpok (positive)""]",252
+ahy,@alvaradoalbpty AHY X LUGAR DONDE COMPRARON UNA EMPRESA E HICIERON MAS SUCURSALES EN PLENA PANDEMIA. Y COMO SE EXPL… https://t.co/qsyzjlNpEU,0,1552322815285534720,"named_entity_recognition: [AHY, EMPRESA]
+
+aspect_sentiment: [compraron (positive), hicieron (positive), sucursales (positive), pandemia (negative)]",244
+ahy,@namu_is_bored kinsa kahaa ni ahy myahahahaha,0,1552322815285534720,"named_entity_recognition: []
+
+aspect_sentiment: []",173
+ahy,@KeylinAcosta @CabreraRainieri @remolachanews ahy dio y  a mi que no me gusta fregar que vaina eh🤣🤪,0,1552322815285534720,"named_entity_recognition: [@KeylinAcosta, @CabreraRainieri, @remolachanews]
+aspect_sentiment: [gusta (positive), fregar (negative), vaina (neutral)]",228
+ahy,AHY: Muda Adalah Kekuatan https://t.co/ELw7M0ULZ3,0,1552322815285534720,"named_entity_recognition: [AHY]
+
+aspect_sentiment: [Muda (positive)]",187
+ahy,@julyennuh Ahy u will notice the difference beshy haha,0,1552322815285534720,"named_entity_recognition: []
+
+aspect_sentiment: []",170
+ahy,@vladasaaven Ahy si está chulisima mami,0,1552322815285534720,"named_entity_recognition: []
+
+aspect_sentiment: []",168
+ahy,@arauna_karra @Miduk17 Puan 11/12 dg AHY,0,1552322815285534720,"named_entity_recognition: [""Puan"", ""AHY""]
+aspect_sentiment: []",179
+ahy,@Jjjjjppppp7 @VC2Antityrants @Mister_Wolf_0 Carabineros y las fuerzas armadas dan sus vidas por nosotros los chilen… https://t.co/1YHheo95U0,0,1552322815285534720,"named_entity_recognition: [""Carabineros"", ""fuerzas armadas"", ""chilen""]
+aspect_sentiment: []",223
+ahy,@KhatteDraws JAKHAKJA 🤣🤣🤣🤣🫡 mi cositas gracias que se quiere casar con uno X Hay ahy Los niños Y sus ideas,0,1552322815285534720,"named_entity_recognition: []
+
+aspect_sentiment: [se quiere casar con uno (positive)]",209
+ahy,Kadernya DPO tindak pidana korupsi. AHY bisakah temukan kadernya dan serahkan ke KPK!! ?!?! https://t.co/o2quWY1htJ,1,1552451670264913920,"named_entity_recognition: [AHY, KPK]
+
+aspect_sentiment: [DPO (negative), tindak pidana korupsi (negative), AHY (neutral), kadernya (neutral), KPK (neutral)]",239
+ahy,"@dieintaesarms Haha yo creo que tiene unos 10 años haha , le dicen que exite santa claus y se lo cree..
+Ahy dios mio.",0,1552451670264913920,"named_entity_recognition: []
+
+aspect_sentiment: [tiene (positive), años (positive), exite santa claus (positive)]",207
+ahy,@abrilgarmendia_ Un poco ahy que serlo abril,0,1552451670264913920,"named_entity_recognition: [abrilgarmendia_]
+
+aspect_sentiment: [serlo (positive)]",183
+ahy,@christy_morata @Peguy_Certifie Ahy 😒,0,1552451670264913920,"named_entity_recognition: [@christy_morata, @Peguy_Certifie]
+aspect_sentiment: [Ahy (negative)]",190
+ahy,@danielpmejiag Ahy están pintados 🤡🤡🤮🙈,0,1552451670264913920,"named_entity_recognition: []
+
+aspect_sentiment: []",178
+ahy,@GuimoSabine @Peguy_Certifie Ahy😒,0,1552451670264913920,"named_entity_recognition: []
+
+aspect_sentiment: []",170
+ahy,"De la soledad a el amor solo ahy un paso animarce, y del amor a la locura  solo ahy dos animarce y ser rechazado… https://t.co/1xPQN6lh2T",2,1184603541027119104,"named_entity_recognition: []
+
+aspect_sentiment: [soledad (negative), amor (positive), paso (neutral), animarce (positive), amor (positive), locura (negative), animarce (positive), ser rechazado (negative)]",250
+ahy,AHY dong 💙 https://t.co/10UTfcmtKO,1,1184603541027119104,"named_entity_recognition: [AHY]
+
+aspect_sentiment: [AHY (positive)]",178
+ahy,"Si sabes que no era ahy, para que lo intentaste ? 🤷",0,1184603541027119104,"named_entity_recognition: []
+
+aspect_sentiment: [no era (negative)]",178
+ahy,"""Makin pudar persatuan kita. Indonesia hanya akan menjadi cerita di masa lalu dalam ensiklopedia""
+
+- AHY - https://t.co/zCpyLntp7a",10,1551889047509172225,"named_entity_recognition: [AHY]
+
+aspect_sentiment: [persatuan (negative), Indonesia (negative)]",207
+ahy,@NoticiasCaracol Este hp de Roy tiene su escondido  por ahy....ese nunca  es tan atento ....algo se trae la rata esta 🤔,0,1551889047509172225,"named_entity_recognition: [Roy (PERSON)]
+
+aspect_sentiment: [Roy (negative)]",201
+ahy,Sebagian Besar Pemilih Dari KIB Lebih Memilih Duet Anies – AHY https://t.co/4vpPXFgwjq https://t.co/VTG7VLrKPs,18,1552149046407507968,"named_entity_recognition: [KIB, Anies, AHY]
+aspect_sentiment: [Pemilih (positive), Duet Anies - AHY (positive)]",226
+ahy,"@sgokbakar Ahy kötüm, kendini ne sanıyor.",0,1552149046407507968,"named_entity_recognition: []
+
+aspect_sentiment: [kendini (negative)]",177
+ahy,"@T13 Y llaitul que amenaza al mismísimo gobierno y la seguridad nacional  ahy re piola , que hipócritas!!",1,1552447224524963840,"named_entity_recognition: []
+
+aspect_sentiment: [""amenaza (negative)"", ""gobierno (negative)"", ""seguridad nacional (negative)"", ""hipócritas (negative)""]",213
+ahy,"@GustavoBolivar SEÑOR GUSTAVO AHY QUE HACER MAS PEDAGOGIA!!!! PERO ESTA EN LO CORRECTO,  SI YO FUESE SENADORA DE CE… https://t.co/KZtg4NUNTA",0,1552447224524963840,"named_entity_recognition: [GustavoBolivar, SENADORA DE CE]
+aspect_sentiment: [HACER (positive), PEDAGOGIA (positive), CORRECTO (positive)]",246
+ahy,"@Comotedigo_ Les matan 2 policías y ahy si salen llorando que los jóvenes marchen, como cuando los jóvenes marcharo… https://t.co/oFym34ZWhp",0,1552447224524963840,"named_entity_recognition: [Les, policías, jóvenes]
+aspect_sentiment: [marchen (positive)]",215
+ahy,"Absurdo la matanza a los policías,pero presiento que la mentalidad macabra de Alvaro uribe Velez está metida ahy,es… https://t.co/5AJ72TkGXA",0,1552447224524963840,"named_entity_recognition: [Alvaro uribe Velez]
+
+aspect_sentiment: [matanza (negative), mentalidad macabra (negative), Alvaro uribe Velez (negative)]",236
+ahy,@PedroGalvanGam De privados se vive del estado se muere ahy no ves a Venezuela su gente sufriendo en otros países s… https://t.co/e5NKbrIytK,0,1552447224524963840,"named_entity_recognition: [PedroGalvanGam, Venezuela]
+aspect_sentiment: [privados (neutral), estado (neutral), Venezuela (negative), gente (negative), sufriendo (negative), países (neutral)]",232
+ahy,Ahy mucha conexión pero no sé puede 💔🦋,0,1552447224524963840,"named_entity_recognition: []
+
+aspect_sentiment: []",169
+ahy,Let's have have fun! Your favorite card art in the replys and say ahy you like it! Tokens also count as well since… https://t.co/wqv9OfWX1i,19,1552111531176824832,"named_entity_recognition: []
+
+aspect_sentiment: [have fun (positive), favorite card art (positive), tokens (positive)]",210
+ahy,@GobiernodeChile Siempre los mismo y los demás nada ahy q tener menores d edad ahy t dan todos los bonos o ser d la tercera edad,0,1552111531176824832,"named_entity_recognition: []
+
+aspect_sentiment: [tener (positif), menores de edad (negatif), bonos (positif), tercera edad (positif)]",221
+ahy,@namjin_mi_papis ahy me encanta,0,1552111531176824832,"named_entity_recognition: []
+
+aspect_sentiment: []",165
+ahy,Ahy qué significa? Animalitos dios jajaja,0,1552111531176824832,"named_entity_recognition: []
+
+aspect_sentiment: [significa (positive), Animalitos (neutral), dios (positive), jajaja (positive)]",188
+ahy,Ahy ang bad ah https://t.co/Y6U0TNhAGt,1,1552111531176824832,"named_entity_recognition: []
+
+aspect_sentiment: []",172
+ahy,"Q te escriba ""ahy"" 🚩🚩🚩",1,1552356848757608448,"named_entity_recognition: []
+
+aspect_sentiment: []",172
+ahy,@MondesirParfait Ahy 🙄,0,1552356848757608448,"named_entity_recognition: []
+
+aspect_sentiment: []",166
+ahy,@capa_invisible capa ya ahy en walmart y bodega cosas de harry potter yo ya tengo las mias son las nuevas colecciones que saco,0,1552356848757608448,"named_entity_recognition: [capa_invisible, walmart, bodega, harry potter]
+aspect_sentiment: [colecciones (positif)]",210
+ahy,@DonIzquierdo_ AHY DIOSSS ! EN SERIOOOO ! OSEA A PARTE DE QUE EN ESTE MOMENTO!!! CON SUS ESCRITO ESTA DESINFORMANDO… https://t.co/f7lzilAa4Y,0,1552356848757608448,"named_entity_recognition: [AHY]
+
+aspect_sentiment: [DIOSSS (positive), SERIOOOO (positive), PARTE (neutral), MOMENTO (neutral), ESCRITO (negative), DESINFORMANDO (negative)]",255
+ahy,@Dydy_bu Cantas buen bonito Dydy me pase un rato por ahy 😊,0,1552356848757608448,"named_entity_recognition: []
+
+aspect_sentiment: []",178
