@@ -51,6 +51,7 @@ Gain a comprehensive understanding of the 2024 election in Indonesia through the
 ## Contributors
 
  - [Muhammad Alif Ramadhan](https://github.com/NnA301023)
+ - [Devandra Alandra Wicaksono](https://github.com/DevaraAlandra)
 
 ## Future Improvements
 
