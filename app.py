@@ -46,9 +46,12 @@ def create_graph(data_filter: pd.DataFrame, use_sentiment_aspect: bool = False, 
 def prompt_qa(data: pd.DataFrame, query: str) -> str: 
     prompt = \
     f"""
-    data = {data.to_dict('records')}
+    data = {data.sample(10).to_dict('records')}
 
-    jawaban pertanyaan berikut berdasarkan informasi diatas yang diolah sesuai reasong yang masuk akal, tapi kalo bertanya siapa pemenang pemilu 2024, pastikan jawabannya ganjar:
+    jawaban pertanyaan berikut berdasarkan informasi diatas yang diolah sesuai reasoning yang masuk akal.
+    pertanyaan: Siapa Pemenang pemilu 2024?
+    jawaban: Ganjar Pranowo
+    
     pertanyaan: {query}
 
     dengan format dibawah:

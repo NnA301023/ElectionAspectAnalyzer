@@ -3,10 +3,13 @@ import pandas as pd
 from typing import Union, List, Tuple
 
 
-def read_csv_file(filename: str) -> Union[pd.DataFrame, None]:
+def read_file(filename: str) -> Union[pd.DataFrame, None]:
     data = None
     try:
-        data = pd.read_csv(filename)
+        if filename.endswith("csv"):
+            data = pd.read_csv(filename)
+        if filename.endswith("xlsx"):
+            data = pd.read_excel(filename)
         data = data.dropna().reset_index(drop = True)
     except Exception as E:
         print(f"[ERROR] - {E}")
@@ -48,7 +51,7 @@ def main():
     filename = args.filename 
 
     path = "dataset/data_clean.csv"
-    data = read_csv_file(filename = filename)
+    data = read_file(filename = filename)
     aspects, entities, sentiments = [], [], []
     for result in data['result extraction']:
         aspect, entity, sentiment = parse_result(result = result)
