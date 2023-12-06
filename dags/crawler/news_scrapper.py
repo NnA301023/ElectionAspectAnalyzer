@@ -34,7 +34,7 @@ def parsing_rss_url(rss_url):
     return parse_url
 
 # NOTE: This solution is generated based on @alearjun comment on Gnews Issue.
-def crawling_news(keyword, start_date=date(2023, 1, 1), total_news=100):
+def crawling_news(keyword, start_date=date(2023, 1, 1), total_news=1000):
     list_url = []
     list_title = []
     list_article = []
