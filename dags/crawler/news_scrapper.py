@@ -2,15 +2,15 @@ import pandas as pd
 from tqdm import tqdm
 from gnews import GNews
 from datetime import timedelta, date
+from newspaper import Config, Article
 
 
 # Instantiate object
-google_news = GNews(language="id", country="ID")
+config = Config()
+config.browser_user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 
 # NOTE: This solution is generated based on @alearjun comment on Gnews Issue.
-_end_date = date(2023, 11, 30)
-_start_date = date(2023, 1, 1)
-def crawling_news(keyword, start_date=_start_date, end_date=_end_date):
+def crawling_news(keyword, start_date=date(2023, 1, 1), total_news=1000):
     list_url = []
     list_title = []
     list_article = []
@@ -18,16 +18,22 @@ def crawling_news(keyword, start_date=_start_date, end_date=_end_date):
     list_publisher = []
     list_description = []
     list_published_date = []
-    while start_date <= end_date:
-        scope_date = start_date + timedelta(days = 7)
+    n_news = 0
+    google_news = GNews(language="id", country="ID")
+    while n_news < total_news:
+        scope_date = start_date + timedelta(days = 8)
         google_news.start_date = (start_date.year, start_date.month, start_date.day)
         google_news.end_date = (scope_date.year, scope_date.month, scope_date.day)
-        google_news.period = "7d" # Period of 1 Day
         results = google_news.get_news(keyword)
         for res in results:
+            print(f'Total News: {n_news}')
             url = res['url']
-            article = google_news.get_full_article(url)
-            if url in list_url:
+            article = Article(url, config=config)
+            article.download()
+            article.parse()
+            if n_news >= total_news:
+                break
+            if url in list_url or article is None:
                 continue
             else:
                 list_url.append(url)
@@ -37,6 +43,7 @@ def crawling_news(keyword, start_date=_start_date, end_date=_end_date):
                 list_publisher.append(res['publisher']['title'])
                 list_description.append(res['description'])
                 list_published_date.append(res['published date'])
+            n_news += 1
         start_date += timedelta(days = 7)
     return (
         list_url, list_title, list_article,
@@ -48,13 +55,14 @@ if __name__ == "__main__":
 
     # Define List of keywords 
     list_keywords = [
-        "Anies Baswedan", "Muhaimin Iskandar",
+        #"Anies Baswedan", 
+        "Muhaimin Iskandar",
         "Ganjar Pranowo", "Mahfud MD",
         "Prabowo Subianto", "Gibran Rakabuming"
     ]
-    keywords = []
-    urls, titles, contents, authors, publisher, description, publish_date = [], [], [], [], [], [], []
     for keyword in tqdm(list_keywords, desc="Crawling Google News..."):
+        keywords = []
+        urls, titles, contents, authors, publisher, description, publish_date = [], [], [], [], [], [], []
         (
             list_url, list_title, list_article,
             list_authors, list_publisher, 
