@@ -14,24 +14,27 @@ config.browser_user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebK
 
 def parsing_rss_url(rss_url):
     parse_url = None
-    resp = requests.get(rss_url)
-    soup = BeautifulSoup(resp.content, "html.parser")
-    links = soup.find_all("link")
-    for link in links:
-        link = link.get("href")
-        # TODO: Implement proper logic.
-        try:
-            if "embed" in link:
-                parse_url = unquote(urlparse(link).query.split("=")[1])
-                break
-            if "amp" in link:
-                parse_url = unquote(link)
-        except Exception as E:
-            print(f"Error Occurede, Required Improve Link Parser: {links}")
+    try:
+        resp = requests.get(rss_url)
+        soup = BeautifulSoup(resp.content, "html.parser")
+        links = soup.find_all("link")
+        for link in links:
+            link = link.get("href")
+            # TODO: Implement proper logic.
+            try:
+                if "embed" in link:
+                    parse_url = unquote(urlparse(link).query.split("=")[1])
+                    break
+                if "amp" in link:
+                    parse_url = unquote(link)
+            except Exception as E:
+                print(f"Error Occurede, Required Improve Link Parser: {links}")
+    except Exception as E:
+        print(f"Connection Broken with Error: {E}")
     return parse_url
 
 # NOTE: This solution is generated based on @alearjun comment on Gnews Issue.
-def crawling_news(keyword, start_date=date(2023, 1, 1), total_news=1000):
+def crawling_news(keyword, start_date=date(2023, 1, 1), total_news=100):
     list_url = []
     list_title = []
     list_article = []
