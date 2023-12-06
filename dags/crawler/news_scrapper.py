@@ -20,11 +20,14 @@ def parsing_rss_url(rss_url):
     for link in links:
         link = link.get("href")
         # TODO: Implement proper logic.
-        if "embed" in link:
-            parse_url = unquote(urlparse(link).query.split("=")[1])
-            break
-        if "amp" in link:
-            parse_url = unquote(link)
+        try:
+            if "embed" in link:
+                parse_url = unquote(urlparse(link).query.split("=")[1])
+                break
+            if "amp" in link:
+                parse_url = unquote(link)
+        except Exception as E:
+            print(f"Error Occurede, Required Improve Link Parser: {links}")
     return parse_url
 
 # NOTE: This solution is generated based on @alearjun comment on Gnews Issue.
