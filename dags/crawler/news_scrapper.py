@@ -1,13 +1,31 @@
+import requests
 import pandas as pd
 from tqdm import tqdm
 from gnews import GNews
+from bs4 import BeautifulSoup
 from datetime import timedelta, date
 from newspaper import Config, Article
+from urllib.parse import unquote, urlparse
 
 
 # Instantiate object
 config = Config()
 config.browser_user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+
+def parsing_rss_url(rss_url):
+    parse_url = None
+    resp = requests.get(rss_url)
+    soup = BeautifulSoup(resp.content, "html.parser")
+    links = soup.find_all("link")
+    for link in links:
+        link = link.get("href")
+        # TODO: Implement proper logic.
+        if "embed" in link:
+            parse_url = unquote(urlparse(link).query.split("=")[1])
+            break
+        if "amp" in link:
+            parse_url = unquote(link)
+    return parse_url
 
 # NOTE: This solution is generated based on @alearjun comment on Gnews Issue.
 def crawling_news(keyword, start_date=date(2023, 1, 1), total_news=1000):
@@ -28,12 +46,22 @@ def crawling_news(keyword, start_date=date(2023, 1, 1), total_news=1000):
         for res in results:
             print(f'Total News: {n_news}')
             url = res['url']
-            article = Article(url, config=config)
-            article.download()
-            article.parse()
+            url = parsing_rss_url(url)
+            if url is None:
+                continue
+            try:
+                article = Article(url, config=config)
+                article.download()
+                article.parse()
+            except Exception:
+                pass
             if n_news >= total_news:
                 break
-            if url in list_url or article is None:
+            if (
+                url in list_url or 
+                article is None or 
+                len(article.text.strip()) == 0
+            ):
                 continue
             else:
                 list_url.append(url)
@@ -43,7 +71,7 @@ def crawling_news(keyword, start_date=date(2023, 1, 1), total_news=1000):
                 list_publisher.append(res['publisher']['title'])
                 list_description.append(res['description'])
                 list_published_date.append(res['published date'])
-            n_news += 1
+                n_news += 1
         start_date += timedelta(days = 7)
     return (
         list_url, list_title, list_article,
