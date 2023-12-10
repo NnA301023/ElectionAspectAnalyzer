@@ -43,23 +43,31 @@ def crawling_news(keyword, start_date=date(2023, 1, 1), total_news=1000):
     list_description = []
     list_published_date = []
     n_news = 0
+    n_tolerance = 0
     google_news = GNews(language="id", country="ID")
+    max_tolerance = 250
     while n_news < total_news:
         scope_date = start_date + timedelta(days = 8)
         google_news.start_date = (start_date.year, start_date.month, start_date.day)
         google_news.end_date = (scope_date.year, scope_date.month, scope_date.day)
         results = google_news.get_news(keyword)
         for res in results:
+            print('[INFO] - Tolerance: ', n_tolerance)
+            if n_tolerance > max_tolerance:
+                n_news = 10_000
+                break
             print(f'Total News: {n_news}')
             url = res['url']
             url = parsing_rss_url(url)
             if url is None:
+                n_tolerance += 1
                 continue
             try:
                 article = Article(url, config=config)
                 article.download()
                 article.parse()
             except Exception:
+                n_tolerance += 1
                 pass
             if n_news >= total_news:
                 break
@@ -68,6 +76,7 @@ def crawling_news(keyword, start_date=date(2023, 1, 1), total_news=1000):
                 article is None or 
                 len(article.text.strip()) == 0
             ):
+                n_tolerance += 1
                 continue
             else:
                 list_url.append(url)
@@ -89,10 +98,12 @@ if __name__ == "__main__":
 
     # Define List of keywords 
     list_keywords = [
-        #"Anies Baswedan", 
+        "Anies Baswedan", 
         "Muhaimin Iskandar",
-        "Ganjar Pranowo", "Mahfud MD",
-        "Prabowo Subianto", "Gibran Rakabuming"
+        "Ganjar Pranowo", 
+        "Mahfud MD",
+        "Gibran Rakabuming",
+        "Prabowo Subianto"
     ]
     for keyword in tqdm(list_keywords, desc="Crawling Google News..."):
         keywords = []
