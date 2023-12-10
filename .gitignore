@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # Taxonomy corpus private
-dags/enrichment/corpus
+dags/preprocess/corpus
