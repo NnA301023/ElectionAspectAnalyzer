@@ -161,3 +161,4 @@ cython_debug/
 
 # Taxonomy corpus private
 dags/preprocess/corpus
+dags/preprocess/final_dataset/result.csv
