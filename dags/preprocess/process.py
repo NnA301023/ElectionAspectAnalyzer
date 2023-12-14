@@ -59,20 +59,23 @@ if __name__ == "__main__":
     result_data['clean_content'] = result_data['content'].progress_apply(clean_text)
 
     # Hoax Detection
-    hoax = HoaxDetection()
-    list_hoax = hoax.batch_inference(result_data['clean_content'].tolist())
-    result_data['hoax_extract'] = list_hoax
+    # hoax = HoaxDetection()
+    # list_hoax = hoax.batch_inference(result_data['clean_content'].tolist())
+    # result_data['hoax_extract'] = list_hoax
 
     # Keyword Extraction
-    kw_extract = KeywordExtraction()
-    result_data['keyword_extract'] = result_data['clean_content'].progress_apply(
-        lambda i: ", ".join(kw_extract.single_inference(i))
-    )
+    # kw_extract = KeywordExtraction()
+    # result_data['keyword_extract'] = result_data['clean_content'].progress_apply(
+    #     lambda i: ", ".join(kw_extract.single_inference(i))
+    # )
 
     # Topic generation
     topic_gen = TopicGenerator()
     result_data['topic_extract'] = result_data['clean_content'].progress_apply(
         lambda i: ", ".join(topic_gen.generate_topic(i))
     )
+
+    # Sentiment Extraction
+    # ...
 
     result_data.to_csv("final_dataset/clean_data.csv", index=False)

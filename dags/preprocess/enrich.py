@@ -1,5 +1,6 @@
 import re
 import pandas as pd
+from tqdm import tqdm
 from keybert import KeyBERT
 from typing import List, Tuple
 from nltk.corpus import stopwords
@@ -98,8 +99,11 @@ class HoaxDetection:
         self.pipe = pipeline(task, model=model, max_length=512, truncation=True)
 
     def batch_inference(self, contents):
-        results = self.pipe(contents)
-        results = list(map(lambda i: i['label'], results))
+        results = []
+        for content in tqdm(contents):
+            result = self.pipe(content)
+            res = list(map(lambda i: i['label'], result))
+            results.extend(res)
         return results
     
 class KeywordExtraction:
