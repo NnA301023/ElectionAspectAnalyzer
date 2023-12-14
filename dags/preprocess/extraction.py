@@ -39,8 +39,8 @@ data_final = pd.DataFrame({
 })
 
 data_final['timestamp'] = pd.to_datetime(data_final['timestamp'])
-data_final['timestamp'] = data_final['timestamp'].dt.strftime("%d/%m/%Y")
-data_final['timestamp'] = pd.to_datetime(data_final['timestamp'], format="%d/%m/%Y")
+data_final['timestamp'] = data_final['timestamp'].dt.strftime("%Y-%m-%d %H:%M:%S")
+data_final['timestamp'] = pd.to_datetime(data_final['timestamp'], format="%Y-%m-%d %H:%M:%S")
 data_final['sentiment'] = list(map(lambda _: choice(list_sentiment), range(len(data_final))))
 data_final['source_validity'] = list(map(lambda _: choice(list_validity), range(len(data_final))))
 data_final.to_csv("final_dataset/result.csv", index=False)
