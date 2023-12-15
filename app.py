@@ -12,7 +12,8 @@ def load_clean_data(dataset: str = "dataset/result.csv") -> pd.DataFrame:
     data = pd.read_csv(dataset)
     data = data.drop_duplicates(subset=['keyword', 'author', 'topic'])
     data['keyword'] = data["keyword"].replace("Mahfud Md", "Mahfud MD")
-    data = data.sample(500).reset_index(drop=True)
+    # data = data.sample(500).reset_index(drop=True)
+    data = pd.concat([df.sample(100, replace=True) for _, df in data.groupby("keyword")])
     return data
 
 @st.cache
@@ -71,7 +72,7 @@ def create_graph(data_filter: pd.DataFrame, use_sentiment_aspect: bool = False, 
 def prompt_qa(data: pd.DataFrame, query: str) -> str: 
     prompt = \
     f"""
-    data = {data.sample(10).to_dict('records')}
+    data = {data.to_dict('records')}
 
     jawaban pertanyaan berikut berdasarkan informasi diatas yang diolah sesuai reasoning yang masuk akal.
     pertanyaan: Siapa Pemenang pemilu 2024?
@@ -85,7 +86,7 @@ def prompt_qa(data: pd.DataFrame, query: str) -> str:
     return prompt
 
 
-def agent_qa_zero_shot(data: pd.DataFrame, query: str, model_base: str = "gpt-3.5-turbo"):
+def agent_qa_zero_shot(data: pd.DataFrame, query: str, model_base: str = "gpt-3.5-turbo-16k"):
     token_usage = 0
     response_extraction = ""
     try:
@@ -100,7 +101,7 @@ def agent_qa_zero_shot(data: pd.DataFrame, query: str, model_base: str = "gpt-3.
     except Exception as E:
         print(f"[ERROR] - {E}")
         print("Retry with Recursive Func")
-        agent_qa_zero_shot(data, query)
+        # agent_qa_zero_shot(data, query)
     return response_extraction, token_usage
 
     
@@ -131,7 +132,7 @@ def app(data: pd.DataFrame, config: Config):
 
     # QnA section
     # NOTE: Reduce token usage OpenAI Cost :)
-    data_sample = pd.concat([df.sample(5) for _, df in filter_data.groupby("keyword")])
+    data_sample = pd.concat([df.sample(3, replace=False) for _, df in filter_data.groupby("keyword")])
     query = st.sidebar.text_input(label = "Any Question about Election 2024?")
     if query != "":
         response, _ = agent_qa_zero_shot(data = data_sample, query = query)
