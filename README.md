@@ -54,7 +54,7 @@ Gain a comprehensive understanding of the 2024 election in Indonesia through the
  - [Devandra Alandra Wicaksono](https://github.com/DevaraAlandra)
  - [Eko Prasetyo](https://github.com/eko-prstyw)
  - [Yuliana](https://github.com/yuliana4763)
--  [Raphon Galuh B.](https://github.com/RaphonGaluh)
+-  [Raphon Galuh C.](https://github.com/RaphonGaluh)
 
 ## Future Improvements
 
